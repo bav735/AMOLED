@@ -1,5 +1,6 @@
 <Ads formatVersion="3" target="Avito.ru">
 	<Ad>
+		<Id>Samsung Galaxy A3 (2015) 16Gb Black</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -13,6 +14,7 @@
 		<Price>10490</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 5C 16Gb Black</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -26,6 +28,7 @@
 		<Price>11990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 5S 16Gb White</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -39,6 +42,7 @@
 		<Price>14490</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 6 16Gb Gold</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -52,6 +56,7 @@
 		<Price>23490</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 4S 16Gb Red</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -65,6 +70,7 @@
 		<Price>6990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 6 Plus 16Gb Blue</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -78,6 +84,7 @@
 		<Price>28990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 5S 32Gb Green</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -91,6 +98,7 @@
 		<Price>16490</Price>
 	</Ad>
 	<Ad>
+		<Id>Samsung Galaxy S6 Edge 32Gb White</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -104,6 +112,7 @@
 		<Price>27990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 6 64Gb Pink</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -117,6 +126,7 @@
 		<Price>26490</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 6 Plus 16Gb Б/О Purple</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -130,6 +140,7 @@
 		<Price>24490</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 5S 16Gb Б/О Yellow</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -143,6 +154,7 @@
 		<Price>11990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 6 64Gb Б/О Orange</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -156,6 +168,7 @@
 		<Price>21990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 6S 64Gb Brown</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -169,6 +182,7 @@
 		<Price>38990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 5S 32Gb Б/О Olive</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -182,6 +196,7 @@
 		<Price>13990</Price>
 	</Ad>
 	<Ad>
+		<Id>Samsung Galaxy S4 16Gb Gold</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -195,6 +210,7 @@
 		<Price>8990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 6 16Gb Б/О Cyan</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -208,6 +224,7 @@
 		<Price>18990</Price>
 	</Ad>
 	<Ad>
+		<Id>Samsung Galaxy A3 (2015) 16Gb White</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -221,6 +238,7 @@
 		<Price>10490</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 5C 16Gb White</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -234,6 +252,7 @@
 		<Price>11990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 5S 16Gb Gold</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -247,6 +266,7 @@
 		<Price>14490</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 6 16Gb Red</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -260,6 +280,7 @@
 		<Price>23490</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 4S 16Gb Blue</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -273,6 +294,7 @@
 		<Price>6990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 6 Plus 16Gb Green</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -286,6 +308,7 @@
 		<Price>28990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 5S 32Gb Pink</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -299,6 +322,7 @@
 		<Price>16490</Price>
 	</Ad>
 	<Ad>
+		<Id>Samsung Galaxy S6 Edge 32Gb Gold</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -312,6 +336,7 @@
 		<Price>27990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 6 64Gb Purple</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -325,6 +350,7 @@
 		<Price>26490</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 6 Plus 16Gb Б/О Yellow</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -338,6 +364,7 @@
 		<Price>24490</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 5S 16Gb Б/О Orange</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -351,6 +378,7 @@
 		<Price>11990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 6 64Gb Б/О Brown</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -364,6 +392,7 @@
 		<Price>21990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 6S 64Gb Olive</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -377,6 +406,7 @@
 		<Price>38990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 5S 32Gb Б/О Cyan</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -390,6 +420,7 @@
 		<Price>13990</Price>
 	</Ad>
 	<Ad>
+		<Id>Samsung Galaxy S4 16Gb Red</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -403,6 +434,7 @@
 		<Price>8990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 6 16Gb Б/О Violet</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -416,6 +448,7 @@
 		<Price>18990</Price>
 	</Ad>
 	<Ad>
+		<Id>Samsung Galaxy A3 (2015) 16Gb Gold</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -429,6 +462,7 @@
 		<Price>10490</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 5C 16Gb Gold</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -442,6 +476,7 @@
 		<Price>11990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 5S 16Gb Red</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -455,6 +490,7 @@
 		<Price>14490</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 6 16Gb Blue</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -468,6 +504,7 @@
 		<Price>23490</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 4S 16Gb Green</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -481,6 +518,7 @@
 		<Price>6990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 6 Plus 16Gb Pink</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -494,6 +532,7 @@
 		<Price>28990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 5S 32Gb Purple</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -507,6 +546,7 @@
 		<Price>16490</Price>
 	</Ad>
 	<Ad>
+		<Id>Samsung Galaxy S6 Edge 32Gb Red</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -520,6 +560,7 @@
 		<Price>27990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 6 64Gb Yellow</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -533,6 +574,7 @@
 		<Price>26490</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 6 Plus 16Gb Б/О Orange</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -546,6 +588,7 @@
 		<Price>24490</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 5S 16Gb Б/О Brown</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -559,6 +602,7 @@
 		<Price>11990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 6 64Gb Б/О Olive</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -572,6 +616,7 @@
 		<Price>21990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 6S 64Gb Cyan</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -585,6 +630,7 @@
 		<Price>38990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 5S 32Gb Б/О Violet</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -598,6 +644,7 @@
 		<Price>13990</Price>
 	</Ad>
 	<Ad>
+		<Id>Samsung Galaxy S4 16Gb Blue</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -611,6 +658,7 @@
 		<Price>8990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 6 16Gb Б/О Teal</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -624,6 +672,7 @@
 		<Price>18990</Price>
 	</Ad>
 	<Ad>
+		<Id>Samsung Galaxy A3 (2015) 16Gb Red</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -637,6 +686,7 @@
 		<Price>10490</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 5C 16Gb Red</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -650,6 +700,7 @@
 		<Price>11990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 5S 16Gb Blue</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -663,6 +714,7 @@
 		<Price>14490</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 6 16Gb Green</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -676,6 +728,7 @@
 		<Price>23490</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 4S 16Gb Pink</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -689,6 +742,7 @@
 		<Price>6990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 6 Plus 16Gb Purple</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -702,6 +756,7 @@
 		<Price>28990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 5S 32Gb Yellow</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -715,6 +770,7 @@
 		<Price>16490</Price>
 	</Ad>
 	<Ad>
+		<Id>Samsung Galaxy S6 Edge 32Gb Blue</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -728,6 +784,7 @@
 		<Price>27990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 6 64Gb Orange</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -741,6 +798,7 @@
 		<Price>26490</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 6 Plus 16Gb Б/О Brown</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -754,6 +812,7 @@
 		<Price>24490</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 5S 16Gb Б/О Olive</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -767,6 +826,7 @@
 		<Price>11990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 6 64Gb Б/О Cyan</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -780,6 +840,7 @@
 		<Price>21990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 6S 64Gb Violet</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -793,6 +854,7 @@
 		<Price>38990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 5S 32Gb Б/О Teal</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -806,6 +868,7 @@
 		<Price>13990</Price>
 	</Ad>
 	<Ad>
+		<Id>Samsung Galaxy S4 16Gb Green</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -819,6 +882,7 @@
 		<Price>8990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 6 16Gb Б/О Magenta</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -832,6 +896,7 @@
 		<Price>18990</Price>
 	</Ad>
 	<Ad>
+		<Id>Samsung Galaxy A3 (2015) 16Gb Blue</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -845,6 +910,7 @@
 		<Price>10490</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 5C 16Gb Blue</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -858,6 +924,7 @@
 		<Price>11990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 5S 16Gb Green</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -871,6 +938,7 @@
 		<Price>14490</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 6 16Gb Pink</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -884,6 +952,7 @@
 		<Price>23490</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 4S 16Gb Purple</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -897,6 +966,7 @@
 		<Price>6990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 6 Plus 16Gb Yellow</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -910,6 +980,7 @@
 		<Price>28990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 5S 32Gb Orange</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -923,6 +994,7 @@
 		<Price>16490</Price>
 	</Ad>
 	<Ad>
+		<Id>Samsung Galaxy S6 Edge 32Gb Green</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -936,6 +1008,7 @@
 		<Price>27990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 6 64Gb Brown</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -949,6 +1022,7 @@
 		<Price>26490</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 6 Plus 16Gb Б/О Olive</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -962,6 +1036,7 @@
 		<Price>24490</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 5S 16Gb Б/О Cyan</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -975,6 +1050,7 @@
 		<Price>11990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 6 64Gb Б/О Violet</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -988,6 +1064,7 @@
 		<Price>21990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 6S 64Gb Teal</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -1001,6 +1078,7 @@
 		<Price>38990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 5S 32Gb Б/О Magenta</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -1014,6 +1092,7 @@
 		<Price>13990</Price>
 	</Ad>
 	<Ad>
+		<Id>Samsung Galaxy S4 16Gb Pink</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -1027,6 +1106,7 @@
 		<Price>8990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 6 16Gb Б/О Beige</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -1040,6 +1120,7 @@
 		<Price>18990</Price>
 	</Ad>
 	<Ad>
+		<Id>Samsung Galaxy A3 (2015) 16Gb Green</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -1053,6 +1134,7 @@
 		<Price>10490</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 5C 16Gb Green</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -1066,6 +1148,7 @@
 		<Price>11990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 5S 16Gb Pink</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -1079,6 +1162,7 @@
 		<Price>14490</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 6 16Gb Purple</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -1092,6 +1176,7 @@
 		<Price>23490</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 4S 16Gb Yellow</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -1105,6 +1190,7 @@
 		<Price>6990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 6 Plus 16Gb Orange</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -1118,6 +1204,7 @@
 		<Price>28990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 5S 32Gb Brown</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -1131,6 +1218,7 @@
 		<Price>16490</Price>
 	</Ad>
 	<Ad>
+		<Id>Samsung Galaxy S6 Edge 32Gb Pink</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -1144,6 +1232,7 @@
 		<Price>27990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 6 64Gb Olive</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -1157,6 +1246,7 @@
 		<Price>26490</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 6 Plus 16Gb Б/О Cyan</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -1170,6 +1260,7 @@
 		<Price>24490</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 5S 16Gb Б/О Violet</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -1183,6 +1274,7 @@
 		<Price>11990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 6 64Gb Б/О Teal</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -1196,6 +1288,7 @@
 		<Price>21990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 6S 64Gb Magenta</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -1209,6 +1302,7 @@
 		<Price>38990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 5S 32Gb Б/О Beige</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -1222,6 +1316,7 @@
 		<Price>13990</Price>
 	</Ad>
 	<Ad>
+		<Id>Samsung Galaxy S4 16Gb Purple</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -1235,6 +1330,7 @@
 		<Price>8990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 6 16Gb Б/О Salmon</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -1248,6 +1344,7 @@
 		<Price>18990</Price>
 	</Ad>
 	<Ad>
+		<Id>Samsung Galaxy A3 (2015) 16Gb Pink</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -1261,6 +1358,7 @@
 		<Price>10490</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 5C 16Gb Pink</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -1274,6 +1372,7 @@
 		<Price>11990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 5S 16Gb Purple</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -1287,6 +1386,7 @@
 		<Price>14490</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 6 16Gb Yellow</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -1300,6 +1400,7 @@
 		<Price>23490</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 4S 16Gb Orange</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -1313,6 +1414,7 @@
 		<Price>6990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 6 Plus 16Gb Brown</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -1326,6 +1428,7 @@
 		<Price>28990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 5S 32Gb Olive</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -1339,6 +1442,7 @@
 		<Price>16490</Price>
 	</Ad>
 	<Ad>
+		<Id>Samsung Galaxy S6 Edge 32Gb Purple</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -1352,6 +1456,7 @@
 		<Price>27990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 6 64Gb Cyan</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -1365,6 +1470,7 @@
 		<Price>26490</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 6 Plus 16Gb Б/О Violet</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -1378,6 +1484,7 @@
 		<Price>24490</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 5S 16Gb Б/О Teal</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -1391,6 +1498,7 @@
 		<Price>11990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 6 64Gb Б/О Magenta</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -1404,6 +1512,7 @@
 		<Price>21990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 6S 64Gb Beige</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -1417,6 +1526,7 @@
 		<Price>38990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 5S 32Gb Б/О Salmon</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -1430,6 +1540,7 @@
 		<Price>13990</Price>
 	</Ad>
 	<Ad>
+		<Id>Samsung Galaxy S4 16Gb Yellow</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -1443,6 +1554,7 @@
 		<Price>8990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 6 16Gb Б/О Plum</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -1456,6 +1568,7 @@
 		<Price>18990</Price>
 	</Ad>
 	<Ad>
+		<Id>Samsung Galaxy A3 (2015) 16Gb Purple</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -1469,6 +1582,7 @@
 		<Price>10490</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 5C 16Gb Purple</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -1482,6 +1596,7 @@
 		<Price>11990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 5S 16Gb Yellow</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -1495,6 +1610,7 @@
 		<Price>14490</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 6 16Gb Orange</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -1508,6 +1624,7 @@
 		<Price>23490</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 4S 16Gb Brown</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -1521,6 +1638,7 @@
 		<Price>6990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 6 Plus 16Gb Olive</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -1534,6 +1652,7 @@
 		<Price>28990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 5S 32Gb Cyan</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -1547,6 +1666,7 @@
 		<Price>16490</Price>
 	</Ad>
 	<Ad>
+		<Id>Samsung Galaxy S6 Edge 32Gb Yellow</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -1560,6 +1680,7 @@
 		<Price>27990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 6 64Gb Violet</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -1573,6 +1694,7 @@
 		<Price>26490</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 6 Plus 16Gb Б/О Teal</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -1586,6 +1708,7 @@
 		<Price>24490</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 5S 16Gb Б/О Magenta</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -1599,6 +1722,7 @@
 		<Price>11990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 6 64Gb Б/О Beige</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -1612,6 +1736,7 @@
 		<Price>21990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 6S 64Gb Salmon</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -1625,6 +1750,7 @@
 		<Price>38990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 5S 32Gb Б/О Plum</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -1638,6 +1764,7 @@
 		<Price>13990</Price>
 	</Ad>
 	<Ad>
+		<Id>Samsung Galaxy S4 16Gb Orange</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -1651,6 +1778,7 @@
 		<Price>8990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 6 16Gb Б/О Lime</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -1664,6 +1792,7 @@
 		<Price>18990</Price>
 	</Ad>
 	<Ad>
+		<Id>Samsung Galaxy A3 (2015) 16Gb Yellow</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -1677,6 +1806,7 @@
 		<Price>10490</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 5C 16Gb Yellow</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -1690,6 +1820,7 @@
 		<Price>11990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 5S 16Gb Orange</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -1703,6 +1834,7 @@
 		<Price>14490</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 6 16Gb Brown</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -1716,6 +1848,7 @@
 		<Price>23490</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 4S 16Gb Olive</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -1729,6 +1862,7 @@
 		<Price>6990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 6 Plus 16Gb Cyan</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -1742,6 +1876,7 @@
 		<Price>28990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 5S 32Gb Violet</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -1755,6 +1890,7 @@
 		<Price>16490</Price>
 	</Ad>
 	<Ad>
+		<Id>Samsung Galaxy S6 Edge 32Gb Orange</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -1768,6 +1904,7 @@
 		<Price>27990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 6 64Gb Teal</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -1781,6 +1918,7 @@
 		<Price>26490</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 6 Plus 16Gb Б/О Magenta</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -1794,6 +1932,7 @@
 		<Price>24490</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 5S 16Gb Б/О Beige</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -1807,6 +1946,7 @@
 		<Price>11990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 6 64Gb Б/О Salmon</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -1820,6 +1960,7 @@
 		<Price>21990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 6S 64Gb Plum</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -1833,6 +1974,7 @@
 		<Price>38990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 5S 32Gb Б/О Lime</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -1846,6 +1988,7 @@
 		<Price>13990</Price>
 	</Ad>
 	<Ad>
+		<Id>Samsung Galaxy S4 16Gb Brown</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -1859,6 +2002,7 @@
 		<Price>8990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 6 16Gb Б/О Coral</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -1872,6 +2016,7 @@
 		<Price>18990</Price>
 	</Ad>
 	<Ad>
+		<Id>Samsung Galaxy A3 (2015) 16Gb Orange</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -1885,6 +2030,7 @@
 		<Price>10490</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 5C 16Gb Orange</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -1898,6 +2044,7 @@
 		<Price>11990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 5S 16Gb Brown</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -1911,6 +2058,7 @@
 		<Price>14490</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 6 16Gb Olive</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -1924,6 +2072,7 @@
 		<Price>23490</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 4S 16Gb Cyan</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -1937,6 +2086,7 @@
 		<Price>6990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 6 Plus 16Gb Violet</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -1950,6 +2100,7 @@
 		<Price>28990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 5S 32Gb Teal</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -1963,6 +2114,7 @@
 		<Price>16490</Price>
 	</Ad>
 	<Ad>
+		<Id>Samsung Galaxy S6 Edge 32Gb Brown</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -1976,6 +2128,7 @@
 		<Price>27990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 6 64Gb Magenta</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -1989,6 +2142,7 @@
 		<Price>26490</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 6 Plus 16Gb Б/О Beige</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -2002,6 +2156,7 @@
 		<Price>24490</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 5S 16Gb Б/О Salmon</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -2015,6 +2170,7 @@
 		<Price>11990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 6 64Gb Б/О Plum</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -2028,6 +2184,7 @@
 		<Price>21990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 6S 64Gb Lime</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -2041,6 +2198,7 @@
 		<Price>38990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 5S 32Gb Б/О Coral</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -2054,6 +2212,7 @@
 		<Price>13990</Price>
 	</Ad>
 	<Ad>
+		<Id>Samsung Galaxy S4 16Gb Olive</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -2067,6 +2226,7 @@
 		<Price>8990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 6 16Gb Б/О Indigo</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -2080,6 +2240,7 @@
 		<Price>18990</Price>
 	</Ad>
 	<Ad>
+		<Id>Samsung Galaxy A3 (2015) 16Gb Brown</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -2093,6 +2254,7 @@
 		<Price>10490</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 5C 16Gb Brown</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -2106,6 +2268,7 @@
 		<Price>11990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 5S 16Gb Olive</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -2119,6 +2282,7 @@
 		<Price>14490</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 6 16Gb Cyan</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -2132,6 +2296,7 @@
 		<Price>23490</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 4S 16Gb Violet</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -2145,6 +2310,7 @@
 		<Price>6990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 6 Plus 16Gb Teal</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -2158,6 +2324,7 @@
 		<Price>28990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 5S 32Gb Magenta</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -2171,6 +2338,7 @@
 		<Price>16490</Price>
 	</Ad>
 	<Ad>
+		<Id>Samsung Galaxy S6 Edge 32Gb Olive</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -2184,6 +2352,7 @@
 		<Price>27990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 6 64Gb Beige</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -2197,6 +2366,7 @@
 		<Price>26490</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 6 Plus 16Gb Б/О Salmon</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -2210,6 +2380,7 @@
 		<Price>24490</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 5S 16Gb Б/О Plum</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -2223,6 +2394,7 @@
 		<Price>11990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 6 64Gb Б/О Lime</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -2236,6 +2408,7 @@
 		<Price>21990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 6S 64Gb Coral</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -2249,6 +2422,7 @@
 		<Price>38990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 5S 32Gb Б/О Indigo</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -2262,6 +2436,7 @@
 		<Price>13990</Price>
 	</Ad>
 	<Ad>
+		<Id>Samsung Galaxy S4 16Gb Cyan</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -2275,6 +2450,7 @@
 		<Price>8990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 6 16Gb Б/О Crimson</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -2288,6 +2464,7 @@
 		<Price>18990</Price>
 	</Ad>
 	<Ad>
+		<Id>Samsung Galaxy A3 (2015) 16Gb Olive</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -2301,6 +2478,7 @@
 		<Price>10490</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 5C 16Gb Olive</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -2314,6 +2492,7 @@
 		<Price>11990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 5S 16Gb Cyan</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -2327,6 +2506,7 @@
 		<Price>14490</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 6 16Gb Violet</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -2340,6 +2520,7 @@
 		<Price>23490</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 4S 16Gb Teal</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -2353,6 +2534,7 @@
 		<Price>6990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 6 Plus 16Gb Magenta</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -2366,6 +2548,7 @@
 		<Price>28990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 5S 32Gb Beige</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -2379,6 +2562,7 @@
 		<Price>16490</Price>
 	</Ad>
 	<Ad>
+		<Id>Samsung Galaxy S6 Edge 32Gb Cyan</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -2392,6 +2576,7 @@
 		<Price>27990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 6 64Gb Salmon</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -2405,6 +2590,7 @@
 		<Price>26490</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 6 Plus 16Gb Б/О Plum</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -2418,6 +2604,7 @@
 		<Price>24490</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 5S 16Gb Б/О Lime</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -2431,6 +2618,7 @@
 		<Price>11990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 6 64Gb Б/О Coral</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -2444,6 +2632,7 @@
 		<Price>21990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 6S 64Gb Indigo</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -2457,6 +2646,7 @@
 		<Price>38990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 5S 32Gb Б/О Crimson</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -2470,6 +2660,7 @@
 		<Price>13990</Price>
 	</Ad>
 	<Ad>
+		<Id>Samsung Galaxy S4 16Gb Violet</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -2483,6 +2674,7 @@
 		<Price>8990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 6 16Gb Б/О Choco</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -2496,6 +2688,7 @@
 		<Price>18990</Price>
 	</Ad>
 	<Ad>
+		<Id>Samsung Galaxy A3 (2015) 16Gb Cyan</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -2509,6 +2702,7 @@
 		<Price>10490</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 5C 16Gb Cyan</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -2522,6 +2716,7 @@
 		<Price>11990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 5S 16Gb Violet</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -2535,6 +2730,7 @@
 		<Price>14490</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 6 16Gb Teal</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -2548,6 +2744,7 @@
 		<Price>23490</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 4S 16Gb Magenta</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -2561,6 +2758,7 @@
 		<Price>6990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 6 Plus 16Gb Beige</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -2574,6 +2772,7 @@
 		<Price>28990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 5S 32Gb Salmon</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -2587,6 +2786,7 @@
 		<Price>16490</Price>
 	</Ad>
 	<Ad>
+		<Id>Samsung Galaxy S6 Edge 32Gb Violet</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -2600,6 +2800,7 @@
 		<Price>27990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 6 64Gb Plum</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -2613,6 +2814,7 @@
 		<Price>26490</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 6 Plus 16Gb Б/О Lime</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -2626,6 +2828,7 @@
 		<Price>24490</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 5S 16Gb Б/О Coral</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -2639,6 +2842,7 @@
 		<Price>11990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 6 64Gb Б/О Indigo</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -2652,6 +2856,7 @@
 		<Price>21990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 6S 64Gb Crimson</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -2665,6 +2870,7 @@
 		<Price>38990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 5S 32Gb Б/О Choco</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -2678,6 +2884,7 @@
 		<Price>13990</Price>
 	</Ad>
 	<Ad>
+		<Id>Samsung Galaxy S4 16Gb Teal</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -2691,6 +2898,7 @@
 		<Price>8990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 6 16Gb Б/О Azure</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -2704,6 +2912,7 @@
 		<Price>18990</Price>
 	</Ad>
 	<Ad>
+		<Id>Samsung Galaxy A3 (2015) 16Gb Violet</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -2717,6 +2926,7 @@
 		<Price>10490</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 5C 16Gb Violet</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -2730,6 +2940,7 @@
 		<Price>11990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 5S 16Gb Teal</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -2743,6 +2954,7 @@
 		<Price>14490</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 6 16Gb Magenta</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -2756,6 +2968,7 @@
 		<Price>23490</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 4S 16Gb Beige</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -2769,6 +2982,7 @@
 		<Price>6990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 6 Plus 16Gb Salmon</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -2782,6 +2996,7 @@
 		<Price>28990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 5S 32Gb Plum</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -2795,6 +3010,7 @@
 		<Price>16490</Price>
 	</Ad>
 	<Ad>
+		<Id>Samsung Galaxy S6 Edge 32Gb Teal</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -2808,6 +3024,7 @@
 		<Price>27990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 6 64Gb Lime</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -2821,6 +3038,7 @@
 		<Price>26490</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 6 Plus 16Gb Б/О Coral</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -2834,6 +3052,7 @@
 		<Price>24490</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 5S 16Gb Б/О Indigo</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -2847,6 +3066,7 @@
 		<Price>11990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 6 64Gb Б/О Crimson</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -2860,6 +3080,7 @@
 		<Price>21990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 6S 64Gb Choco</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -2873,6 +3094,7 @@
 		<Price>38990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 5S 32Gb Б/О Azure</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -2886,6 +3108,7 @@
 		<Price>13990</Price>
 	</Ad>
 	<Ad>
+		<Id>Samsung Galaxy S4 16Gb Magenta</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -2899,6 +3122,7 @@
 		<Price>8990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 6 16Gb Б/О Aqua</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -2912,6 +3136,7 @@
 		<Price>18990</Price>
 	</Ad>
 	<Ad>
+		<Id>Samsung Galaxy A3 (2015) 16Gb Teal</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -2925,6 +3150,7 @@
 		<Price>10490</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 5C 16Gb Teal</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -2938,6 +3164,7 @@
 		<Price>11990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 5S 16Gb Magenta</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -2951,6 +3178,7 @@
 		<Price>14490</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 6 16Gb Beige</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -2964,6 +3192,7 @@
 		<Price>23490</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 4S 16Gb Salmon</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -2977,6 +3206,7 @@
 		<Price>6990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 6 Plus 16Gb Plum</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -2990,6 +3220,7 @@
 		<Price>28990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 5S 32Gb Lime</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -3003,6 +3234,7 @@
 		<Price>16490</Price>
 	</Ad>
 	<Ad>
+		<Id>Samsung Galaxy S6 Edge 32Gb Magenta</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -3016,6 +3248,7 @@
 		<Price>27990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 6 64Gb Coral</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -3029,6 +3262,7 @@
 		<Price>26490</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 6 Plus 16Gb Б/О Indigo</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -3042,6 +3276,7 @@
 		<Price>24490</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 5S 16Gb Б/О Crimson</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -3055,6 +3290,7 @@
 		<Price>11990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 6 64Gb Б/О Choco</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -3068,6 +3304,7 @@
 		<Price>21990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 6S 64Gb Azure</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -3081,6 +3318,7 @@
 		<Price>38990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 5S 32Gb Б/О Aqua</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -3094,6 +3332,7 @@
 		<Price>13990</Price>
 	</Ad>
 	<Ad>
+		<Id>Samsung Galaxy S4 16Gb Beige</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -3107,6 +3346,7 @@
 		<Price>8990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 6 16Gb Б/О Khaki</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -3120,6 +3360,7 @@
 		<Price>18990</Price>
 	</Ad>
 	<Ad>
+		<Id>Samsung Galaxy A3 (2015) 16Gb Magenta</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -3133,6 +3374,7 @@
 		<Price>10490</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 5C 16Gb Magenta</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -3146,6 +3388,7 @@
 		<Price>11990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 5S 16Gb Beige</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -3159,6 +3402,7 @@
 		<Price>14490</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 6 16Gb Salmon</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -3172,6 +3416,7 @@
 		<Price>23490</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 4S 16Gb Plum</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -3185,6 +3430,7 @@
 		<Price>6990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 6 Plus 16Gb Lime</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -3198,6 +3444,7 @@
 		<Price>28990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 5S 32Gb Coral</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -3211,6 +3458,7 @@
 		<Price>16490</Price>
 	</Ad>
 	<Ad>
+		<Id>Samsung Galaxy S6 Edge 32Gb Beige</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -3224,6 +3472,7 @@
 		<Price>27990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 6 64Gb Indigo</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -3237,6 +3486,7 @@
 		<Price>26490</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 6 Plus 16Gb Б/О Crimson</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -3250,6 +3500,7 @@
 		<Price>24490</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 5S 16Gb Б/О Choco</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -3263,6 +3514,7 @@
 		<Price>11990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 6 64Gb Б/О Azure</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -3276,6 +3528,7 @@
 		<Price>21990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 6S 64Gb Aqua</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -3289,6 +3542,7 @@
 		<Price>38990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 5S 32Gb Б/О Khaki</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -3302,6 +3556,7 @@
 		<Price>13990</Price>
 	</Ad>
 	<Ad>
+		<Id>Samsung Galaxy S4 16Gb Salmon</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -3315,6 +3570,7 @@
 		<Price>8990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 6 16Gb Б/О Peach</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -3328,6 +3584,7 @@
 		<Price>18990</Price>
 	</Ad>
 	<Ad>
+		<Id>Samsung Galaxy A3 (2015) 16Gb Beige</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -3341,6 +3598,7 @@
 		<Price>10490</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 5C 16Gb Beige</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -3354,6 +3612,7 @@
 		<Price>11990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 5S 16Gb Salmon</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -3367,6 +3626,7 @@
 		<Price>14490</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 6 16Gb Plum</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -3380,6 +3640,7 @@
 		<Price>23490</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 4S 16Gb Lime</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -3393,6 +3654,7 @@
 		<Price>6990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 6 Plus 16Gb Coral</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -3406,6 +3668,7 @@
 		<Price>28990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 5S 32Gb Indigo</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -3419,6 +3682,7 @@
 		<Price>16490</Price>
 	</Ad>
 	<Ad>
+		<Id>Samsung Galaxy S6 Edge 32Gb Salmon</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -3432,6 +3696,7 @@
 		<Price>27990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 6 64Gb Crimson</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -3445,6 +3710,7 @@
 		<Price>26490</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 6 Plus 16Gb Б/О Choco</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -3458,6 +3724,7 @@
 		<Price>24490</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 5S 16Gb Б/О Azure</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -3471,6 +3738,7 @@
 		<Price>11990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 6 64Gb Б/О Aqua</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -3484,6 +3752,7 @@
 		<Price>21990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 6S 64Gb Khaki</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -3497,6 +3766,7 @@
 		<Price>38990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 5S 32Gb Б/О Peach</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -3510,6 +3780,7 @@
 		<Price>13990</Price>
 	</Ad>
 	<Ad>
+		<Id>Samsung Galaxy S4 16Gb Plum</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -3523,6 +3794,7 @@
 		<Price>8990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 6 16Gb Б/О Maroon</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -3536,6 +3808,7 @@
 		<Price>18990</Price>
 	</Ad>
 	<Ad>
+		<Id>Samsung Galaxy A3 (2015) 16Gb Salmon</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -3549,6 +3822,7 @@
 		<Price>10490</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 5C 16Gb Salmon</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -3562,6 +3836,7 @@
 		<Price>11990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 5S 16Gb Plum</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -3575,6 +3850,7 @@
 		<Price>14490</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 6 16Gb Lime</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -3588,6 +3864,7 @@
 		<Price>23490</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 4S 16Gb Coral</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -3601,6 +3878,7 @@
 		<Price>6990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 6 Plus 16Gb Indigo</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -3614,6 +3892,7 @@
 		<Price>28990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 5S 32Gb Crimson</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -3627,6 +3906,7 @@
 		<Price>16490</Price>
 	</Ad>
 	<Ad>
+		<Id>Samsung Galaxy S6 Edge 32Gb Plum</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -3640,6 +3920,7 @@
 		<Price>27990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 6 64Gb Choco</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -3653,6 +3934,7 @@
 		<Price>26490</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 6 Plus 16Gb Б/О Azure</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -3666,6 +3948,7 @@
 		<Price>24490</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 5S 16Gb Б/О Aqua</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -3679,6 +3962,7 @@
 		<Price>11990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 6 64Gb Б/О Khaki</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -3692,6 +3976,7 @@
 		<Price>21990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 6S 64Gb Peach</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -3705,6 +3990,7 @@
 		<Price>38990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 5S 32Gb Б/О Maroon</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -3718,6 +4004,7 @@
 		<Price>13990</Price>
 	</Ad>
 	<Ad>
+		<Id>Samsung Galaxy S4 16Gb Lime</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -3731,6 +4018,7 @@
 		<Price>8990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 6 16Gb Б/О Sandy</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -3744,6 +4032,7 @@
 		<Price>18990</Price>
 	</Ad>
 	<Ad>
+		<Id>Samsung Galaxy A3 (2015) 16Gb Plum</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -3757,6 +4046,7 @@
 		<Price>10490</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 5C 16Gb Plum</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -3770,6 +4060,7 @@
 		<Price>11990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 5S 16Gb Lime</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -3783,6 +4074,7 @@
 		<Price>14490</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 6 16Gb Coral</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -3796,6 +4088,7 @@
 		<Price>23490</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 4S 16Gb Indigo</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -3809,6 +4102,7 @@
 		<Price>6990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 6 Plus 16Gb Crimson</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -3822,6 +4116,7 @@
 		<Price>28990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 5S 32Gb Choco</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -3835,6 +4130,7 @@
 		<Price>16490</Price>
 	</Ad>
 	<Ad>
+		<Id>Samsung Galaxy S6 Edge 32Gb Lime</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -3848,6 +4144,7 @@
 		<Price>27990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 6 64Gb Azure</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -3861,6 +4158,7 @@
 		<Price>26490</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 6 Plus 16Gb Б/О Aqua</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -3874,6 +4172,7 @@
 		<Price>24490</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 5S 16Gb Б/О Khaki</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -3887,6 +4186,7 @@
 		<Price>11990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 6 64Gb Б/О Peach</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -3900,6 +4200,7 @@
 		<Price>21990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 6S 64Gb Maroon</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -3913,6 +4214,7 @@
 		<Price>38990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 5S 32Gb Б/О Sandy</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -3926,6 +4228,7 @@
 		<Price>13990</Price>
 	</Ad>
 	<Ad>
+		<Id>Samsung Galaxy S4 16Gb Coral</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -3939,6 +4242,7 @@
 		<Price>8990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 6 16Gb Б/О Black</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -3952,6 +4256,7 @@
 		<Price>18990</Price>
 	</Ad>
 	<Ad>
+		<Id>Samsung Galaxy A3 (2015) 16Gb Lime</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -3965,6 +4270,7 @@
 		<Price>10490</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 5C 16Gb Lime</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -3978,6 +4284,7 @@
 		<Price>11990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 5S 16Gb Coral</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -3991,6 +4298,7 @@
 		<Price>14490</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 6 16Gb Indigo</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -4004,6 +4312,7 @@
 		<Price>23490</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 4S 16Gb Crimson</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -4017,6 +4326,7 @@
 		<Price>6990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 6 Plus 16Gb Choco</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -4030,6 +4340,7 @@
 		<Price>28990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 5S 32Gb Azure</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -4043,6 +4354,7 @@
 		<Price>16490</Price>
 	</Ad>
 	<Ad>
+		<Id>Samsung Galaxy S6 Edge 32Gb Coral</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -4056,6 +4368,7 @@
 		<Price>27990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 6 64Gb Aqua</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -4069,6 +4382,7 @@
 		<Price>26490</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 6 Plus 16Gb Б/О Khaki</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -4082,6 +4396,7 @@
 		<Price>24490</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 5S 16Gb Б/О Peach</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -4095,6 +4410,7 @@
 		<Price>11990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 6 64Gb Б/О Maroon</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -4108,6 +4424,7 @@
 		<Price>21990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 6S 64Gb Sandy</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -4121,6 +4438,7 @@
 		<Price>38990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 5S 32Gb Б/О Black</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -4134,6 +4452,7 @@
 		<Price>13990</Price>
 	</Ad>
 	<Ad>
+		<Id>Samsung Galaxy S4 16Gb Indigo</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -4147,6 +4466,7 @@
 		<Price>8990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 6 16Gb Б/О White</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -4160,6 +4480,7 @@
 		<Price>18990</Price>
 	</Ad>
 	<Ad>
+		<Id>Samsung Galaxy A3 (2015) 16Gb Coral</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -4173,6 +4494,7 @@
 		<Price>10490</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 5C 16Gb Coral</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -4186,6 +4508,7 @@
 		<Price>11990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 5S 16Gb Indigo</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -4199,6 +4522,7 @@
 		<Price>14490</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 6 16Gb Crimson</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -4212,6 +4536,7 @@
 		<Price>23490</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 4S 16Gb Choco</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -4225,6 +4550,7 @@
 		<Price>6990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 6 Plus 16Gb Azure</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -4238,6 +4564,7 @@
 		<Price>28990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 5S 32Gb Aqua</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -4251,6 +4578,7 @@
 		<Price>16490</Price>
 	</Ad>
 	<Ad>
+		<Id>Samsung Galaxy S6 Edge 32Gb Indigo</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -4264,6 +4592,7 @@
 		<Price>27990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 6 64Gb Khaki</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -4277,6 +4606,7 @@
 		<Price>26490</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 6 Plus 16Gb Б/О Peach</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -4290,6 +4620,7 @@
 		<Price>24490</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 5S 16Gb Б/О Maroon</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -4303,6 +4634,7 @@
 		<Price>11990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 6 64Gb Б/О Sandy</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -4316,6 +4648,7 @@
 		<Price>21990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 6S 64Gb Black</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -4329,6 +4662,7 @@
 		<Price>38990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 5S 32Gb Б/О White</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -4342,6 +4676,7 @@
 		<Price>13990</Price>
 	</Ad>
 	<Ad>
+		<Id>Samsung Galaxy S4 16Gb Crimson</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -4355,6 +4690,7 @@
 		<Price>8990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 6 16Gb Б/О Gold</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -4368,6 +4704,7 @@
 		<Price>18990</Price>
 	</Ad>
 	<Ad>
+		<Id>Samsung Galaxy A3 (2015) 16Gb Indigo</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -4381,6 +4718,7 @@
 		<Price>10490</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 5C 16Gb Indigo</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -4394,6 +4732,7 @@
 		<Price>11990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 5S 16Gb Crimson</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -4407,6 +4746,7 @@
 		<Price>14490</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 6 16Gb Choco</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -4420,6 +4760,7 @@
 		<Price>23490</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 4S 16Gb Azure</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -4433,6 +4774,7 @@
 		<Price>6990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 6 Plus 16Gb Aqua</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -4446,6 +4788,7 @@
 		<Price>28990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 5S 32Gb Khaki</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -4459,6 +4802,7 @@
 		<Price>16490</Price>
 	</Ad>
 	<Ad>
+		<Id>Samsung Galaxy S6 Edge 32Gb Crimson</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -4472,6 +4816,7 @@
 		<Price>27990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 6 64Gb Peach</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -4485,6 +4830,7 @@
 		<Price>26490</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 6 Plus 16Gb Б/О Maroon</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -4498,6 +4844,7 @@
 		<Price>24490</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 5S 16Gb Б/О Sandy</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -4511,6 +4858,7 @@
 		<Price>11990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 6 64Gb Б/О Black</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -4524,6 +4872,7 @@
 		<Price>21990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 6S 64Gb White</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -4537,6 +4886,7 @@
 		<Price>38990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 5S 32Gb Б/О Gold</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -4550,6 +4900,7 @@
 		<Price>13990</Price>
 	</Ad>
 	<Ad>
+		<Id>Samsung Galaxy S4 16Gb Choco</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -4563,6 +4914,7 @@
 		<Price>8990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 6 16Gb Б/О Red</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -4576,6 +4928,7 @@
 		<Price>18990</Price>
 	</Ad>
 	<Ad>
+		<Id>Samsung Galaxy A3 (2015) 16Gb Crimson</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -4589,6 +4942,7 @@
 		<Price>10490</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 5C 16Gb Crimson</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -4602,6 +4956,7 @@
 		<Price>11990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 5S 16Gb Choco</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -4615,6 +4970,7 @@
 		<Price>14490</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 6 16Gb Azure</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -4628,6 +4984,7 @@
 		<Price>23490</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 4S 16Gb Aqua</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -4641,6 +4998,7 @@
 		<Price>6990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 6 Plus 16Gb Khaki</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -4654,6 +5012,7 @@
 		<Price>28990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 5S 32Gb Peach</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -4667,6 +5026,7 @@
 		<Price>16490</Price>
 	</Ad>
 	<Ad>
+		<Id>Samsung Galaxy S6 Edge 32Gb Choco</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -4680,6 +5040,7 @@
 		<Price>27990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 6 64Gb Maroon</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -4693,6 +5054,7 @@
 		<Price>26490</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 6 Plus 16Gb Б/О Sandy</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -4706,6 +5068,7 @@
 		<Price>24490</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 5S 16Gb Б/О Black</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -4719,6 +5082,7 @@
 		<Price>11990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 6 64Gb Б/О White</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -4732,6 +5096,7 @@
 		<Price>21990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 6S 64Gb Gold</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -4745,6 +5110,7 @@
 		<Price>38990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 5S 32Gb Б/О Red</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -4758,6 +5124,7 @@
 		<Price>13990</Price>
 	</Ad>
 	<Ad>
+		<Id>Samsung Galaxy S4 16Gb Azure</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -4771,6 +5138,7 @@
 		<Price>8990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 6 16Gb Б/О Blue</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -4784,6 +5152,7 @@
 		<Price>18990</Price>
 	</Ad>
 	<Ad>
+		<Id>Samsung Galaxy A3 (2015) 16Gb Choco</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -4797,6 +5166,7 @@
 		<Price>10490</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 5C 16Gb Choco</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -4810,6 +5180,7 @@
 		<Price>11990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 5S 16Gb Azure</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -4823,6 +5194,7 @@
 		<Price>14490</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 6 16Gb Aqua</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -4836,6 +5208,7 @@
 		<Price>23490</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 4S 16Gb Khaki</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -4849,6 +5222,7 @@
 		<Price>6990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 6 Plus 16Gb Peach</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -4862,6 +5236,7 @@
 		<Price>28990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 5S 32Gb Maroon</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -4875,6 +5250,7 @@
 		<Price>16490</Price>
 	</Ad>
 	<Ad>
+		<Id>Samsung Galaxy S6 Edge 32Gb Azure</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -4888,6 +5264,7 @@
 		<Price>27990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 6 64Gb Sandy</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -4901,6 +5278,7 @@
 		<Price>26490</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 6 Plus 16Gb Б/О Black</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -4914,6 +5292,7 @@
 		<Price>24490</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 5S 16Gb Б/О White</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -4927,6 +5306,7 @@
 		<Price>11990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 6 64Gb Б/О Gold</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -4940,6 +5320,7 @@
 		<Price>21990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 6S 64Gb Red</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -4953,6 +5334,7 @@
 		<Price>38990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 5S 32Gb Б/О Blue</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -4966,6 +5348,7 @@
 		<Price>13990</Price>
 	</Ad>
 	<Ad>
+		<Id>Samsung Galaxy S4 16Gb Aqua</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -4979,6 +5362,7 @@
 		<Price>8990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 6 16Gb Б/О Green</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -4992,6 +5376,7 @@
 		<Price>18990</Price>
 	</Ad>
 	<Ad>
+		<Id>Samsung Galaxy A3 (2015) 16Gb Azure</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -5005,6 +5390,7 @@
 		<Price>10490</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 5C 16Gb Azure</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -5018,6 +5404,7 @@
 		<Price>11990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 5S 16Gb Aqua</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -5031,6 +5418,7 @@
 		<Price>14490</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 6 16Gb Khaki</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -5044,6 +5432,7 @@
 		<Price>23490</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 4S 16Gb Peach</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -5057,6 +5446,7 @@
 		<Price>6990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 6 Plus 16Gb Maroon</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -5070,6 +5460,7 @@
 		<Price>28990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 5S 32Gb Sandy</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -5083,6 +5474,7 @@
 		<Price>16490</Price>
 	</Ad>
 	<Ad>
+		<Id>Samsung Galaxy S6 Edge 32Gb Aqua</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -5096,6 +5488,7 @@
 		<Price>27990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 6 64Gb Black</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -5109,6 +5502,7 @@
 		<Price>26490</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 6 Plus 16Gb Б/О White</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -5122,6 +5516,7 @@
 		<Price>24490</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 5S 16Gb Б/О Gold</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -5135,6 +5530,7 @@
 		<Price>11990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 6 64Gb Б/О Red</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -5148,6 +5544,7 @@
 		<Price>21990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 6S 64Gb Blue</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -5161,6 +5558,7 @@
 		<Price>38990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 5S 32Gb Б/О Green</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -5174,6 +5572,7 @@
 		<Price>13990</Price>
 	</Ad>
 	<Ad>
+		<Id>Samsung Galaxy S4 16Gb Khaki</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -5187,6 +5586,7 @@
 		<Price>8990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 6 16Gb Б/О Pink</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -5200,6 +5600,7 @@
 		<Price>18990</Price>
 	</Ad>
 	<Ad>
+		<Id>Samsung Galaxy A3 (2015) 16Gb Aqua</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -5213,6 +5614,7 @@
 		<Price>10490</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 5C 16Gb Aqua</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -5226,6 +5628,7 @@
 		<Price>11990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 5S 16Gb Khaki</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -5239,6 +5642,7 @@
 		<Price>14490</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 6 16Gb Peach</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -5252,6 +5656,7 @@
 		<Price>23490</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 4S 16Gb Maroon</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -5265,6 +5670,7 @@
 		<Price>6990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 6 Plus 16Gb Sandy</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -5278,6 +5684,7 @@
 		<Price>28990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 5S 32Gb Black</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -5291,6 +5698,7 @@
 		<Price>16490</Price>
 	</Ad>
 	<Ad>
+		<Id>Samsung Galaxy S6 Edge 32Gb Khaki</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -5304,6 +5712,7 @@
 		<Price>27990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 6 64Gb White</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -5317,6 +5726,7 @@
 		<Price>26490</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 6 Plus 16Gb Б/О Gold</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -5330,6 +5740,7 @@
 		<Price>24490</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 5S 16Gb Б/О Red</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -5343,6 +5754,7 @@
 		<Price>11990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 6 64Gb Б/О Blue</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -5356,6 +5768,7 @@
 		<Price>21990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 6S 64Gb Green</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -5369,6 +5782,7 @@
 		<Price>38990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 5S 32Gb Б/О Pink</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -5382,6 +5796,7 @@
 		<Price>13990</Price>
 	</Ad>
 	<Ad>
+		<Id>Samsung Galaxy S4 16Gb Peach</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -5395,6 +5810,7 @@
 		<Price>8990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 6 16Gb Б/О Purple</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -5408,6 +5824,7 @@
 		<Price>18990</Price>
 	</Ad>
 	<Ad>
+		<Id>Samsung Galaxy A3 (2015) 16Gb Khaki</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -5421,6 +5838,7 @@
 		<Price>10490</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 5C 16Gb Khaki</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -5434,6 +5852,7 @@
 		<Price>11990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 5S 16Gb Peach</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -5447,6 +5866,7 @@
 		<Price>14490</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 6 16Gb Maroon</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -5460,6 +5880,7 @@
 		<Price>23490</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 4S 16Gb Sandy</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -5473,6 +5894,7 @@
 		<Price>6990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 6 Plus 16Gb Black</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -5486,6 +5908,7 @@
 		<Price>28990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 5S 32Gb White</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -5499,6 +5922,7 @@
 		<Price>16490</Price>
 	</Ad>
 	<Ad>
+		<Id>Samsung Galaxy S6 Edge 32Gb Peach</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -5512,6 +5936,7 @@
 		<Price>27990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 6 64Gb Gold</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -5525,6 +5950,7 @@
 		<Price>26490</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 6 Plus 16Gb Б/О Red</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -5538,6 +5964,7 @@
 		<Price>24490</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 5S 16Gb Б/О Blue</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -5551,6 +5978,7 @@
 		<Price>11990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 6 64Gb Б/О Green</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -5564,6 +5992,7 @@
 		<Price>21990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 6S 64Gb Pink</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -5577,6 +6006,7 @@
 		<Price>38990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 5S 32Gb Б/О Purple</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -5590,6 +6020,7 @@
 		<Price>13990</Price>
 	</Ad>
 	<Ad>
+		<Id>Samsung Galaxy S4 16Gb Maroon</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -5603,6 +6034,7 @@
 		<Price>8990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 6 16Gb Б/О Yellow</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -5616,6 +6048,7 @@
 		<Price>18990</Price>
 	</Ad>
 	<Ad>
+		<Id>Samsung Galaxy A3 (2015) 16Gb Peach</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -5629,6 +6062,7 @@
 		<Price>10490</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 5C 16Gb Peach</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -5642,6 +6076,7 @@
 		<Price>11990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 5S 16Gb Maroon</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -5655,6 +6090,7 @@
 		<Price>14490</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 6 16Gb Sandy</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -5668,6 +6104,7 @@
 		<Price>23490</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 4S 16Gb Black</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -5681,6 +6118,7 @@
 		<Price>6990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 6 Plus 16Gb White</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -5694,6 +6132,7 @@
 		<Price>28990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 5S 32Gb Gold</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -5707,6 +6146,7 @@
 		<Price>16490</Price>
 	</Ad>
 	<Ad>
+		<Id>Samsung Galaxy S6 Edge 32Gb Maroon</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -5720,6 +6160,7 @@
 		<Price>27990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 6 64Gb Red</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -5733,6 +6174,7 @@
 		<Price>26490</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 6 Plus 16Gb Б/О Blue</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -5746,6 +6188,7 @@
 		<Price>24490</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 5S 16Gb Б/О Green</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -5759,6 +6202,7 @@
 		<Price>11990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 6 64Gb Б/О Pink</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -5772,6 +6216,7 @@
 		<Price>21990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 6S 64Gb Purple</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -5785,6 +6230,7 @@
 		<Price>38990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 5S 32Gb Б/О Yellow</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -5798,6 +6244,7 @@
 		<Price>13990</Price>
 	</Ad>
 	<Ad>
+		<Id>Samsung Galaxy S4 16Gb Sandy</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -5811,6 +6258,7 @@
 		<Price>8990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 6 16Gb Б/О Orange</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -5824,6 +6272,7 @@
 		<Price>18990</Price>
 	</Ad>
 	<Ad>
+		<Id>Samsung Galaxy A3 (2015) 16Gb Maroon</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -5837,6 +6286,7 @@
 		<Price>10490</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 5C 16Gb Maroon</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -5850,6 +6300,7 @@
 		<Price>11990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 5S 16Gb Sandy</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -5863,6 +6314,7 @@
 		<Price>14490</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 6 16Gb Black</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -5876,6 +6328,7 @@
 		<Price>23490</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 4S 16Gb White</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -5889,6 +6342,7 @@
 		<Price>6990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 6 Plus 16Gb Gold</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -5902,6 +6356,7 @@
 		<Price>28990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 5S 32Gb Red</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -5915,6 +6370,7 @@
 		<Price>16490</Price>
 	</Ad>
 	<Ad>
+		<Id>Samsung Galaxy S6 Edge 32Gb Sandy</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -5928,6 +6384,7 @@
 		<Price>27990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 6 64Gb Blue</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -5941,6 +6398,7 @@
 		<Price>26490</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 6 Plus 16Gb Б/О Green</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -5954,6 +6412,7 @@
 		<Price>24490</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 5S 16Gb Б/О Pink</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -5967,6 +6426,7 @@
 		<Price>11990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 6 64Gb Б/О Purple</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -5980,6 +6440,7 @@
 		<Price>21990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 6S 64Gb Yellow</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -5993,6 +6454,7 @@
 		<Price>38990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 5S 32Gb Б/О Orange</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -6006,6 +6468,7 @@
 		<Price>13990</Price>
 	</Ad>
 	<Ad>
+		<Id>Samsung Galaxy S4 16Gb Black</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -6019,6 +6482,7 @@
 		<Price>8990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 6 16Gb Б/О Brown</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -6032,6 +6496,7 @@
 		<Price>18990</Price>
 	</Ad>
 	<Ad>
+		<Id>Samsung Galaxy A3 (2015) 16Gb Sandy</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -6045,6 +6510,7 @@
 		<Price>10490</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 5C 16Gb Sandy</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -6058,6 +6524,7 @@
 		<Price>11990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 5S 16Gb Black</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -6071,6 +6538,7 @@
 		<Price>14490</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 6 16Gb White</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -6084,6 +6552,7 @@
 		<Price>23490</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 4S 16Gb Gold</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -6097,6 +6566,7 @@
 		<Price>6990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 6 Plus 16Gb Red</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -6110,6 +6580,7 @@
 		<Price>28990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 5S 32Gb Blue</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -6123,6 +6594,7 @@
 		<Price>16490</Price>
 	</Ad>
 	<Ad>
+		<Id>Samsung Galaxy S6 Edge 32Gb Black</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -6136,6 +6608,7 @@
 		<Price>27990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 6 64Gb Green</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -6149,6 +6622,7 @@
 		<Price>26490</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 6 Plus 16Gb Б/О Pink</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -6162,6 +6636,7 @@
 		<Price>24490</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 5S 16Gb Б/О Purple</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -6175,6 +6650,7 @@
 		<Price>11990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 6 64Gb Б/О Yellow</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -6188,6 +6664,7 @@
 		<Price>21990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 6S 64Gb Orange</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -6201,6 +6678,7 @@
 		<Price>38990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 5S 32Gb Б/О Brown</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -6214,6 +6692,7 @@
 		<Price>13990</Price>
 	</Ad>
 	<Ad>
+		<Id>Samsung Galaxy S4 16Gb White</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -6227,6 +6706,7 @@
 		<Price>8990</Price>
 	</Ad>
 	<Ad>
+		<Id>Apple iPhone 6 16Gb Б/О Olive</Id>
 		<DateBegin>2017-01-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
