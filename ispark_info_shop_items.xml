@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 		<!DOCTYPE yml_catalog SYSTEM 'shops.dtd'>
-<yml_catalog date='2017-03-10 12:50'>
+<yml_catalog date='2017-03-11 06:58'>
 <shop>
 	<name>iSPARK</name>
 	<company></company>
@@ -16,11 +16,9 @@
 		<category id='339390' >Мобильные телефоны</category>
 		<category id='398640' >iPhone 4S</category>
 		<category id='345924' >Lenovo</category>
-		<category id='398672' >iPhone 6</category>
 		<category id='339424' >Аксессуары</category>
 		<category id='398642' >iPhone 5</category>
 		<category id='345926' >Samsung</category>
-		<category id='398674' >iPhone 6 Plus</category>
 		<category id='345808' >Гироскутеры</category>
 		<category id='398648' >iPhone 5C</category>
 		<category id='398666' >iPhone 6S</category>
@@ -136,9 +134,9 @@
 		<offer id='3948e2cf16ea95504824d049f5a5170b' available='true' bid='1' cbid='1'>
 			<url>http://ispark.info/shop/398644/931772</url>
 			<price>6600</price>
-			<picture>https://raw.githubusercontent.com/bav735/AMOLED/master/Apple/iPhone/4/White/32Gb/СО/A1332/img.jpg</picture>
 			<currencyId>RUB</currencyId>
 			<categoryId>398644</categoryId>
+			<picture>https://raw.githubusercontent.com/bav735/AMOLED/master/Apple/iPhone/4/White/32Gb/СО/A1332/img.jpg</picture>
 			<delivery>true</delivery>
 			<local_delivery_cost>0</local_delivery_cost>
 			<name>Apple iPhone 4 16Gb Белый</name>
@@ -258,6 +256,48 @@
 &amp;lt;/tr&amp;gt;
 &amp;lt;/tbody&amp;gt;
 &amp;lt;/table&amp;gt;</description>
+		</offer>
+		<offer id='a19305d9b9a1b7ad10cc34c0fb5a975c' available='true' bid='1' cbid='1'>
+			<url>http://ispark.info/shop/398670/931802</url>
+			<price>18700</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>398670</categoryId>
+			<picture>http://ispark.p.fl2.fo.ru/image/chunk61/9135044/398670_shop/931802_d4060dfdc0f0ef1679124037131fca83.jpg</picture>
+			<delivery>true</delivery>
+			<local_delivery_cost>0</local_delivery_cost>
+			<name>Apple iPhone 5S 16Gb Черный Сапфир</name>
+			<description>&amp;lt;p&amp;gt;&amp;lt;span&amp;gt;Смартфон Apple iPhone 5s &amp;amp;ndash; это целый набор потрясающих технологий в удивительно тонком и легком металлическом корпусе. Датчик идентификации по отпечатку пальца Touch ID. A7 &amp;amp;ndash; первый мобильный процессор с 64-битной архитектурой. Улучшенная, еще более впечатляющая камера iSight. И сверхскоростная беспроводная связь.&amp;lt;/span&amp;gt;&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;&amp;amp;nbsp;&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;&amp;amp;nbsp;&amp;lt;strong&amp;gt;&amp;lt;span&amp;gt;Связь&amp;lt;/span&amp;gt;&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;&amp;lt;span&amp;gt;Диапазоны GSM : 850, 900, 1800, 1900&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span&amp;gt;Диапазоны UMTS : 850, 900, 1900, 2100&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span&amp;gt;Диапазоны LTE : 1, 2, 3, 5, 7, 8, 20&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span&amp;gt;Доступ в Интернет : GPRS , EDGE , 3G , 4G&amp;amp;nbsp;&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span&amp;gt;Bluetooth : 4.0&amp;amp;nbsp;&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span&amp;gt;Wi-Fi (802.11) : a, b , g , n&amp;amp;nbsp;&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span&amp;gt;Разъем для синхронизации : Apple Lightning&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;strong&amp;gt;&amp;lt;span&amp;gt;Дисплей&amp;lt;/span&amp;gt;&amp;lt;/strong&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span&amp;gt;Тип дисплея : IPS&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span&amp;gt;Диагональ дисплея (дюйм) : 4&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span&amp;gt;Разрешение дисплея (пикс) : 1136x640&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span&amp;gt;Количество цветов дисплея : 16 млн.&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span&amp;gt;Сенсорный дисплей : да&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span&amp;gt;Тип сенсорного дисплея : емкостный&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span&amp;gt;Поддержка Multitouch : да&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;strong&amp;gt;&amp;lt;span&amp;gt;Фотокамера&amp;lt;/span&amp;gt;&amp;lt;/strong&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span&amp;gt;Основная камера (Мп) : 8&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span&amp;gt;Разрешение фотосъемки (пикс) : 3248 x 2448&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span&amp;gt;Автофокус : да&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span&amp;gt;Вспышка : светодиодная&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span&amp;gt;Видеозапись : да&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span&amp;gt;Разрешение видеосъемки (пикс) : 1920 x 1080&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span&amp;gt;Частота кадров видеосъемки : 30&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span&amp;gt;Фронтальная камера (Мп) : 1.2&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;strong&amp;gt;&amp;lt;span&amp;gt;Процессор&amp;lt;/span&amp;gt;&amp;lt;/strong&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span&amp;gt;Процессор : Apple A7&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span&amp;gt;Кол-во ядер : 2&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;strong&amp;gt;&amp;lt;span&amp;gt;Память&amp;lt;/span&amp;gt;&amp;lt;/strong&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span&amp;gt;Встроенная память (Мб) : 16000&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span&amp;gt;Оперативная память (Мб) : 1024&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span&amp;gt;Поддержка карт памяти : нет&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;strong&amp;gt;&amp;lt;span&amp;gt;Мультимедиа&amp;lt;/span&amp;gt;&amp;lt;/strong&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span&amp;gt;Аудиоплеер : да&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span&amp;gt;Видеоплеер : да&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span&amp;gt;Аудиоразъем : 3.5 мм&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span&amp;gt;Стереодинамики : Да&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span&amp;gt;Диктофон : да&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;strong&amp;gt;&amp;lt;span&amp;gt;Система&amp;lt;/span&amp;gt;&amp;lt;/strong&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span&amp;gt;Операционная система : iOS 9&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span&amp;gt;Навигация : GPS , A-GPS, ГЛОНАСС&amp;amp;nbsp;&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;strong&amp;gt;&amp;lt;span&amp;gt;SIM-карта&amp;lt;/span&amp;gt;&amp;lt;/strong&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span&amp;gt;Тип SIM-карты : nano-SIM&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span&amp;gt;Кол-во SIM-карт : 1&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;strong&amp;gt;&amp;lt;span&amp;gt;Питание&amp;lt;/span&amp;gt;&amp;lt;/strong&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span&amp;gt;Тип аккумулятора : Литий-ионный&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span&amp;gt;Емкость аккумулятора (мАч) : 1560&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span&amp;gt;Время разговора (ч) : 10&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span&amp;gt;Время ожидания (ч) : 250&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span&amp;gt;Воспроизведение музыки (ч) : 40&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span&amp;gt;Воспроизведение видео (ч) : 10&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;strong&amp;gt;&amp;lt;span&amp;gt;Корпус&amp;lt;/span&amp;gt;&amp;lt;/strong&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span&amp;gt;Тип корпуса : классический&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span&amp;gt;Высота (мм) : 123.8&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span&amp;gt;Ширина (мм) : 58.6&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span&amp;gt;Толщина (мм) : 7.6&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span&amp;gt;Вес (г) : 112&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;strong&amp;gt;&amp;lt;span&amp;gt;Прочее&amp;lt;/span&amp;gt;&amp;lt;/strong&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span&amp;gt;Производитель : Apple&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span&amp;gt;Код производителя : ME432RU/A&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span&amp;gt;Датчики : G-сенсор (акселерометр) , датчик освещенности , датчик приближения , цифровой компас&amp;amp;nbsp;&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span&amp;gt;Сканер отпечатков пальцев : есть&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span&amp;gt;Громкая связь : да&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span&amp;gt;Срок гарантии : 1 год&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span&amp;gt;Дополнительно : А1533 или А1457&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span&amp;gt;Страна производитель : Китай&amp;lt;/span&amp;gt;&amp;lt;/p&amp;gt;</description>
+		</offer>
+		<offer id='1c532cbf22186761a3eed21280e07e4d' available='true' bid='1' cbid='1'>
+			<url>http://ispark.info/shop/398670/931800</url>
+			<price>18700</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>398670</categoryId>
+			<picture>http://ispark.p.fl2.fo.ru/image/chunk61/9135044/398670_shop/931800_d76bb0a07e1d08c23173cee083311b87.jpg</picture>
+			<delivery>true</delivery>
+			<local_delivery_cost>0</local_delivery_cost>
+			<name>Apple iPhone 5S 16Gb Серебристый</name>
+			<description>&amp;lt;p&amp;gt;&amp;lt;span&amp;gt;Смартфон Apple iPhone 5s &amp;amp;ndash; это целый набор потрясающих технологий в удивительно тонком и легком металлическом корпусе. Датчик идентификации по отпечатку пальца Touch ID. A7 &amp;amp;ndash; первый мобильный процессор с 64-битной архитектурой. Улучшенная, еще более впечатляющая камера iSight. И сверхскоростная беспроводная связь.&amp;lt;/span&amp;gt;&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;&amp;amp;nbsp;&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;&amp;amp;nbsp;&amp;lt;strong&amp;gt;&amp;lt;span&amp;gt;Связь&amp;lt;/span&amp;gt;&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;&amp;lt;span&amp;gt;Диапазоны GSM : 850, 900, 1800, 1900&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span&amp;gt;Диапазоны UMTS : 850, 900, 1900, 2100&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span&amp;gt;Диапазоны LTE : 1, 2, 3, 5, 7, 8, 20&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span&amp;gt;Доступ в Интернет : GPRS , EDGE , 3G , 4G&amp;amp;nbsp;&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span&amp;gt;Bluetooth : 4.0&amp;amp;nbsp;&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span&amp;gt;Wi-Fi (802.11) : a, b , g , n&amp;amp;nbsp;&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span&amp;gt;Разъем для синхронизации : Apple Lightning&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;strong&amp;gt;&amp;lt;span&amp;gt;Дисплей&amp;lt;/span&amp;gt;&amp;lt;/strong&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span&amp;gt;Тип дисплея : IPS&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span&amp;gt;Диагональ дисплея (дюйм) : 4&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span&amp;gt;Разрешение дисплея (пикс) : 1136x640&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span&amp;gt;Количество цветов дисплея : 16 млн.&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span&amp;gt;Сенсорный дисплей : да&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span&amp;gt;Тип сенсорного дисплея : емкостный&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span&amp;gt;Поддержка Multitouch : да&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;strong&amp;gt;&amp;lt;span&amp;gt;Фотокамера&amp;lt;/span&amp;gt;&amp;lt;/strong&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span&amp;gt;Основная камера (Мп) : 8&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span&amp;gt;Разрешение фотосъемки (пикс) : 3248 x 2448&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span&amp;gt;Автофокус : да&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span&amp;gt;Вспышка : светодиодная&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span&amp;gt;Видеозапись : да&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span&amp;gt;Разрешение видеосъемки (пикс) : 1920 x 1080&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span&amp;gt;Частота кадров видеосъемки : 30&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span&amp;gt;Фронтальная камера (Мп) : 1.2&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;strong&amp;gt;&amp;lt;span&amp;gt;Процессор&amp;lt;/span&amp;gt;&amp;lt;/strong&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span&amp;gt;Процессор : Apple A7&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span&amp;gt;Кол-во ядер : 2&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;strong&amp;gt;&amp;lt;span&amp;gt;Память&amp;lt;/span&amp;gt;&amp;lt;/strong&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span&amp;gt;Встроенная память (Мб) : 16000&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span&amp;gt;Оперативная память (Мб) : 1024&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span&amp;gt;Поддержка карт памяти : нет&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;strong&amp;gt;&amp;lt;span&amp;gt;Мультимедиа&amp;lt;/span&amp;gt;&amp;lt;/strong&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span&amp;gt;Аудиоплеер : да&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span&amp;gt;Видеоплеер : да&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span&amp;gt;Аудиоразъем : 3.5 мм&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span&amp;gt;Стереодинамики : Да&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span&amp;gt;Диктофон : да&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;strong&amp;gt;&amp;lt;span&amp;gt;Система&amp;lt;/span&amp;gt;&amp;lt;/strong&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span&amp;gt;Операционная система : iOS 9&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span&amp;gt;Навигация : GPS , A-GPS, ГЛОНАСС&amp;amp;nbsp;&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;strong&amp;gt;&amp;lt;span&amp;gt;SIM-карта&amp;lt;/span&amp;gt;&amp;lt;/strong&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span&amp;gt;Тип SIM-карты : nano-SIM&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span&amp;gt;Кол-во SIM-карт : 1&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;strong&amp;gt;&amp;lt;span&amp;gt;Питание&amp;lt;/span&amp;gt;&amp;lt;/strong&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span&amp;gt;Тип аккумулятора : Литий-ионный&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span&amp;gt;Емкость аккумулятора (мАч) : 1560&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span&amp;gt;Время разговора (ч) : 10&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span&amp;gt;Время ожидания (ч) : 250&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span&amp;gt;Воспроизведение музыки (ч) : 40&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span&amp;gt;Воспроизведение видео (ч) : 10&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;strong&amp;gt;&amp;lt;span&amp;gt;Корпус&amp;lt;/span&amp;gt;&amp;lt;/strong&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span&amp;gt;Тип корпуса : классический&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span&amp;gt;Высота (мм) : 123.8&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span&amp;gt;Ширина (мм) : 58.6&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span&amp;gt;Толщина (мм) : 7.6&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span&amp;gt;Вес (г) : 112&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;strong&amp;gt;&amp;lt;span&amp;gt;Прочее&amp;lt;/span&amp;gt;&amp;lt;/strong&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span&amp;gt;Производитель : Apple&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span&amp;gt;Код производителя : ME432RU/A&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span&amp;gt;Датчики : G-сенсор (акселерометр) , датчик освещенности , датчик приближения , цифровой компас&amp;amp;nbsp;&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span&amp;gt;Сканер отпечатков пальцев : есть&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span&amp;gt;Громкая связь : да&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span&amp;gt;Срок гарантии : 1 год&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span&amp;gt;Дополнительно : А1533 или А1457&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span&amp;gt;Страна производитель : Китай&amp;lt;/span&amp;gt;&amp;lt;/p&amp;gt;</description>
+		</offer>
+		<offer id='58ae58e118323a595fc08a6636a6a1a2' available='true' bid='1' cbid='1'>
+			<url>http://ispark.info/shop/398670/931798</url>
+			<price>18700</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>398670</categoryId>
+			<picture>http://ispark.p.fl2.fo.ru/image/chunk61/9135044/398670_shop/931798_761e122974fd131b65d34116b6697ab6.jpg</picture>
+			<delivery>true</delivery>
+			<local_delivery_cost>0</local_delivery_cost>
+			<name>Apple iPhone 5S 16Gb Золотистый</name>
+			<description>&amp;lt;p&amp;gt;&amp;lt;span&amp;gt;Смартфон Apple iPhone 5s &amp;amp;ndash; это целый набор потрясающих технологий в удивительно тонком и легком металлическом корпусе. Датчик идентификации по отпечатку пальца Touch ID. A7 &amp;amp;ndash; первый мобильный процессор с 64-битной архитектурой. Улучшенная, еще более впечатляющая камера iSight. И сверхскоростная беспроводная связь.&amp;lt;/span&amp;gt;&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;&amp;amp;nbsp;&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;&amp;amp;nbsp;&amp;lt;strong&amp;gt;&amp;lt;span&amp;gt;Связь&amp;lt;/span&amp;gt;&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;&amp;lt;span&amp;gt;Диапазоны GSM : 850, 900, 1800, 1900&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span&amp;gt;Диапазоны UMTS : 850, 900, 1900, 2100&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span&amp;gt;Диапазоны LTE : 1, 2, 3, 5, 7, 8, 20&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span&amp;gt;Доступ в Интернет : GPRS , EDGE , 3G , 4G&amp;amp;nbsp;&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span&amp;gt;Bluetooth : 4.0&amp;amp;nbsp;&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span&amp;gt;Wi-Fi (802.11) : a, b , g , n&amp;amp;nbsp;&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span&amp;gt;Разъем для синхронизации : Apple Lightning&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;strong&amp;gt;&amp;lt;span&amp;gt;Дисплей&amp;lt;/span&amp;gt;&amp;lt;/strong&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span&amp;gt;Тип дисплея : IPS&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span&amp;gt;Диагональ дисплея (дюйм) : 4&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span&amp;gt;Разрешение дисплея (пикс) : 1136x640&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span&amp;gt;Количество цветов дисплея : 16 млн.&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span&amp;gt;Сенсорный дисплей : да&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span&amp;gt;Тип сенсорного дисплея : емкостный&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span&amp;gt;Поддержка Multitouch : да&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;strong&amp;gt;&amp;lt;span&amp;gt;Фотокамера&amp;lt;/span&amp;gt;&amp;lt;/strong&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span&amp;gt;Основная камера (Мп) : 8&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span&amp;gt;Разрешение фотосъемки (пикс) : 3248 x 2448&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span&amp;gt;Автофокус : да&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span&amp;gt;Вспышка : светодиодная&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span&amp;gt;Видеозапись : да&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span&amp;gt;Разрешение видеосъемки (пикс) : 1920 x 1080&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span&amp;gt;Частота кадров видеосъемки : 30&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span&amp;gt;Фронтальная камера (Мп) : 1.2&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;strong&amp;gt;&amp;lt;span&amp;gt;Процессор&amp;lt;/span&amp;gt;&amp;lt;/strong&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span&amp;gt;Процессор : Apple A7&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span&amp;gt;Кол-во ядер : 2&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;strong&amp;gt;&amp;lt;span&amp;gt;Память&amp;lt;/span&amp;gt;&amp;lt;/strong&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span&amp;gt;Встроенная память (Мб) : 16000&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span&amp;gt;Оперативная память (Мб) : 1024&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span&amp;gt;Поддержка карт памяти : нет&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;strong&amp;gt;&amp;lt;span&amp;gt;Мультимедиа&amp;lt;/span&amp;gt;&amp;lt;/strong&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span&amp;gt;Аудиоплеер : да&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span&amp;gt;Видеоплеер : да&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span&amp;gt;Аудиоразъем : 3.5 мм&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span&amp;gt;Стереодинамики : Да&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span&amp;gt;Диктофон : да&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;strong&amp;gt;&amp;lt;span&amp;gt;Система&amp;lt;/span&amp;gt;&amp;lt;/strong&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span&amp;gt;Операционная система : iOS 9&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span&amp;gt;Навигация : GPS , A-GPS, ГЛОНАСС&amp;amp;nbsp;&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;strong&amp;gt;&amp;lt;span&amp;gt;SIM-карта&amp;lt;/span&amp;gt;&amp;lt;/strong&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span&amp;gt;Тип SIM-карты : nano-SIM&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span&amp;gt;Кол-во SIM-карт : 1&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;strong&amp;gt;&amp;lt;span&amp;gt;Питание&amp;lt;/span&amp;gt;&amp;lt;/strong&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span&amp;gt;Тип аккумулятора : Литий-ионный&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span&amp;gt;Емкость аккумулятора (мАч) : 1560&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span&amp;gt;Время разговора (ч) : 10&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span&amp;gt;Время ожидания (ч) : 250&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span&amp;gt;Воспроизведение музыки (ч) : 40&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span&amp;gt;Воспроизведение видео (ч) : 10&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;strong&amp;gt;&amp;lt;span&amp;gt;Корпус&amp;lt;/span&amp;gt;&amp;lt;/strong&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span&amp;gt;Тип корпуса : классический&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span&amp;gt;Высота (мм) : 123.8&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span&amp;gt;Ширина (мм) : 58.6&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span&amp;gt;Толщина (мм) : 7.6&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span&amp;gt;Вес (г) : 112&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;strong&amp;gt;&amp;lt;span&amp;gt;Прочее&amp;lt;/span&amp;gt;&amp;lt;/strong&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span&amp;gt;Производитель : Apple&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span&amp;gt;Код производителя : ME432RU/A&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span&amp;gt;Датчики : G-сенсор (акселерометр) , датчик освещенности , датчик приближения , цифровой компас&amp;amp;nbsp;&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span&amp;gt;Сканер отпечатков пальцев : есть&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span&amp;gt;Громкая связь : да&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span&amp;gt;Срок гарантии : 1 год&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span&amp;gt;Дополнительно : А1533 или А1457&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span&amp;gt;Страна производитель : Китай&amp;lt;/span&amp;gt;&amp;lt;/p&amp;gt;</description>
 		</offer>
 		<offer id='d48e6b60df80751ad414db77513321d2' available='true' bid='1' cbid='1'>
 			<url>http://ispark.info/shop/398640/845330</url>
@@ -1028,6 +1068,282 @@
 &amp;lt;p&amp;gt;&amp;amp;nbsp;&amp;lt;/p&amp;gt;
 &amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;&amp;lt;span style=&amp;quot;font-size: medium;&amp;quot;&amp;gt;Связь&amp;lt;/span&amp;gt;&amp;lt;/strong&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span style=&amp;quot;font-size: medium;&amp;quot;&amp;gt;Диапазоны GSM : 850, 900, 1800, 1900&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span style=&amp;quot;font-size: medium;&amp;quot;&amp;gt;Диапазоны UMTS : 850, 900, 1900, 2100&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span style=&amp;quot;font-size: medium;&amp;quot;&amp;gt;Диапазоны LTE : 1, 2, 3, 5, 7, 8, 20&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span style=&amp;quot;font-size: medium;&amp;quot;&amp;gt;Доступ в Интернет : GPRS , EDGE , 3G , 4G &amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span style=&amp;quot;font-size: medium;&amp;quot;&amp;gt;Bluetooth : 4.0 &amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span style=&amp;quot;font-size: medium;&amp;quot;&amp;gt;Wi-Fi (802.11) : a, b , g , n &amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span style=&amp;quot;font-size: medium;&amp;quot;&amp;gt;Разъем для синхронизации : Apple Lightning&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;strong&amp;gt;&amp;lt;span style=&amp;quot;font-size: medium;&amp;quot;&amp;gt;Дисплей&amp;lt;/span&amp;gt;&amp;lt;/strong&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span style=&amp;quot;font-size: medium;&amp;quot;&amp;gt;Тип дисплея : IPS&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span style=&amp;quot;font-size: medium;&amp;quot;&amp;gt;Диагональ дисплея (дюйм) : 4&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span style=&amp;quot;font-size: medium;&amp;quot;&amp;gt;Разрешение дисплея (пикс) : 1136x640&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span style=&amp;quot;font-size: medium;&amp;quot;&amp;gt;Количество цветов дисплея : 16 млн.&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span style=&amp;quot;font-size: medium;&amp;quot;&amp;gt;Сенсорный дисплей : да&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span style=&amp;quot;font-size: medium;&amp;quot;&amp;gt;Тип сенсорного дисплея : емкостный&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span style=&amp;quot;font-size: medium;&amp;quot;&amp;gt;Поддержка Multitouch : да&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;strong&amp;gt;&amp;lt;span style=&amp;quot;font-size: medium;&amp;quot;&amp;gt;Фотокамера&amp;lt;/span&amp;gt;&amp;lt;/strong&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span style=&amp;quot;font-size: medium;&amp;quot;&amp;gt;Основная камера (Мп) : 8&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span style=&amp;quot;font-size: medium;&amp;quot;&amp;gt;Разрешение фотосъемки (пикс) : 3248 x 2448&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span style=&amp;quot;font-size: medium;&amp;quot;&amp;gt;Автофокус : да&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span style=&amp;quot;font-size: medium;&amp;quot;&amp;gt;Вспышка : светодиодная&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span style=&amp;quot;font-size: medium;&amp;quot;&amp;gt;Видеозапись : да&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span style=&amp;quot;font-size: medium;&amp;quot;&amp;gt;Разрешение видеосъемки (пикс) : 1920 x 1080&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span style=&amp;quot;font-size: medium;&amp;quot;&amp;gt;Частота кадров видеосъемки : 30&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span style=&amp;quot;font-size: medium;&amp;quot;&amp;gt;Фронтальная камера (Мп) : 1.2&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;strong&amp;gt;&amp;lt;span style=&amp;quot;font-size: medium;&amp;quot;&amp;gt;Процессор&amp;lt;/span&amp;gt;&amp;lt;/strong&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span style=&amp;quot;font-size: medium;&amp;quot;&amp;gt;Процессор : Apple A6&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span style=&amp;quot;font-size: medium;&amp;quot;&amp;gt;Частота процессора (МГц) : 1300&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span style=&amp;quot;font-size: medium;&amp;quot;&amp;gt;Кол-во ядер : 2&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span style=&amp;quot;font-size: medium;&amp;quot;&amp;gt;Видеочип : PowerVR SGX 543 MP3&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;strong&amp;gt;&amp;lt;span style=&amp;quot;font-size: medium;&amp;quot;&amp;gt;Память&amp;lt;/span&amp;gt;&amp;lt;/strong&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span style=&amp;quot;font-size: medium;&amp;quot;&amp;gt;Встроенная память (Мб) : 16000&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span style=&amp;quot;font-size: medium;&amp;quot;&amp;gt;Оперативная память (Мб) : 1024&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span style=&amp;quot;font-size: medium;&amp;quot;&amp;gt;Поддержка карт памяти : нет&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span style=&amp;quot;font-size: medium;&amp;quot;&amp;gt;Мультимедиа&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span style=&amp;quot;font-size: medium;&amp;quot;&amp;gt;Аудиоплеер : да&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span style=&amp;quot;font-size: medium;&amp;quot;&amp;gt;Видеоплеер : да&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span style=&amp;quot;font-size: medium;&amp;quot;&amp;gt;Аудиоразъем : 3.5 мм&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span style=&amp;quot;font-size: medium;&amp;quot;&amp;gt;Стереодинамики : Да&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span style=&amp;quot;font-size: medium;&amp;quot;&amp;gt;Диктофон : да&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;strong&amp;gt;&amp;lt;span style=&amp;quot;font-size: medium;&amp;quot;&amp;gt;Система&amp;lt;/span&amp;gt;&amp;lt;/strong&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span style=&amp;quot;font-size: medium;&amp;quot;&amp;gt;Операционная система : iOS 9&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span style=&amp;quot;font-size: medium;&amp;quot;&amp;gt;Навигация : A-GPS, ГЛОНАСС &amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span style=&amp;quot;font-size: medium;&amp;quot;&amp;gt;SIM-карта&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span style=&amp;quot;font-size: medium;&amp;quot;&amp;gt;Тип SIM-карты : nano-SIM&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span style=&amp;quot;font-size: medium;&amp;quot;&amp;gt;Кол-во SIM-карт : 1&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;strong&amp;gt;&amp;lt;span style=&amp;quot;font-size: medium;&amp;quot;&amp;gt;Питание&amp;lt;/span&amp;gt;&amp;lt;/strong&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span style=&amp;quot;font-size: medium;&amp;quot;&amp;gt;Тип аккумулятора : Литий-ионный&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span style=&amp;quot;font-size: medium;&amp;quot;&amp;gt;Емкость аккумулятора (мАч) : 1440&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span style=&amp;quot;font-size: medium;&amp;quot;&amp;gt;Время разговора (ч) : 10&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span style=&amp;quot;font-size: medium;&amp;quot;&amp;gt;Время ожидания (ч) : 250&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span style=&amp;quot;font-size: medium;&amp;quot;&amp;gt;Воспроизведение музыки (ч) : 40&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span style=&amp;quot;font-size: medium;&amp;quot;&amp;gt;Воспроизведение видео (ч) : 10&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;strong&amp;gt;&amp;lt;span style=&amp;quot;font-size: medium;&amp;quot;&amp;gt;Корпус&amp;lt;/span&amp;gt;&amp;lt;/strong&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span style=&amp;quot;font-size: medium;&amp;quot;&amp;gt;Тип корпуса : классический&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span style=&amp;quot;font-size: medium;&amp;quot;&amp;gt;Высота (мм) : 124.4&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span style=&amp;quot;font-size: medium;&amp;quot;&amp;gt;Ширина (мм) : 59.2&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span style=&amp;quot;font-size: medium;&amp;quot;&amp;gt;Толщина (мм) : 8.9&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span style=&amp;quot;font-size: medium;&amp;quot;&amp;gt;Вес (г) : 132&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span style=&amp;quot;font-size: medium;&amp;quot;&amp;gt;Материал корпуса : пластик&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;strong&amp;gt;&amp;lt;span style=&amp;quot;font-size: medium;&amp;quot;&amp;gt;Прочее&amp;lt;/span&amp;gt;&amp;lt;/strong&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span style=&amp;quot;font-size: medium;&amp;quot;&amp;gt;Производитель : Apple&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span style=&amp;quot;font-size: medium;&amp;quot;&amp;gt;Датчики : G-сенсор (акселерометр) , датчик освещенности , датчик приближения , цифровой компас &amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span style=&amp;quot;font-size: medium;&amp;quot;&amp;gt;Громкая связь : да&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span style=&amp;quot;font-size: medium;&amp;quot;&amp;gt;Срок гарантии : 1 год&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span style=&amp;quot;font-size: medium;&amp;quot;&amp;gt;Дополнительно : А1507&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span style=&amp;quot;font-size: medium;&amp;quot;&amp;gt;Страна производитель : Китай&amp;lt;/span&amp;gt;&amp;lt;/p&amp;gt;</description>
 		</offer>
+		<offer id='af64738c6920dbbc22de44abdbf6c1fd' available='true' bid='1' cbid='1'>
+			<url>http://ispark.info/shop/398666/931818</url>
+			<price>38500</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>398666</categoryId>
+			<picture>http://ispark.p.fl2.fo.ru/image/chunk61/9135044/398666_shop/931818_e514baa248a0bb307f5d4a7ef12adc3a.jpg</picture>
+			<delivery>true</delivery>
+			<local_delivery_cost>0</local_delivery_cost>
+			<name>Apple iPhone 6S 32Gb Розовое Золото</name>
+			<description>&amp;lt;p&amp;gt;ЕДИНСТВЕННАЯ НОВОСТЬ &amp;amp;ndash; ВСЕ ПО-НОВОМУ&amp;amp;nbsp;&amp;lt;br /&amp;gt;&amp;lt;br /&amp;gt;Едва начав пользоваться iPhone 6s, вы сразу почувствуете, насколько все изменилось. Технология 3D Touch открывает потрясающие новые возможности &amp;amp;ndash; достаточно одного нажатия. А функция Live Photos позволяет буквально оживить ваши воспоминания. И это только начало. Присмотритесь к iPhone 6s внимательнее, и вы увидите инновации на всех уровнях.&amp;amp;nbsp;&amp;lt;br /&amp;gt;&amp;lt;br /&amp;gt;ВЫДАЮЩИЙСЯ ДИЗАЙН. НОВЫЙ ШАГ ВПЕРЕД&amp;amp;nbsp;&amp;lt;br /&amp;gt;&amp;lt;br /&amp;gt;Инновации не всегда очевидны, но присмотревшись к iPhone 6s внимательнее, вы увидите фундаментальные перемены. Корпус изготовлен из нового сплава на основе алюминия серии 7000, который применяется в аэрокосмической отрасли. Стекло дисплея iPhone 6s прочнее любого другого стекла для смартфона. И теперь доступно новое цветовое решение: к серебристому, золотому и цвету &amp;quot;серый космос&amp;quot; добавился корпус &amp;quot;розовое золото&amp;quot;.&amp;amp;nbsp;&amp;lt;br /&amp;gt;&amp;lt;br /&amp;gt;НОВОЕ ПОКОЛЕНИЕ МУЛЬТИТАЧ&amp;amp;nbsp;&amp;lt;br /&amp;gt;&amp;lt;br /&amp;gt;iPhone 6s предлагает принципиально новый способ взаимодействия с телефоном &amp;amp;ndash; впервые за свою историю iPhone может различать силу вашего нажатия на дисплей. Помимо таких знакомых жестов Multi-Touch, как касание, смахивание, сведение и разведение пальцев, технология 3D Touch позволяет использовать функции Peek и Pop. Например, если вы легко нажмете на письмо, функция Peek покажет превью. А если нажмете посильнее &amp;amp;ndash; функция Pop откроет его. И это совершенно новое измерение в работе с iPhone. К тому же при использовании 3D Touch iPhone обеспечивает тактильный отклик, поэтому вы не только видите результат своих действий, но и чувствуете интенсивность каждого нажатия.&amp;amp;nbsp;&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;&amp;amp;nbsp;&amp;lt;/p&amp;gt;
+&amp;lt;div&amp;gt;Технические характеристики&amp;lt;/div&amp;gt;
+&amp;lt;table&amp;gt;
+&amp;lt;tbody&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;Диапазоны GSM&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;850, 900, 1800, 1900&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;Интернет&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;GPRS, EDGE, 3G, 4G&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;Диагональ (дюйм)&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;4.7&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;Разрешение (пикс)&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;1334x750&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;Встроенная память (Гб)&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;32&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;Фотокамера (Мп)&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;12&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;Количество ядер&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;2&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;Встроенная память (Мб)&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;32000&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;Оперативная память (Мб)&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;2048&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;Поддержка карт памяти&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;нет&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;Операционная система&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;iOS 10&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;SIM-карта&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;nano-SIM&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;Вес (г)&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;143&amp;lt;br /&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;/tbody&amp;gt;
+&amp;lt;/table&amp;gt;</description>
+		</offer>
+		<offer id='5cc293e9ffc913543e38e1d9f8ef51ff' available='true' bid='1' cbid='1'>
+			<url>http://ispark.info/shop/398666/931816</url>
+			<price>38500</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>398666</categoryId>
+			<picture>http://ispark.p.fl2.fo.ru/image/chunk61/9135044/398666_shop/931816_f5fea36f0dd861bbfdfb26a6ac89a49c.jpg</picture>
+			<delivery>true</delivery>
+			<local_delivery_cost>0</local_delivery_cost>
+			<name>Apple iPhone 6S 32Gb Золотистый</name>
+			<description>&amp;lt;p&amp;gt;ЕДИНСТВЕННАЯ НОВОСТЬ &amp;amp;ndash; ВСЕ ПО-НОВОМУ&amp;amp;nbsp;&amp;lt;br /&amp;gt;&amp;lt;br /&amp;gt;Едва начав пользоваться iPhone 6s, вы сразу почувствуете, насколько все изменилось. Технология 3D Touch открывает потрясающие новые возможности &amp;amp;ndash; достаточно одного нажатия. А функция Live Photos позволяет буквально оживить ваши воспоминания. И это только начало. Присмотритесь к iPhone 6s внимательнее, и вы увидите инновации на всех уровнях.&amp;amp;nbsp;&amp;lt;br /&amp;gt;&amp;lt;br /&amp;gt;ВЫДАЮЩИЙСЯ ДИЗАЙН. НОВЫЙ ШАГ ВПЕРЕД&amp;amp;nbsp;&amp;lt;br /&amp;gt;&amp;lt;br /&amp;gt;Инновации не всегда очевидны, но присмотревшись к iPhone 6s внимательнее, вы увидите фундаментальные перемены. Корпус изготовлен из нового сплава на основе алюминия серии 7000, который применяется в аэрокосмической отрасли. Стекло дисплея iPhone 6s прочнее любого другого стекла для смартфона. И теперь доступно новое цветовое решение: к серебристому, золотому и цвету &amp;quot;серый космос&amp;quot; добавился корпус &amp;quot;розовое золото&amp;quot;.&amp;amp;nbsp;&amp;lt;br /&amp;gt;&amp;lt;br /&amp;gt;НОВОЕ ПОКОЛЕНИЕ МУЛЬТИТАЧ&amp;amp;nbsp;&amp;lt;br /&amp;gt;&amp;lt;br /&amp;gt;iPhone 6s предлагает принципиально новый способ взаимодействия с телефоном &amp;amp;ndash; впервые за свою историю iPhone может различать силу вашего нажатия на дисплей. Помимо таких знакомых жестов Multi-Touch, как касание, смахивание, сведение и разведение пальцев, технология 3D Touch позволяет использовать функции Peek и Pop. Например, если вы легко нажмете на письмо, функция Peek покажет превью. А если нажмете посильнее &amp;amp;ndash; функция Pop откроет его. И это совершенно новое измерение в работе с iPhone. К тому же при использовании 3D Touch iPhone обеспечивает тактильный отклик, поэтому вы не только видите результат своих действий, но и чувствуете интенсивность каждого нажатия.&amp;amp;nbsp;&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;&amp;amp;nbsp;&amp;lt;/p&amp;gt;
+&amp;lt;div&amp;gt;Технические характеристики&amp;lt;/div&amp;gt;
+&amp;lt;table&amp;gt;
+&amp;lt;tbody&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;Диапазоны GSM&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;850, 900, 1800, 1900&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;Интернет&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;GPRS, EDGE, 3G, 4G&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;Диагональ (дюйм)&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;4.7&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;Разрешение (пикс)&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;1334x750&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;Встроенная память (Гб)&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;32&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;Фотокамера (Мп)&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;12&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;Количество ядер&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;2&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;Встроенная память (Мб)&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;32000&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;Оперативная память (Мб)&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;2048&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;Поддержка карт памяти&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;нет&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;Операционная система&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;iOS 10&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;SIM-карта&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;nano-SIM&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;Вес (г)&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;143&amp;lt;br /&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;/tbody&amp;gt;
+&amp;lt;/table&amp;gt;</description>
+		</offer>
+		<offer id='480996dd58b9675e44f7137771a943ef' available='true' bid='1' cbid='1'>
+			<url>http://ispark.info/shop/398666/931814</url>
+			<price>38500</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>398666</categoryId>
+			<picture>http://ispark.p.fl2.fo.ru/image/chunk61/9135044/398666_shop/931814_8e0792d241fd296a0be25885f0e672fe.jpg</picture>
+			<delivery>true</delivery>
+			<local_delivery_cost>0</local_delivery_cost>
+			<name>Apple iPhone 6S 32Gb Серебристый</name>
+			<description>&amp;lt;p&amp;gt;ЕДИНСТВЕННАЯ НОВОСТЬ &amp;amp;ndash; ВСЕ ПО-НОВОМУ&amp;amp;nbsp;&amp;lt;br /&amp;gt;&amp;lt;br /&amp;gt;Едва начав пользоваться iPhone 6s, вы сразу почувствуете, насколько все изменилось. Технология 3D Touch открывает потрясающие новые возможности &amp;amp;ndash; достаточно одного нажатия. А функция Live Photos позволяет буквально оживить ваши воспоминания. И это только начало. Присмотритесь к iPhone 6s внимательнее, и вы увидите инновации на всех уровнях.&amp;amp;nbsp;&amp;lt;br /&amp;gt;&amp;lt;br /&amp;gt;ВЫДАЮЩИЙСЯ ДИЗАЙН. НОВЫЙ ШАГ ВПЕРЕД&amp;amp;nbsp;&amp;lt;br /&amp;gt;&amp;lt;br /&amp;gt;Инновации не всегда очевидны, но присмотревшись к iPhone 6s внимательнее, вы увидите фундаментальные перемены. Корпус изготовлен из нового сплава на основе алюминия серии 7000, который применяется в аэрокосмической отрасли. Стекло дисплея iPhone 6s прочнее любого другого стекла для смартфона. И теперь доступно новое цветовое решение: к серебристому, золотому и цвету &amp;quot;серый космос&amp;quot; добавился корпус &amp;quot;розовое золото&amp;quot;.&amp;amp;nbsp;&amp;lt;br /&amp;gt;&amp;lt;br /&amp;gt;НОВОЕ ПОКОЛЕНИЕ МУЛЬТИТАЧ&amp;amp;nbsp;&amp;lt;br /&amp;gt;&amp;lt;br /&amp;gt;iPhone 6s предлагает принципиально новый способ взаимодействия с телефоном &amp;amp;ndash; впервые за свою историю iPhone может различать силу вашего нажатия на дисплей. Помимо таких знакомых жестов Multi-Touch, как касание, смахивание, сведение и разведение пальцев, технология 3D Touch позволяет использовать функции Peek и Pop. Например, если вы легко нажмете на письмо, функция Peek покажет превью. А если нажмете посильнее &amp;amp;ndash; функция Pop откроет его. И это совершенно новое измерение в работе с iPhone. К тому же при использовании 3D Touch iPhone обеспечивает тактильный отклик, поэтому вы не только видите результат своих действий, но и чувствуете интенсивность каждого нажатия.&amp;amp;nbsp;&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;&amp;amp;nbsp;&amp;lt;/p&amp;gt;
+&amp;lt;div&amp;gt;Технические характеристики&amp;lt;/div&amp;gt;
+&amp;lt;table&amp;gt;
+&amp;lt;tbody&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;Диапазоны GSM&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;850, 900, 1800, 1900&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;Интернет&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;GPRS, EDGE, 3G, 4G&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;Диагональ (дюйм)&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;4.7&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;Разрешение (пикс)&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;1334x750&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;Встроенная память (Гб)&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;32&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;Фотокамера (Мп)&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;12&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;Количество ядер&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;2&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;Встроенная память (Мб)&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;32000&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;Оперативная память (Мб)&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;2048&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;Поддержка карт памяти&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;нет&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;Операционная система&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;iOS 10&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;SIM-карта&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;nano-SIM&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;Вес (г)&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;143&amp;lt;br /&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;/tbody&amp;gt;
+&amp;lt;/table&amp;gt;</description>
+		</offer>
+		<offer id='796bce8905d7f7cf078e82526eebf1e7' available='true' bid='1' cbid='1'>
+			<url>http://ispark.info/shop/398666/931812</url>
+			<price>38500</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>398666</categoryId>
+			<picture>http://ispark.p.fl2.fo.ru/image/chunk61/9135044/398666_shop/931812_f5082a1d8efa20271dbaacb40c859d15.jpg</picture>
+			<delivery>true</delivery>
+			<local_delivery_cost>0</local_delivery_cost>
+			<name>Apple iPhone 6S 32Gb Серый Космос</name>
+			<description>&amp;lt;p&amp;gt;ЕДИНСТВЕННАЯ НОВОСТЬ &amp;amp;ndash; ВСЕ ПО-НОВОМУ&amp;amp;nbsp;&amp;lt;br /&amp;gt;&amp;lt;br /&amp;gt;Едва начав пользоваться iPhone 6s, вы сразу почувствуете, насколько все изменилось. Технология 3D Touch открывает потрясающие новые возможности &amp;amp;ndash; достаточно одного нажатия. А функция Live Photos позволяет буквально оживить ваши воспоминания. И это только начало. Присмотритесь к iPhone 6s внимательнее, и вы увидите инновации на всех уровнях.&amp;amp;nbsp;&amp;lt;br /&amp;gt;&amp;lt;br /&amp;gt;ВЫДАЮЩИЙСЯ ДИЗАЙН. НОВЫЙ ШАГ ВПЕРЕД&amp;amp;nbsp;&amp;lt;br /&amp;gt;&amp;lt;br /&amp;gt;Инновации не всегда очевидны, но присмотревшись к iPhone 6s внимательнее, вы увидите фундаментальные перемены. Корпус изготовлен из нового сплава на основе алюминия серии 7000, который применяется в аэрокосмической отрасли. Стекло дисплея iPhone 6s прочнее любого другого стекла для смартфона. И теперь доступно новое цветовое решение: к серебристому, золотому и цвету &amp;quot;серый космос&amp;quot; добавился корпус &amp;quot;розовое золото&amp;quot;.&amp;amp;nbsp;&amp;lt;br /&amp;gt;&amp;lt;br /&amp;gt;НОВОЕ ПОКОЛЕНИЕ МУЛЬТИТАЧ&amp;amp;nbsp;&amp;lt;br /&amp;gt;&amp;lt;br /&amp;gt;iPhone 6s предлагает принципиально новый способ взаимодействия с телефоном &amp;amp;ndash; впервые за свою историю iPhone может различать силу вашего нажатия на дисплей. Помимо таких знакомых жестов Multi-Touch, как касание, смахивание, сведение и разведение пальцев, технология 3D Touch позволяет использовать функции Peek и Pop. Например, если вы легко нажмете на письмо, функция Peek покажет превью. А если нажмете посильнее &amp;amp;ndash; функция Pop откроет его. И это совершенно новое измерение в работе с iPhone. К тому же при использовании 3D Touch iPhone обеспечивает тактильный отклик, поэтому вы не только видите результат своих действий, но и чувствуете интенсивность каждого нажатия.&amp;amp;nbsp;&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;&amp;amp;nbsp;&amp;lt;/p&amp;gt;
+&amp;lt;div&amp;gt;Технические характеристики&amp;lt;/div&amp;gt;
+&amp;lt;table&amp;gt;
+&amp;lt;tbody&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;Диапазоны GSM&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;850, 900, 1800, 1900&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;Интернет&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;GPRS, EDGE, 3G, 4G&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;Диагональ (дюйм)&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;4.7&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;Разрешение (пикс)&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;1334x750&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;Встроенная память (Гб)&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;32&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;Фотокамера (Мп)&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;12&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;Количество ядер&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;2&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;Встроенная память (Мб)&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;32000&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;Оперативная память (Мб)&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;2048&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;Поддержка карт памяти&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;нет&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;Операционная система&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;iOS 10&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;SIM-карта&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;nano-SIM&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;Вес (г)&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;143&amp;lt;br /&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;/tbody&amp;gt;
+&amp;lt;/table&amp;gt;</description>
+		</offer>
 		<offer id='31a645f4cf9dc8fe4e491494839272d6' available='true' bid='1' cbid='1'>
 			<url>http://ispark.info/shop/398646/845296</url>
 			<price>16990</price>
@@ -1153,6 +1469,266 @@
 &amp;lt;p&amp;gt;&amp;amp;nbsp;&amp;lt;/p&amp;gt;
 &amp;lt;p&amp;gt;&amp;amp;nbsp;&amp;lt;strong&amp;gt;Связь&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
 &amp;lt;p&amp;gt;Диапазоны GSM : 850, 900, 1800, 1900&amp;lt;br /&amp;gt;Диапазоны UMTS : 850, 900, 1900, 2100&amp;lt;br /&amp;gt;Диапазоны LTE : 1, 2, 3, 5, 7, 8, 20&amp;lt;br /&amp;gt;Доступ в Интернет : GPRS , EDGE , 3G , 4G&amp;amp;nbsp;&amp;lt;br /&amp;gt;Bluetooth : 4.0&amp;amp;nbsp;&amp;lt;br /&amp;gt;Wi-Fi (802.11) : a, b , g , n&amp;amp;nbsp;&amp;lt;br /&amp;gt;Разъем для синхронизации : Apple Lightning&amp;lt;br /&amp;gt;&amp;lt;strong&amp;gt;Дисплей&amp;lt;/strong&amp;gt;&amp;lt;br /&amp;gt;Тип дисплея : IPS&amp;lt;br /&amp;gt;Диагональ дисплея (дюйм) : 4&amp;lt;br /&amp;gt;Разрешение дисплея (пикс) : 1136x640&amp;lt;br /&amp;gt;Количество цветов дисплея : 16 млн.&amp;lt;br /&amp;gt;Сенсорный дисплей : да&amp;lt;br /&amp;gt;Тип сенсорного дисплея : емкостный&amp;lt;br /&amp;gt;Поддержка Multitouch : да&amp;lt;br /&amp;gt;&amp;lt;strong&amp;gt;Фотокамера&amp;lt;/strong&amp;gt;&amp;lt;br /&amp;gt;Основная камера (Мп) : 8&amp;lt;br /&amp;gt;Разрешение фотосъемки (пикс) : 3248 x 2448&amp;lt;br /&amp;gt;Автофокус : да&amp;lt;br /&amp;gt;Вспышка : светодиодная&amp;lt;br /&amp;gt;Видеозапись : да&amp;lt;br /&amp;gt;Разрешение видеосъемки (пикс) : 1920 x 1080&amp;lt;br /&amp;gt;Частота кадров видеосъемки : 30&amp;lt;br /&amp;gt;Фронтальная камера (Мп) : 1.2&amp;lt;br /&amp;gt;&amp;lt;strong&amp;gt;Процессор&amp;lt;/strong&amp;gt;&amp;lt;br /&amp;gt;Процессор : Apple A7&amp;lt;br /&amp;gt;Кол-во ядер : 2&amp;lt;br /&amp;gt;&amp;lt;strong&amp;gt;Память&amp;lt;/strong&amp;gt;&amp;lt;br /&amp;gt;Встроенная память (Мб) : 64000&amp;lt;br /&amp;gt;Оперативная память (Мб) : 1024&amp;lt;br /&amp;gt;Поддержка карт памяти : нет&amp;lt;br /&amp;gt;&amp;lt;strong&amp;gt;Мультимедиа&amp;lt;/strong&amp;gt;&amp;lt;br /&amp;gt;Аудиоплеер : да&amp;lt;br /&amp;gt;Видеоплеер : да&amp;lt;br /&amp;gt;Аудиоразъем : 3.5 мм&amp;lt;br /&amp;gt;Стереодинамики : Да&amp;lt;br /&amp;gt;Диктофон : да&amp;lt;br /&amp;gt;&amp;lt;strong&amp;gt;Система&amp;lt;/strong&amp;gt;&amp;lt;br /&amp;gt;Операционная система : iOS 9&amp;lt;br /&amp;gt;Навигация : GPS , A-GPS, ГЛОНАСС&amp;amp;nbsp;&amp;lt;br /&amp;gt;&amp;lt;strong&amp;gt;SIM-карта&amp;lt;/strong&amp;gt;&amp;lt;br /&amp;gt;Тип SIM-карты : nano-SIM&amp;lt;br /&amp;gt;Кол-во SIM-карт : 1&amp;lt;br /&amp;gt;&amp;lt;strong&amp;gt;Питание&amp;lt;/strong&amp;gt;&amp;lt;br /&amp;gt;Тип аккумулятора : Литий-ионный&amp;lt;br /&amp;gt;Емкость аккумулятора (мАч) : 1560&amp;lt;br /&amp;gt;Время разговора (ч) : 10&amp;lt;br /&amp;gt;Время ожидания (ч) : 250&amp;lt;br /&amp;gt;Воспроизведение музыки (ч) : 40&amp;lt;br /&amp;gt;Воспроизведение видео (ч) : 10&amp;lt;br /&amp;gt;&amp;lt;strong&amp;gt;Корпус&amp;lt;/strong&amp;gt;&amp;lt;br /&amp;gt;Тип корпуса : классический&amp;lt;br /&amp;gt;Высота (мм) : 123.8&amp;lt;br /&amp;gt;Ширина (мм) : 58.6&amp;lt;br /&amp;gt;Толщина (мм) : 7.6&amp;lt;br /&amp;gt;Вес (г) : 112&amp;lt;br /&amp;gt;&amp;lt;strong&amp;gt;Прочее&amp;lt;/strong&amp;gt;&amp;lt;br /&amp;gt;Производитель : Apple&amp;lt;br /&amp;gt;Код производителя : ME432RU/A&amp;lt;br /&amp;gt;Датчики : G-сенсор (акселерометр) , датчик освещенности , датчик приближения , цифровой компас&amp;amp;nbsp;&amp;lt;br /&amp;gt;Сканер отпечатков пальцев : есть&amp;lt;br /&amp;gt;Громкая связь : да&amp;lt;br /&amp;gt;Срок гарантии : 1 год&amp;lt;br /&amp;gt;Дополнительно : А1533 или А1457&amp;lt;br /&amp;gt;Страна производитель : Китай&amp;lt;/p&amp;gt;</description>
+		</offer>
+		<offer id='1cb41ed90af0e34fb6fb9352fb672144' available='true' bid='1' cbid='1'>
+			<url>http://ispark.info/shop/400494/931826</url>
+			<price>43950</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>400494</categoryId>
+			<picture>http://ispark.p.fl2.fo.ru/image/chunk61/9135044/400494_shop/931826_164a1a500a5a94fe3327561fa9284961.jpg</picture>
+			<delivery>true</delivery>
+			<local_delivery_cost>0</local_delivery_cost>
+			<name>Apple iPhone 6S Plus 32Gb Розовое Золото</name>
+			<description>&amp;lt;p&amp;gt;ЕДИНСТВЕННАЯ НОВОСТЬ &amp;amp;ndash; ВСЕ ПО-НОВОМУ&amp;amp;nbsp;&amp;lt;br /&amp;gt;&amp;lt;br /&amp;gt;Едва начав пользоваться iPhone 6s Plus, вы сразу почувствуете, насколько все изменилось. Технология 3D Touch открывает потрясающие новые возможности &amp;amp;ndash; достаточно одного нажатия. А функция Live Photos позволяет буквально оживить ваши воспоминания. И это только начало. Присмотритесь к iPhone 6s внимательнее, и вы увидите инновации на всех уровнях.&amp;amp;nbsp;&amp;lt;br /&amp;gt;&amp;lt;br /&amp;gt;ВЫДАЮЩИЙСЯ ДИЗАЙН. НОВЫЙ ШАГ ВПЕРЕД&amp;amp;nbsp;&amp;lt;br /&amp;gt;&amp;lt;br /&amp;gt;Инновации не всегда очевидны, но присмотревшись к iPhone 6s Plus внимательнее, вы увидите фундаментальные перемены. Корпус изготовлен из нового сплава на основе алюминия серии 7000, который применяется в аэрокосмической отрасли. Стекло дисплея iPhone 6s Plus прочнее любого другого стекла для смартфона. И теперь доступно новое цветовое решение: к серебристому, золотому и цвету &amp;quot;серый космос&amp;quot; добавился корпус &amp;quot;розовое золото&amp;quot;.&amp;amp;nbsp;&amp;lt;br /&amp;gt;&amp;lt;br /&amp;gt;НОВОЕ ПОКОЛЕНИЕ МУЛЬТИТАЧ&amp;amp;nbsp;&amp;lt;br /&amp;gt;&amp;lt;br /&amp;gt;iPhone 6s Plus предлагает принципиально новый способ взаимодействия с телефоном &amp;amp;ndash; впервые за свою историю iPhone может различать силу вашего нажатия на дисплей. Помимо таких знакомых жестов Multi-Touch, как касание, смахивание, сведение и разведение пальцев, технология 3D Touch позволяет использовать функции Peek и Pop. Например, если вы легко нажмете на письмо, функция Peek покажет превью. А если нажмете посильнее &amp;amp;ndash; функция Pop откроет его. И это совершенно новое измерение в работе с iPhone. К тому же при использовании 3D Touch iPhone обеспечивает тактильный отклик, поэтому вы не только видите результат своих действий, но и чувствуете интенсивность каждого нажатия.&amp;amp;nbsp;&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;&amp;amp;nbsp;&amp;lt;/p&amp;gt;
+&amp;lt;div&amp;gt;Технические характеристики&amp;lt;/div&amp;gt;
+&amp;lt;table&amp;gt;
+&amp;lt;tbody&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;Диапазоны GSM&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;850, 900, 1800, 1900&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;Интернет&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;GPRS, EDGE, 3G, 4G&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;Диагональ (дюйм)&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;5.5&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;Разрешение (пикс)&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;1334x750&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;Фотокамера (Мп)&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;12&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;Количество ядер&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;2&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;Встроенная память (Мб)&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;32000&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;Оперативная память (Мб)&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;2048&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;Поддержка карт памяти&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;нет&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;Операционная система&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;iOS 10&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;SIM-карта&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;nano-SIM&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;Вес (г)&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;143&amp;lt;br /&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;/tbody&amp;gt;
+&amp;lt;/table&amp;gt;</description>
+		</offer>
+		<offer id='6dbc14977026d9c07fc5b500acee63e0' available='true' bid='1' cbid='1'>
+			<url>http://ispark.info/shop/400494/931824</url>
+			<price>43950</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>400494</categoryId>
+			<picture>http://ispark.p.fl2.fo.ru/image/chunk61/9135044/400494_shop/931824_bf801864ec92a718458cdb5c5b84c1c9.jpg</picture>
+			<delivery>true</delivery>
+			<local_delivery_cost>0</local_delivery_cost>
+			<name>Apple iPhone 6S Plus 32Gb Золотистый</name>
+			<description>&amp;lt;p&amp;gt;ЕДИНСТВЕННАЯ НОВОСТЬ &amp;amp;ndash; ВСЕ ПО-НОВОМУ&amp;amp;nbsp;&amp;lt;br /&amp;gt;&amp;lt;br /&amp;gt;Едва начав пользоваться iPhone 6s Plus, вы сразу почувствуете, насколько все изменилось. Технология 3D Touch открывает потрясающие новые возможности &amp;amp;ndash; достаточно одного нажатия. А функция Live Photos позволяет буквально оживить ваши воспоминания. И это только начало. Присмотритесь к iPhone 6s внимательнее, и вы увидите инновации на всех уровнях.&amp;amp;nbsp;&amp;lt;br /&amp;gt;&amp;lt;br /&amp;gt;ВЫДАЮЩИЙСЯ ДИЗАЙН. НОВЫЙ ШАГ ВПЕРЕД&amp;amp;nbsp;&amp;lt;br /&amp;gt;&amp;lt;br /&amp;gt;Инновации не всегда очевидны, но присмотревшись к iPhone 6s Plus внимательнее, вы увидите фундаментальные перемены. Корпус изготовлен из нового сплава на основе алюминия серии 7000, который применяется в аэрокосмической отрасли. Стекло дисплея iPhone 6s Plus прочнее любого другого стекла для смартфона. И теперь доступно новое цветовое решение: к серебристому, золотому и цвету &amp;quot;серый космос&amp;quot; добавился корпус &amp;quot;розовое золото&amp;quot;.&amp;amp;nbsp;&amp;lt;br /&amp;gt;&amp;lt;br /&amp;gt;НОВОЕ ПОКОЛЕНИЕ МУЛЬТИТАЧ&amp;amp;nbsp;&amp;lt;br /&amp;gt;&amp;lt;br /&amp;gt;iPhone 6s Plus предлагает принципиально новый способ взаимодействия с телефоном &amp;amp;ndash; впервые за свою историю iPhone может различать силу вашего нажатия на дисплей. Помимо таких знакомых жестов Multi-Touch, как касание, смахивание, сведение и разведение пальцев, технология 3D Touch позволяет использовать функции Peek и Pop. Например, если вы легко нажмете на письмо, функция Peek покажет превью. А если нажмете посильнее &amp;amp;ndash; функция Pop откроет его. И это совершенно новое измерение в работе с iPhone. К тому же при использовании 3D Touch iPhone обеспечивает тактильный отклик, поэтому вы не только видите результат своих действий, но и чувствуете интенсивность каждого нажатия.&amp;amp;nbsp;&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;&amp;amp;nbsp;&amp;lt;/p&amp;gt;
+&amp;lt;div&amp;gt;Технические характеристики&amp;lt;/div&amp;gt;
+&amp;lt;table&amp;gt;
+&amp;lt;tbody&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;Диапазоны GSM&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;850, 900, 1800, 1900&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;Интернет&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;GPRS, EDGE, 3G, 4G&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;Диагональ (дюйм)&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;5.5&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;Разрешение (пикс)&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;1334x750&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;Фотокамера (Мп)&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;12&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;Количество ядер&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;2&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;Встроенная память (Мб)&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;32000&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;Оперативная память (Мб)&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;2048&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;Поддержка карт памяти&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;нет&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;Операционная система&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;iOS 10&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;SIM-карта&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;nano-SIM&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;Вес (г)&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;143&amp;lt;br /&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;/tbody&amp;gt;
+&amp;lt;/table&amp;gt;</description>
+		</offer>
+		<offer id='f4f5618ea7607f0479331e69181f0e9a' available='true' bid='1' cbid='1'>
+			<url>http://ispark.info/shop/400494/931822</url>
+			<price>43950</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>400494</categoryId>
+			<picture>http://ispark.p.fl2.fo.ru/image/chunk61/9135044/400494_shop/931822_e93030a9689d6ce59aed4c06971f13ac.jpg</picture>
+			<delivery>true</delivery>
+			<local_delivery_cost>0</local_delivery_cost>
+			<name>Apple iPhone 6S Plus 32Gb Серебристый</name>
+			<description>&amp;lt;p&amp;gt;ЕДИНСТВЕННАЯ НОВОСТЬ &amp;amp;ndash; ВСЕ ПО-НОВОМУ&amp;amp;nbsp;&amp;lt;br /&amp;gt;&amp;lt;br /&amp;gt;Едва начав пользоваться iPhone 6s Plus, вы сразу почувствуете, насколько все изменилось. Технология 3D Touch открывает потрясающие новые возможности &amp;amp;ndash; достаточно одного нажатия. А функция Live Photos позволяет буквально оживить ваши воспоминания. И это только начало. Присмотритесь к iPhone 6s внимательнее, и вы увидите инновации на всех уровнях.&amp;amp;nbsp;&amp;lt;br /&amp;gt;&amp;lt;br /&amp;gt;ВЫДАЮЩИЙСЯ ДИЗАЙН. НОВЫЙ ШАГ ВПЕРЕД&amp;amp;nbsp;&amp;lt;br /&amp;gt;&amp;lt;br /&amp;gt;Инновации не всегда очевидны, но присмотревшись к iPhone 6s Plus внимательнее, вы увидите фундаментальные перемены. Корпус изготовлен из нового сплава на основе алюминия серии 7000, который применяется в аэрокосмической отрасли. Стекло дисплея iPhone 6s Plus прочнее любого другого стекла для смартфона. И теперь доступно новое цветовое решение: к серебристому, золотому и цвету &amp;quot;серый космос&amp;quot; добавился корпус &amp;quot;розовое золото&amp;quot;.&amp;amp;nbsp;&amp;lt;br /&amp;gt;&amp;lt;br /&amp;gt;НОВОЕ ПОКОЛЕНИЕ МУЛЬТИТАЧ&amp;amp;nbsp;&amp;lt;br /&amp;gt;&amp;lt;br /&amp;gt;iPhone 6s Plus предлагает принципиально новый способ взаимодействия с телефоном &amp;amp;ndash; впервые за свою историю iPhone может различать силу вашего нажатия на дисплей. Помимо таких знакомых жестов Multi-Touch, как касание, смахивание, сведение и разведение пальцев, технология 3D Touch позволяет использовать функции Peek и Pop. Например, если вы легко нажмете на письмо, функция Peek покажет превью. А если нажмете посильнее &amp;amp;ndash; функция Pop откроет его. И это совершенно новое измерение в работе с iPhone. К тому же при использовании 3D Touch iPhone обеспечивает тактильный отклик, поэтому вы не только видите результат своих действий, но и чувствуете интенсивность каждого нажатия.&amp;amp;nbsp;&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;&amp;amp;nbsp;&amp;lt;/p&amp;gt;
+&amp;lt;div&amp;gt;Технические характеристики&amp;lt;/div&amp;gt;
+&amp;lt;table&amp;gt;
+&amp;lt;tbody&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;Диапазоны GSM&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;850, 900, 1800, 1900&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;Интернет&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;GPRS, EDGE, 3G, 4G&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;Диагональ (дюйм)&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;5.5&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;Разрешение (пикс)&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;1334x750&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;Фотокамера (Мп)&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;12&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;Количество ядер&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;2&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;Встроенная память (Мб)&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;32000&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;Оперативная память (Мб)&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;2048&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;Поддержка карт памяти&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;нет&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;Операционная система&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;iOS 10&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;SIM-карта&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;nano-SIM&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;Вес (г)&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;143&amp;lt;br /&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;/tbody&amp;gt;
+&amp;lt;/table&amp;gt;</description>
+		</offer>
+		<offer id='9ec9e80f16d8165812bbf6262fb52c49' available='true' bid='1' cbid='1'>
+			<url>http://ispark.info/shop/400494/931820</url>
+			<price>43950</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>400494</categoryId>
+			<picture>http://ispark.p.fl2.fo.ru/image/chunk61/9135044/400494_shop/931820_a1f2eacea3ea0b842135c2c209356fff.jpg</picture>
+			<delivery>true</delivery>
+			<local_delivery_cost>0</local_delivery_cost>
+			<name>Apple iPhone 6S Plus 32Gb Серый Космос</name>
+			<description>&amp;lt;p&amp;gt;ЕДИНСТВЕННАЯ НОВОСТЬ &amp;amp;ndash; ВСЕ ПО-НОВОМУ&amp;amp;nbsp;&amp;lt;br /&amp;gt;&amp;lt;br /&amp;gt;Едва начав пользоваться iPhone 6s Plus, вы сразу почувствуете, насколько все изменилось. Технология 3D Touch открывает потрясающие новые возможности &amp;amp;ndash; достаточно одного нажатия. А функция Live Photos позволяет буквально оживить ваши воспоминания. И это только начало. Присмотритесь к iPhone 6s внимательнее, и вы увидите инновации на всех уровнях.&amp;amp;nbsp;&amp;lt;br /&amp;gt;&amp;lt;br /&amp;gt;ВЫДАЮЩИЙСЯ ДИЗАЙН. НОВЫЙ ШАГ ВПЕРЕД&amp;amp;nbsp;&amp;lt;br /&amp;gt;&amp;lt;br /&amp;gt;Инновации не всегда очевидны, но присмотревшись к iPhone 6s Plus внимательнее, вы увидите фундаментальные перемены. Корпус изготовлен из нового сплава на основе алюминия серии 7000, который применяется в аэрокосмической отрасли. Стекло дисплея iPhone 6s Plus прочнее любого другого стекла для смартфона. И теперь доступно новое цветовое решение: к серебристому, золотому и цвету &amp;quot;серый космос&amp;quot; добавился корпус &amp;quot;розовое золото&amp;quot;.&amp;amp;nbsp;&amp;lt;br /&amp;gt;&amp;lt;br /&amp;gt;НОВОЕ ПОКОЛЕНИЕ МУЛЬТИТАЧ&amp;amp;nbsp;&amp;lt;br /&amp;gt;&amp;lt;br /&amp;gt;iPhone 6s Plus предлагает принципиально новый способ взаимодействия с телефоном &amp;amp;ndash; впервые за свою историю iPhone может различать силу вашего нажатия на дисплей. Помимо таких знакомых жестов Multi-Touch, как касание, смахивание, сведение и разведение пальцев, технология 3D Touch позволяет использовать функции Peek и Pop. Например, если вы легко нажмете на письмо, функция Peek покажет превью. А если нажмете посильнее &amp;amp;ndash; функция Pop откроет его. И это совершенно новое измерение в работе с iPhone. К тому же при использовании 3D Touch iPhone обеспечивает тактильный отклик, поэтому вы не только видите результат своих действий, но и чувствуете интенсивность каждого нажатия.&amp;amp;nbsp;&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;&amp;amp;nbsp;&amp;lt;/p&amp;gt;
+&amp;lt;div&amp;gt;Технические характеристики&amp;lt;/div&amp;gt;
+&amp;lt;table&amp;gt;
+&amp;lt;tbody&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;Диапазоны GSM&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;850, 900, 1800, 1900&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;Интернет&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;GPRS, EDGE, 3G, 4G&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;Диагональ (дюйм)&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;5.5&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;Разрешение (пикс)&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;1334x750&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;Фотокамера (Мп)&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;12&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;Количество ядер&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;2&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;Встроенная память (Мб)&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;32000&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;Оперативная память (Мб)&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;2048&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;Поддержка карт памяти&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;нет&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;Операционная система&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;iOS 10&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;SIM-карта&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;nano-SIM&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;Вес (г)&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;143&amp;lt;br /&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;/tbody&amp;gt;
+&amp;lt;/table&amp;gt;</description>
 		</offer>
 		<offer id='491e341b2a9541a143b646f38b6209b3' available='true' bid='1' cbid='1'>
 			<url>http://ispark.info/shop/398650/845342</url>
@@ -1364,6 +1940,1380 @@
 &amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Питание&amp;lt;/strong&amp;gt;&amp;lt;br /&amp;gt;Тип аккумулятора : Li-ion&amp;lt;br /&amp;gt;Время разговора в сети 3G (ч) : 14&amp;lt;br /&amp;gt;Время ожидания (ч) : 250&amp;lt;br /&amp;gt;Воспроизведение музыки (ч) : 50&amp;lt;br /&amp;gt;Воспроизведение видео (ч) : 11&amp;lt;br /&amp;gt;Время работы в интернете через сотовую сеть (ч) : 10&amp;lt;br /&amp;gt;Время работы в интернете через Wi-Fi (ч) : 11&amp;lt;/p&amp;gt;
 &amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Корпус&amp;lt;/strong&amp;gt;&amp;lt;br /&amp;gt;Тип корпуса : классический&amp;lt;br /&amp;gt;Высота (мм) : 138.1&amp;lt;br /&amp;gt;Ширина (мм) : 67&amp;lt;br /&amp;gt;Толщина (мм) : 6.9&amp;lt;br /&amp;gt;Вес (г) : 129&amp;lt;br /&amp;gt;Материал корпуса : алюминий, нерж. сталь&amp;lt;/p&amp;gt;
 &amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Прочее&amp;lt;/strong&amp;gt;&amp;lt;br /&amp;gt;Производитель : Apple&amp;lt;br /&amp;gt;Датчики : G-сенсор , датчик освещенности , датчик приближения , цифровой компас&amp;amp;nbsp;&amp;lt;br /&amp;gt;Сканер отпечатков пальцев : есть&amp;lt;br /&amp;gt;Громкая связь : да&amp;lt;br /&amp;gt;Срок гарантии : 1 год&amp;lt;br /&amp;gt;Дополнительно : Барометр; Функция точного определения местоположения iBeacon; Сенсор идентификации по отпечатку пальца встроен в кнопку &amp;quot;Домой&amp;quot;; Запись замедленного видео (120 или 240 кадров/с)&amp;lt;br /&amp;gt;Страна производитель : Китай&amp;lt;/p&amp;gt;</description>
+		</offer>
+		<offer id='1630f563cf3f15d700c1e0aeef608d30' available='true' bid='1' cbid='1'>
+			<url>http://ispark.info/shop/398668/931808</url>
+			<price>44450</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>398668</categoryId>
+			<picture>http://ispark.p.fl2.fo.ru/image/chunk61/9135044/398668_shop/931808_7602fc3ffac3135da075653e9e96a51f.jpg</picture>
+			<delivery>true</delivery>
+			<local_delivery_cost>0</local_delivery_cost>
+			<name>Apple iPhone 7 32GB Розовое Золото</name>
+			<description>&amp;lt;p&amp;gt;&amp;lt;span&amp;gt;ЭТО 7&amp;lt;/span&amp;gt;&amp;lt;span&amp;gt;&amp;amp;nbsp;&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span&amp;gt;В iPhone 7 все важнейшие аспекты iPhone значительно улучшены. Это принципиально новая система камер для фото и видеосъемки. Максимально мощный и экономичный аккумулятор. Стереодинамики с богатым звучанием. Самый яркий и разноцветный из всех дисплеев iPhone. Защита от брызг и воды. И его внешние данные впечатляют не менее, чем внутренние возможности. Все это iPhone 7.&amp;amp;nbsp;&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span&amp;gt;ДВА РАЗМЕРА. ПЯТЬ ЦВЕТОВ&amp;lt;/span&amp;gt;&amp;lt;span&amp;gt;&amp;amp;nbsp;&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span&amp;gt;iPhone 7 и iPhone 7 Plus представлены в двух новых цветовых вариантах: благородный матовый черный и роскошный глубокий глянцевый &amp;quot;черный оникс&amp;quot;. Обе модели &amp;amp;mdash; 4,7 и 5,5 дюйма &amp;amp;mdash; сделаны из невероятно прочного алюминия серии 7000 и доступны также в фирменных цветах &amp;quot;розовое золото&amp;quot;, серебристый и золотой.&amp;amp;nbsp;&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span&amp;gt;ЗОЛОТОЙ СТАНДАРТ ЧЕРНОГО&amp;lt;/span&amp;gt;&amp;lt;span&amp;gt;&amp;amp;nbsp;&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span&amp;gt;Новый корпус глубокого черного цвета изготовлен из гладкого матированного алюминия. А для достижения глянцевого эффекта корпус цвета &amp;quot;черный оникс&amp;quot; подвергается высокоточному девятиступенчатому процессу анодирования и полировки. В результате получается настолько глубокий и равномерный черный цвет, что граница между стеклом и алюминием практически неразличима.&amp;amp;nbsp;&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span&amp;gt;ВОДОУСТОЙЧИВАЯ КОНСТРУКЦИЯ&amp;lt;/span&amp;gt;&amp;lt;span&amp;gt;&amp;amp;nbsp;&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span&amp;gt;Конструкция iPhone 7 полностью обновлена &amp;amp;mdash; это первый iPhone, устойчивый к воздействию воды. Теперь вы намного лучше защищены от влаги, брызг и даже пыли.&amp;amp;nbsp;&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span&amp;gt;НОВАЯ КНОПКА &amp;quot;ДОМОЙ&amp;quot;&amp;lt;/span&amp;gt;&amp;lt;span&amp;gt;&amp;amp;nbsp;&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span&amp;gt;Кнопка &amp;quot;Домой&amp;quot; на iPhone 7 &amp;amp;mdash; это инновационный сенсорный элемент управления с поразительной скоростью реакции и чувствительностью к нажатию. Новый привод Taptic Engine обеспечивает точный тактильный отклик, и вы даже можете настроить его под себя. В общем, чувствуйте себя как дома. Для Touch ID используется передовой датчик идентификации по отпечатку пальца, который позволяет легко и безопасно устанавливать и снимать блокировку на iPhone.&amp;amp;nbsp;&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span&amp;gt;СОВЕРШЕННО НОВЫЙ ВЗГЛЯД НА КАМЕРУ&amp;lt;/span&amp;gt;&amp;lt;span&amp;gt;&amp;amp;nbsp;&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span&amp;gt;iPhone &amp;amp;mdash; это самая популярная в мире камера. Теперь у этой знаменитой камеры появляются новые возможности. Система оптической стабилизации на iPhone 7 уменьшает размытие, связанное с движением объектов и самого телефона. Специальный датчик позволяет отследить и уравновесить малейшие колебания &amp;amp;mdash; теперь выдержка может быть в 3 раза длиннее, чем на iPhone 6s. Благодаря диафрагме &amp;amp;fnof;/1.8 на матрицу камеры попадает до 50% больше света, чем у iPhone 6s, что обеспечивает потрясающее качество снимков при низкой освещенности. А с новым шестилинзовым объективом фотографии станут еще ярче и детальнее. Четыре мощных светодиода вспышки True Tone Quad-LED светят на 50% ярче, чем у iPhone 6s. Вспышка автоматически подстраивается под цветовую температуру окружающей среды, и в результате получаются четкие, хорошо освещенные снимки.&amp;amp;nbsp;&amp;lt;/span&amp;gt;&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;&amp;amp;nbsp;&amp;lt;/p&amp;gt;
+&amp;lt;div&amp;gt;Связь&amp;lt;/div&amp;gt;
+&amp;lt;table&amp;gt;
+&amp;lt;tbody&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;
+&amp;lt;div&amp;gt;&amp;lt;span&amp;gt;Диапазоны GSM&amp;lt;span data-tech-hint=&amp;quot;&amp;quot; data-id=&amp;quot;1190410927&amp;quot;&amp;gt;&amp;lt;i&amp;gt;&amp;amp;nbsp;&amp;lt;/i&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;850, 900, 1800, 1900&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;
+&amp;lt;div&amp;gt;&amp;lt;span&amp;gt;Диапазоны UMTS&amp;lt;span data-tech-hint=&amp;quot;&amp;quot; data-id=&amp;quot;1190410925&amp;quot;&amp;gt;&amp;lt;i&amp;gt;&amp;amp;nbsp;&amp;lt;/i&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;850, 1700, 1900, 2100, 900&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;
+&amp;lt;div&amp;gt;&amp;lt;span&amp;gt;Диапазоны LTE&amp;lt;span data-tech-hint=&amp;quot;&amp;quot; data-id=&amp;quot;1190410929&amp;quot;&amp;gt;&amp;lt;i&amp;gt;&amp;amp;nbsp;&amp;lt;/i&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 18, 19, 20, 25, 26, 27, 28, 29, 30, 38, 39, 40, 41&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;
+&amp;lt;div&amp;gt;&amp;lt;span&amp;gt;Интернет&amp;lt;span data-tech-hint=&amp;quot;&amp;quot; data-id=&amp;quot;1190373605&amp;quot;&amp;gt;&amp;lt;i&amp;gt;&amp;amp;nbsp;&amp;lt;/i&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;&amp;lt;span&amp;gt;GPRS&amp;lt;span data-tech-hint=&amp;quot;&amp;quot; data-id=&amp;quot;1322011121&amp;quot;&amp;gt;&amp;lt;i&amp;gt;&amp;amp;nbsp;&amp;lt;/i&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;,&amp;amp;nbsp;&amp;lt;span&amp;gt;EDGE&amp;lt;span data-tech-hint=&amp;quot;&amp;quot; data-id=&amp;quot;1322011123&amp;quot;&amp;gt;&amp;lt;i&amp;gt;&amp;amp;nbsp;&amp;lt;/i&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;,&amp;amp;nbsp;&amp;lt;span&amp;gt;3G&amp;lt;span data-tech-hint=&amp;quot;&amp;quot; data-id=&amp;quot;1322011125&amp;quot;&amp;gt;&amp;lt;i&amp;gt;&amp;amp;nbsp;&amp;lt;/i&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;,&amp;amp;nbsp;&amp;lt;span&amp;gt;4G&amp;lt;span data-tech-hint=&amp;quot;&amp;quot; data-id=&amp;quot;1322011127&amp;quot;&amp;gt;&amp;lt;i&amp;gt;&amp;amp;nbsp;&amp;lt;/i&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;
+&amp;lt;div&amp;gt;&amp;lt;span&amp;gt;Bluetooth&amp;lt;span data-tech-hint=&amp;quot;&amp;quot; data-id=&amp;quot;1190373589&amp;quot;&amp;gt;&amp;lt;i&amp;gt;&amp;amp;nbsp;&amp;lt;/i&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;4.2&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;
+&amp;lt;div&amp;gt;&amp;lt;span&amp;gt;Wi-Fi (802.11)&amp;lt;span data-tech-hint=&amp;quot;&amp;quot; data-id=&amp;quot;1190373607&amp;quot;&amp;gt;&amp;lt;i&amp;gt;&amp;amp;nbsp;&amp;lt;/i&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;a,&amp;amp;nbsp;&amp;lt;span&amp;gt;b&amp;lt;span data-tech-hint=&amp;quot;&amp;quot; data-id=&amp;quot;1322011131&amp;quot;&amp;gt;&amp;lt;i&amp;gt;&amp;amp;nbsp;&amp;lt;/i&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;,&amp;amp;nbsp;&amp;lt;span&amp;gt;g&amp;lt;span data-tech-hint=&amp;quot;&amp;quot; data-id=&amp;quot;1322011133&amp;quot;&amp;gt;&amp;lt;i&amp;gt;&amp;amp;nbsp;&amp;lt;/i&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;,&amp;amp;nbsp;&amp;lt;span&amp;gt;n&amp;lt;span data-tech-hint=&amp;quot;&amp;quot; data-id=&amp;quot;1322011135&amp;quot;&amp;gt;&amp;lt;i&amp;gt;&amp;amp;nbsp;&amp;lt;/i&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;,&amp;amp;nbsp;&amp;lt;span&amp;gt;ac&amp;lt;span data-tech-hint=&amp;quot;&amp;quot; data-id=&amp;quot;1322011137&amp;quot;&amp;gt;&amp;lt;i&amp;gt;&amp;amp;nbsp;&amp;lt;/i&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;, с технологией MIMO, 2.4 ГГц, 5 ГГц&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;
+&amp;lt;div&amp;gt;&amp;lt;span&amp;gt;NFC&amp;lt;span data-tech-hint=&amp;quot;&amp;quot; data-id=&amp;quot;1190410907&amp;quot;&amp;gt;&amp;lt;i&amp;gt;&amp;amp;nbsp;&amp;lt;/i&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;да&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;
+&amp;lt;div&amp;gt;&amp;lt;span&amp;gt;Разъем для синхронизации&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;Apple Lightning&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;/tbody&amp;gt;
+&amp;lt;/table&amp;gt;
+&amp;lt;div&amp;gt;Дисплей&amp;lt;/div&amp;gt;
+&amp;lt;table&amp;gt;
+&amp;lt;tbody&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;
+&amp;lt;div&amp;gt;&amp;lt;span&amp;gt;Тип дисплея&amp;lt;span data-tech-hint=&amp;quot;&amp;quot; data-id=&amp;quot;1190373521&amp;quot;&amp;gt;&amp;lt;i&amp;gt;&amp;amp;nbsp;&amp;lt;/i&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;Retina HD&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;
+&amp;lt;div&amp;gt;&amp;lt;span&amp;gt;Диагональ (дюйм)&amp;lt;span data-tech-hint=&amp;quot;&amp;quot; data-id=&amp;quot;1190373557&amp;quot;&amp;gt;&amp;lt;i&amp;gt;&amp;amp;nbsp;&amp;lt;/i&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;4.7&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;
+&amp;lt;div&amp;gt;&amp;lt;span&amp;gt;Разрешение (пикс)&amp;lt;span data-tech-hint=&amp;quot;&amp;quot; data-id=&amp;quot;1190373525&amp;quot;&amp;gt;&amp;lt;i&amp;gt;&amp;amp;nbsp;&amp;lt;/i&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;1334x750&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;
+&amp;lt;div&amp;gt;&amp;lt;span&amp;gt;Плотность пикселей (PPI)&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;326&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;
+&amp;lt;div&amp;gt;&amp;lt;span&amp;gt;Количество цветов дисплея&amp;lt;span data-tech-hint=&amp;quot;&amp;quot; data-id=&amp;quot;1190373523&amp;quot;&amp;gt;&amp;lt;i&amp;gt;&amp;amp;nbsp;&amp;lt;/i&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;16 млн.&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;
+&amp;lt;div&amp;gt;&amp;lt;span&amp;gt;Сенсорный дисплей&amp;lt;span data-tech-hint=&amp;quot;&amp;quot; data-id=&amp;quot;1190373527&amp;quot;&amp;gt;&amp;lt;i&amp;gt;&amp;amp;nbsp;&amp;lt;/i&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;да&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;
+&amp;lt;div&amp;gt;&amp;lt;span&amp;gt;Тип сенсорного дисплея&amp;lt;span data-tech-hint=&amp;quot;&amp;quot; data-id=&amp;quot;1190373559&amp;quot;&amp;gt;&amp;lt;i&amp;gt;&amp;amp;nbsp;&amp;lt;/i&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;емкостный&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;
+&amp;lt;div&amp;gt;&amp;lt;span&amp;gt;Поддержка Multitouch&amp;lt;span data-tech-hint=&amp;quot;&amp;quot; data-id=&amp;quot;1190373561&amp;quot;&amp;gt;&amp;lt;i&amp;gt;&amp;amp;nbsp;&amp;lt;/i&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;да&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;
+&amp;lt;div&amp;gt;&amp;lt;span&amp;gt;Особенности дисплея&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;дисплей с расширенным цветовым охватом (P3), яркость до 625 кд/м&amp;amp;sup2; (стандартная), двухдоменные пиксели для расширения угла просмотра, поддержка одновременного отображения нескольких языков и наборов символов, масштабирование экрана&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;
+&amp;lt;div&amp;gt;&amp;lt;span&amp;gt;Олеофобное покрытие&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;да&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;/tbody&amp;gt;
+&amp;lt;/table&amp;gt;
+&amp;lt;div&amp;gt;Фотокамера&amp;lt;/div&amp;gt;
+&amp;lt;table&amp;gt;
+&amp;lt;tbody&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;
+&amp;lt;div&amp;gt;&amp;lt;span&amp;gt;Фотокамера (Мп)&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;12&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;
+&amp;lt;div&amp;gt;&amp;lt;span&amp;gt;Объектив&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;шестилинзовый&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;
+&amp;lt;div&amp;gt;&amp;lt;span&amp;gt;Апертура&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;f/1.8&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;
+&amp;lt;div&amp;gt;&amp;lt;span&amp;gt;Разрешение фотосъемки (пикс)&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;4000 x 3000&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;
+&amp;lt;div&amp;gt;&amp;lt;span&amp;gt;Стабилизация изображения&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;оптическая&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;
+&amp;lt;div&amp;gt;&amp;lt;span&amp;gt;Автофокус&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;да&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;
+&amp;lt;div&amp;gt;&amp;lt;span&amp;gt;Вспышка&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;да&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;
+&amp;lt;div&amp;gt;&amp;lt;span&amp;gt;Особенности основной камеры&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;геометки, определение лиц, панорама, серийная съемка, тач-фокус, съемка фото в режиме HDR, Live Photos со стабилизацией изображения, расширенный цветовой диапазон для фотографий и Live Photos, усовершенствованная система тональной компрессии, распознавание лиц и фигур, контроль экспозиции, шумоподавление&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;
+&amp;lt;div&amp;gt;&amp;lt;span&amp;gt;Видеозапись&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;да&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;
+&amp;lt;div&amp;gt;&amp;lt;span&amp;gt;Разрешение видеосъемки (пикс)&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;3840 x 2160&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;
+&amp;lt;div&amp;gt;&amp;lt;span&amp;gt;Частота кадров видеосъемки&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;30&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;
+&amp;lt;div&amp;gt;&amp;lt;span&amp;gt;Стабилизация видео&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;Да&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;
+&amp;lt;div&amp;gt;&amp;lt;span&amp;gt;Фронтальная камера (Мп)&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;7&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;
+&amp;lt;div&amp;gt;&amp;lt;span&amp;gt;Особенности фронтальной камеры&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;виртуальная вспышка, определение лиц, автоматическое включение HDR, контроль экспозиции, режим таймера, серийная съемка, расширенный цветовой диапазон для фотографий и Live Photos&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;/tbody&amp;gt;
+&amp;lt;/table&amp;gt;
+&amp;lt;div&amp;gt;Процессор&amp;lt;/div&amp;gt;
+&amp;lt;table&amp;gt;
+&amp;lt;tbody&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;
+&amp;lt;div&amp;gt;&amp;lt;span&amp;gt;Процессор&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;Apple A10 Fusion + сопроцессор движения M10&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;
+&amp;lt;div&amp;gt;&amp;lt;span&amp;gt;64-битная архитектура&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;да&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;
+&amp;lt;div&amp;gt;&amp;lt;span&amp;gt;Частота процессора (МГц)&amp;lt;span data-tech-hint=&amp;quot;&amp;quot; data-id=&amp;quot;1259035703&amp;quot;&amp;gt;&amp;lt;i&amp;gt;&amp;amp;nbsp;&amp;lt;/i&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;2340&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;
+&amp;lt;div&amp;gt;&amp;lt;span&amp;gt;Количество ядер&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;4&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;
+&amp;lt;div&amp;gt;&amp;lt;span&amp;gt;Видеочип&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;PowerVR GT7600&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;/tbody&amp;gt;
+&amp;lt;/table&amp;gt;
+&amp;lt;div&amp;gt;Память&amp;lt;/div&amp;gt;
+&amp;lt;table&amp;gt;
+&amp;lt;tbody&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;
+&amp;lt;div&amp;gt;&amp;lt;span&amp;gt;Встроенная память (Гб)&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;32&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;
+&amp;lt;div&amp;gt;&amp;lt;span&amp;gt;Встроенная память (Мб)&amp;lt;span data-tech-hint=&amp;quot;&amp;quot; data-id=&amp;quot;1190373571&amp;quot;&amp;gt;&amp;lt;i&amp;gt;&amp;amp;nbsp;&amp;lt;/i&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;32000&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;
+&amp;lt;div&amp;gt;&amp;lt;span&amp;gt;Оперативная память (Мб)&amp;lt;span data-tech-hint=&amp;quot;&amp;quot; data-id=&amp;quot;1259035707&amp;quot;&amp;gt;&amp;lt;i&amp;gt;&amp;amp;nbsp;&amp;lt;/i&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;2048&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;
+&amp;lt;div&amp;gt;&amp;lt;span&amp;gt;Поддержка карт памяти&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;нет&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;/tbody&amp;gt;
+&amp;lt;/table&amp;gt;
+&amp;lt;div&amp;gt;Мультимедиа&amp;lt;/div&amp;gt;
+&amp;lt;table&amp;gt;
+&amp;lt;tbody&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;
+&amp;lt;div&amp;gt;&amp;lt;span&amp;gt;Аудиоплеер&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;да&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;
+&amp;lt;div&amp;gt;&amp;lt;span&amp;gt;Видеоплеер&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;да&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;
+&amp;lt;div&amp;gt;&amp;lt;span&amp;gt;Аудиоразъем&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;Apple Lightning&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;
+&amp;lt;div&amp;gt;&amp;lt;span&amp;gt;Стереодинамики&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;Да&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;
+&amp;lt;div&amp;gt;&amp;lt;span&amp;gt;Диктофон&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;да&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;/tbody&amp;gt;
+&amp;lt;/table&amp;gt;
+&amp;lt;div&amp;gt;Система&amp;lt;/div&amp;gt;
+&amp;lt;table&amp;gt;
+&amp;lt;tbody&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;
+&amp;lt;div&amp;gt;&amp;lt;span&amp;gt;Операционная система&amp;lt;span data-tech-hint=&amp;quot;&amp;quot; data-id=&amp;quot;1190373595&amp;quot;&amp;gt;&amp;lt;i&amp;gt;&amp;amp;nbsp;&amp;lt;/i&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;iOS 10&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;
+&amp;lt;div&amp;gt;&amp;lt;span&amp;gt;Навигация&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;&amp;lt;span&amp;gt;GPS&amp;lt;span data-tech-hint=&amp;quot;&amp;quot; data-id=&amp;quot;1322011097&amp;quot;&amp;gt;&amp;lt;i&amp;gt;&amp;amp;nbsp;&amp;lt;/i&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;,&amp;amp;nbsp;&amp;lt;span&amp;gt;ГЛОНАСС&amp;lt;span data-tech-hint=&amp;quot;&amp;quot; data-id=&amp;quot;1322011099&amp;quot;&amp;gt;&amp;lt;i&amp;gt;&amp;amp;nbsp;&amp;lt;/i&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;, A-GPS&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;/tbody&amp;gt;
+&amp;lt;/table&amp;gt;
+&amp;lt;div&amp;gt;SIM-карта&amp;lt;/div&amp;gt;
+&amp;lt;table&amp;gt;
+&amp;lt;tbody&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;
+&amp;lt;div&amp;gt;&amp;lt;span&amp;gt;SIM-карта&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;nano-SIM&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;
+&amp;lt;div&amp;gt;&amp;lt;span&amp;gt;Кол-во SIM-карт&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;1&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;/tbody&amp;gt;
+&amp;lt;/table&amp;gt;
+&amp;lt;div&amp;gt;Питание&amp;lt;/div&amp;gt;
+&amp;lt;table&amp;gt;
+&amp;lt;tbody&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;
+&amp;lt;div&amp;gt;&amp;lt;span&amp;gt;Время разговора в сети 3G (ч)&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;14&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;
+&amp;lt;div&amp;gt;&amp;lt;span&amp;gt;Время работы в интернете через сотовую сеть (ч)&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;12&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;
+&amp;lt;div&amp;gt;&amp;lt;span&amp;gt;Время работы в интернете через Wi-Fi (ч)&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;14&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;
+&amp;lt;div&amp;gt;&amp;lt;span&amp;gt;Тип аккумулятора&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;Литий-ионный, несъемный&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;
+&amp;lt;div&amp;gt;&amp;lt;span&amp;gt;Аккумулятор (мАч)&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;1960&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;
+&amp;lt;div&amp;gt;&amp;lt;span&amp;gt;Время ожидания (ч)&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;240&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;
+&amp;lt;div&amp;gt;&amp;lt;span&amp;gt;Воспроизведение музыки (ч)&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;40&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;
+&amp;lt;div&amp;gt;&amp;lt;span&amp;gt;Воспроизведение видео (ч)&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;13&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;/tbody&amp;gt;
+&amp;lt;/table&amp;gt;
+&amp;lt;div&amp;gt;Корпус&amp;lt;/div&amp;gt;
+&amp;lt;table&amp;gt;
+&amp;lt;tbody&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;
+&amp;lt;div&amp;gt;&amp;lt;span&amp;gt;Тип корпуса&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;классический&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;
+&amp;lt;div&amp;gt;&amp;lt;span&amp;gt;Высота (мм)&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;138.3&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;
+&amp;lt;div&amp;gt;&amp;lt;span&amp;gt;Ширина (мм)&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;67.1&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;
+&amp;lt;div&amp;gt;&amp;lt;span&amp;gt;Толщина (мм)&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;7.1&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;
+&amp;lt;div&amp;gt;&amp;lt;span&amp;gt;Вес (г)&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;138&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;
+&amp;lt;div&amp;gt;&amp;lt;span&amp;gt;Материал корпуса&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;металл&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;
+&amp;lt;div&amp;gt;&amp;lt;span&amp;gt;Защита от влаги и пыли&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;Да&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;
+&amp;lt;div&amp;gt;&amp;lt;span&amp;gt;Стандарт защиты&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;IP67&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;/tbody&amp;gt;
+&amp;lt;/table&amp;gt;</description>
+		</offer>
+		<offer id='a76ddc6f5e3051b94ba44e1076535bec' available='true' bid='1' cbid='1'>
+			<url>http://ispark.info/shop/398668/931806</url>
+			<price>44450</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>398668</categoryId>
+			<picture>http://ispark.p.fl2.fo.ru/image/chunk61/9135044/398668_shop/931806_a962f2f4264511e0d254d1d489eacddf.jpg</picture>
+			<delivery>true</delivery>
+			<local_delivery_cost>0</local_delivery_cost>
+			<name>Apple iPhone 7 32GB Золотистый</name>
+			<description>&amp;lt;p&amp;gt;&amp;lt;span&amp;gt;ЭТО 7&amp;lt;/span&amp;gt;&amp;lt;span&amp;gt;&amp;amp;nbsp;&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span&amp;gt;В iPhone 7 все важнейшие аспекты iPhone значительно улучшены. Это принципиально новая система камер для фото и видеосъемки. Максимально мощный и экономичный аккумулятор. Стереодинамики с богатым звучанием. Самый яркий и разноцветный из всех дисплеев iPhone. Защита от брызг и воды. И его внешние данные впечатляют не менее, чем внутренние возможности. Все это iPhone 7.&amp;amp;nbsp;&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span&amp;gt;ДВА РАЗМЕРА. ПЯТЬ ЦВЕТОВ&amp;lt;/span&amp;gt;&amp;lt;span&amp;gt;&amp;amp;nbsp;&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span&amp;gt;iPhone 7 и iPhone 7 Plus представлены в двух новых цветовых вариантах: благородный матовый черный и роскошный глубокий глянцевый &amp;quot;черный оникс&amp;quot;. Обе модели &amp;amp;mdash; 4,7 и 5,5 дюйма &amp;amp;mdash; сделаны из невероятно прочного алюминия серии 7000 и доступны также в фирменных цветах &amp;quot;розовое золото&amp;quot;, серебристый и золотой.&amp;amp;nbsp;&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span&amp;gt;ЗОЛОТОЙ СТАНДАРТ ЧЕРНОГО&amp;lt;/span&amp;gt;&amp;lt;span&amp;gt;&amp;amp;nbsp;&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span&amp;gt;Новый корпус глубокого черного цвета изготовлен из гладкого матированного алюминия. А для достижения глянцевого эффекта корпус цвета &amp;quot;черный оникс&amp;quot; подвергается высокоточному девятиступенчатому процессу анодирования и полировки. В результате получается настолько глубокий и равномерный черный цвет, что граница между стеклом и алюминием практически неразличима.&amp;amp;nbsp;&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span&amp;gt;ВОДОУСТОЙЧИВАЯ КОНСТРУКЦИЯ&amp;lt;/span&amp;gt;&amp;lt;span&amp;gt;&amp;amp;nbsp;&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span&amp;gt;Конструкция iPhone 7 полностью обновлена &amp;amp;mdash; это первый iPhone, устойчивый к воздействию воды. Теперь вы намного лучше защищены от влаги, брызг и даже пыли.&amp;amp;nbsp;&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span&amp;gt;НОВАЯ КНОПКА &amp;quot;ДОМОЙ&amp;quot;&amp;lt;/span&amp;gt;&amp;lt;span&amp;gt;&amp;amp;nbsp;&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span&amp;gt;Кнопка &amp;quot;Домой&amp;quot; на iPhone 7 &amp;amp;mdash; это инновационный сенсорный элемент управления с поразительной скоростью реакции и чувствительностью к нажатию. Новый привод Taptic Engine обеспечивает точный тактильный отклик, и вы даже можете настроить его под себя. В общем, чувствуйте себя как дома. Для Touch ID используется передовой датчик идентификации по отпечатку пальца, который позволяет легко и безопасно устанавливать и снимать блокировку на iPhone.&amp;amp;nbsp;&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span&amp;gt;СОВЕРШЕННО НОВЫЙ ВЗГЛЯД НА КАМЕРУ&amp;lt;/span&amp;gt;&amp;lt;span&amp;gt;&amp;amp;nbsp;&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span&amp;gt;iPhone &amp;amp;mdash; это самая популярная в мире камера. Теперь у этой знаменитой камеры появляются новые возможности. Система оптической стабилизации на iPhone 7 уменьшает размытие, связанное с движением объектов и самого телефона. Специальный датчик позволяет отследить и уравновесить малейшие колебания &amp;amp;mdash; теперь выдержка может быть в 3 раза длиннее, чем на iPhone 6s. Благодаря диафрагме &amp;amp;fnof;/1.8 на матрицу камеры попадает до 50% больше света, чем у iPhone 6s, что обеспечивает потрясающее качество снимков при низкой освещенности. А с новым шестилинзовым объективом фотографии станут еще ярче и детальнее. Четыре мощных светодиода вспышки True Tone Quad-LED светят на 50% ярче, чем у iPhone 6s. Вспышка автоматически подстраивается под цветовую температуру окружающей среды, и в результате получаются четкие, хорошо освещенные снимки.&amp;amp;nbsp;&amp;lt;/span&amp;gt;&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;&amp;amp;nbsp;&amp;lt;/p&amp;gt;
+&amp;lt;div&amp;gt;Связь&amp;lt;/div&amp;gt;
+&amp;lt;table&amp;gt;
+&amp;lt;tbody&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;
+&amp;lt;div&amp;gt;&amp;lt;span&amp;gt;Диапазоны GSM&amp;lt;span data-tech-hint=&amp;quot;&amp;quot; data-id=&amp;quot;1190410927&amp;quot;&amp;gt;&amp;lt;i&amp;gt;&amp;amp;nbsp;&amp;lt;/i&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;850, 900, 1800, 1900&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;
+&amp;lt;div&amp;gt;&amp;lt;span&amp;gt;Диапазоны UMTS&amp;lt;span data-tech-hint=&amp;quot;&amp;quot; data-id=&amp;quot;1190410925&amp;quot;&amp;gt;&amp;lt;i&amp;gt;&amp;amp;nbsp;&amp;lt;/i&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;850, 1700, 1900, 2100, 900&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;
+&amp;lt;div&amp;gt;&amp;lt;span&amp;gt;Диапазоны LTE&amp;lt;span data-tech-hint=&amp;quot;&amp;quot; data-id=&amp;quot;1190410929&amp;quot;&amp;gt;&amp;lt;i&amp;gt;&amp;amp;nbsp;&amp;lt;/i&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 18, 19, 20, 25, 26, 27, 28, 29, 30, 38, 39, 40, 41&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;
+&amp;lt;div&amp;gt;&amp;lt;span&amp;gt;Интернет&amp;lt;span data-tech-hint=&amp;quot;&amp;quot; data-id=&amp;quot;1190373605&amp;quot;&amp;gt;&amp;lt;i&amp;gt;&amp;amp;nbsp;&amp;lt;/i&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;&amp;lt;span&amp;gt;GPRS&amp;lt;span data-tech-hint=&amp;quot;&amp;quot; data-id=&amp;quot;1322011121&amp;quot;&amp;gt;&amp;lt;i&amp;gt;&amp;amp;nbsp;&amp;lt;/i&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;,&amp;amp;nbsp;&amp;lt;span&amp;gt;EDGE&amp;lt;span data-tech-hint=&amp;quot;&amp;quot; data-id=&amp;quot;1322011123&amp;quot;&amp;gt;&amp;lt;i&amp;gt;&amp;amp;nbsp;&amp;lt;/i&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;,&amp;amp;nbsp;&amp;lt;span&amp;gt;3G&amp;lt;span data-tech-hint=&amp;quot;&amp;quot; data-id=&amp;quot;1322011125&amp;quot;&amp;gt;&amp;lt;i&amp;gt;&amp;amp;nbsp;&amp;lt;/i&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;,&amp;amp;nbsp;&amp;lt;span&amp;gt;4G&amp;lt;span data-tech-hint=&amp;quot;&amp;quot; data-id=&amp;quot;1322011127&amp;quot;&amp;gt;&amp;lt;i&amp;gt;&amp;amp;nbsp;&amp;lt;/i&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;
+&amp;lt;div&amp;gt;&amp;lt;span&amp;gt;Bluetooth&amp;lt;span data-tech-hint=&amp;quot;&amp;quot; data-id=&amp;quot;1190373589&amp;quot;&amp;gt;&amp;lt;i&amp;gt;&amp;amp;nbsp;&amp;lt;/i&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;4.2&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;
+&amp;lt;div&amp;gt;&amp;lt;span&amp;gt;Wi-Fi (802.11)&amp;lt;span data-tech-hint=&amp;quot;&amp;quot; data-id=&amp;quot;1190373607&amp;quot;&amp;gt;&amp;lt;i&amp;gt;&amp;amp;nbsp;&amp;lt;/i&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;a,&amp;amp;nbsp;&amp;lt;span&amp;gt;b&amp;lt;span data-tech-hint=&amp;quot;&amp;quot; data-id=&amp;quot;1322011131&amp;quot;&amp;gt;&amp;lt;i&amp;gt;&amp;amp;nbsp;&amp;lt;/i&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;,&amp;amp;nbsp;&amp;lt;span&amp;gt;g&amp;lt;span data-tech-hint=&amp;quot;&amp;quot; data-id=&amp;quot;1322011133&amp;quot;&amp;gt;&amp;lt;i&amp;gt;&amp;amp;nbsp;&amp;lt;/i&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;,&amp;amp;nbsp;&amp;lt;span&amp;gt;n&amp;lt;span data-tech-hint=&amp;quot;&amp;quot; data-id=&amp;quot;1322011135&amp;quot;&amp;gt;&amp;lt;i&amp;gt;&amp;amp;nbsp;&amp;lt;/i&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;,&amp;amp;nbsp;&amp;lt;span&amp;gt;ac&amp;lt;span data-tech-hint=&amp;quot;&amp;quot; data-id=&amp;quot;1322011137&amp;quot;&amp;gt;&amp;lt;i&amp;gt;&amp;amp;nbsp;&amp;lt;/i&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;, с технологией MIMO, 2.4 ГГц, 5 ГГц&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;
+&amp;lt;div&amp;gt;&amp;lt;span&amp;gt;NFC&amp;lt;span data-tech-hint=&amp;quot;&amp;quot; data-id=&amp;quot;1190410907&amp;quot;&amp;gt;&amp;lt;i&amp;gt;&amp;amp;nbsp;&amp;lt;/i&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;да&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;
+&amp;lt;div&amp;gt;&amp;lt;span&amp;gt;Разъем для синхронизации&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;Apple Lightning&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;/tbody&amp;gt;
+&amp;lt;/table&amp;gt;
+&amp;lt;div&amp;gt;Дисплей&amp;lt;/div&amp;gt;
+&amp;lt;table&amp;gt;
+&amp;lt;tbody&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;
+&amp;lt;div&amp;gt;&amp;lt;span&amp;gt;Тип дисплея&amp;lt;span data-tech-hint=&amp;quot;&amp;quot; data-id=&amp;quot;1190373521&amp;quot;&amp;gt;&amp;lt;i&amp;gt;&amp;amp;nbsp;&amp;lt;/i&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;Retina HD&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;
+&amp;lt;div&amp;gt;&amp;lt;span&amp;gt;Диагональ (дюйм)&amp;lt;span data-tech-hint=&amp;quot;&amp;quot; data-id=&amp;quot;1190373557&amp;quot;&amp;gt;&amp;lt;i&amp;gt;&amp;amp;nbsp;&amp;lt;/i&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;4.7&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;
+&amp;lt;div&amp;gt;&amp;lt;span&amp;gt;Разрешение (пикс)&amp;lt;span data-tech-hint=&amp;quot;&amp;quot; data-id=&amp;quot;1190373525&amp;quot;&amp;gt;&amp;lt;i&amp;gt;&amp;amp;nbsp;&amp;lt;/i&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;1334x750&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;
+&amp;lt;div&amp;gt;&amp;lt;span&amp;gt;Плотность пикселей (PPI)&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;326&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;
+&amp;lt;div&amp;gt;&amp;lt;span&amp;gt;Количество цветов дисплея&amp;lt;span data-tech-hint=&amp;quot;&amp;quot; data-id=&amp;quot;1190373523&amp;quot;&amp;gt;&amp;lt;i&amp;gt;&amp;amp;nbsp;&amp;lt;/i&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;16 млн.&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;
+&amp;lt;div&amp;gt;&amp;lt;span&amp;gt;Сенсорный дисплей&amp;lt;span data-tech-hint=&amp;quot;&amp;quot; data-id=&amp;quot;1190373527&amp;quot;&amp;gt;&amp;lt;i&amp;gt;&amp;amp;nbsp;&amp;lt;/i&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;да&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;
+&amp;lt;div&amp;gt;&amp;lt;span&amp;gt;Тип сенсорного дисплея&amp;lt;span data-tech-hint=&amp;quot;&amp;quot; data-id=&amp;quot;1190373559&amp;quot;&amp;gt;&amp;lt;i&amp;gt;&amp;amp;nbsp;&amp;lt;/i&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;емкостный&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;
+&amp;lt;div&amp;gt;&amp;lt;span&amp;gt;Поддержка Multitouch&amp;lt;span data-tech-hint=&amp;quot;&amp;quot; data-id=&amp;quot;1190373561&amp;quot;&amp;gt;&amp;lt;i&amp;gt;&amp;amp;nbsp;&amp;lt;/i&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;да&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;
+&amp;lt;div&amp;gt;&amp;lt;span&amp;gt;Особенности дисплея&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;дисплей с расширенным цветовым охватом (P3), яркость до 625 кд/м&amp;amp;sup2; (стандартная), двухдоменные пиксели для расширения угла просмотра, поддержка одновременного отображения нескольких языков и наборов символов, масштабирование экрана&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;
+&amp;lt;div&amp;gt;&amp;lt;span&amp;gt;Олеофобное покрытие&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;да&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;/tbody&amp;gt;
+&amp;lt;/table&amp;gt;
+&amp;lt;div&amp;gt;Фотокамера&amp;lt;/div&amp;gt;
+&amp;lt;table&amp;gt;
+&amp;lt;tbody&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;
+&amp;lt;div&amp;gt;&amp;lt;span&amp;gt;Фотокамера (Мп)&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;12&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;
+&amp;lt;div&amp;gt;&amp;lt;span&amp;gt;Объектив&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;шестилинзовый&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;
+&amp;lt;div&amp;gt;&amp;lt;span&amp;gt;Апертура&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;f/1.8&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;
+&amp;lt;div&amp;gt;&amp;lt;span&amp;gt;Разрешение фотосъемки (пикс)&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;4000 x 3000&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;
+&amp;lt;div&amp;gt;&amp;lt;span&amp;gt;Стабилизация изображения&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;оптическая&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;
+&amp;lt;div&amp;gt;&amp;lt;span&amp;gt;Автофокус&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;да&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;
+&amp;lt;div&amp;gt;&amp;lt;span&amp;gt;Вспышка&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;да&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;
+&amp;lt;div&amp;gt;&amp;lt;span&amp;gt;Особенности основной камеры&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;геометки, определение лиц, панорама, серийная съемка, тач-фокус, съемка фото в режиме HDR, Live Photos со стабилизацией изображения, расширенный цветовой диапазон для фотографий и Live Photos, усовершенствованная система тональной компрессии, распознавание лиц и фигур, контроль экспозиции, шумоподавление&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;
+&amp;lt;div&amp;gt;&amp;lt;span&amp;gt;Видеозапись&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;да&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;
+&amp;lt;div&amp;gt;&amp;lt;span&amp;gt;Разрешение видеосъемки (пикс)&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;3840 x 2160&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;
+&amp;lt;div&amp;gt;&amp;lt;span&amp;gt;Частота кадров видеосъемки&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;30&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;
+&amp;lt;div&amp;gt;&amp;lt;span&amp;gt;Стабилизация видео&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;Да&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;
+&amp;lt;div&amp;gt;&amp;lt;span&amp;gt;Фронтальная камера (Мп)&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;7&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;
+&amp;lt;div&amp;gt;&amp;lt;span&amp;gt;Особенности фронтальной камеры&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;виртуальная вспышка, определение лиц, автоматическое включение HDR, контроль экспозиции, режим таймера, серийная съемка, расширенный цветовой диапазон для фотографий и Live Photos&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;/tbody&amp;gt;
+&amp;lt;/table&amp;gt;
+&amp;lt;div&amp;gt;Процессор&amp;lt;/div&amp;gt;
+&amp;lt;table&amp;gt;
+&amp;lt;tbody&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;
+&amp;lt;div&amp;gt;&amp;lt;span&amp;gt;Процессор&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;Apple A10 Fusion + сопроцессор движения M10&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;
+&amp;lt;div&amp;gt;&amp;lt;span&amp;gt;64-битная архитектура&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;да&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;
+&amp;lt;div&amp;gt;&amp;lt;span&amp;gt;Частота процессора (МГц)&amp;lt;span data-tech-hint=&amp;quot;&amp;quot; data-id=&amp;quot;1259035703&amp;quot;&amp;gt;&amp;lt;i&amp;gt;&amp;amp;nbsp;&amp;lt;/i&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;2340&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;
+&amp;lt;div&amp;gt;&amp;lt;span&amp;gt;Количество ядер&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;4&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;
+&amp;lt;div&amp;gt;&amp;lt;span&amp;gt;Видеочип&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;PowerVR GT7600&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;/tbody&amp;gt;
+&amp;lt;/table&amp;gt;
+&amp;lt;div&amp;gt;Память&amp;lt;/div&amp;gt;
+&amp;lt;table&amp;gt;
+&amp;lt;tbody&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;
+&amp;lt;div&amp;gt;&amp;lt;span&amp;gt;Встроенная память (Гб)&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;32&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;
+&amp;lt;div&amp;gt;&amp;lt;span&amp;gt;Встроенная память (Мб)&amp;lt;span data-tech-hint=&amp;quot;&amp;quot; data-id=&amp;quot;1190373571&amp;quot;&amp;gt;&amp;lt;i&amp;gt;&amp;amp;nbsp;&amp;lt;/i&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;32000&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;
+&amp;lt;div&amp;gt;&amp;lt;span&amp;gt;Оперативная память (Мб)&amp;lt;span data-tech-hint=&amp;quot;&amp;quot; data-id=&amp;quot;1259035707&amp;quot;&amp;gt;&amp;lt;i&amp;gt;&amp;amp;nbsp;&amp;lt;/i&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;2048&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;
+&amp;lt;div&amp;gt;&amp;lt;span&amp;gt;Поддержка карт памяти&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;нет&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;/tbody&amp;gt;
+&amp;lt;/table&amp;gt;
+&amp;lt;div&amp;gt;Мультимедиа&amp;lt;/div&amp;gt;
+&amp;lt;table&amp;gt;
+&amp;lt;tbody&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;
+&amp;lt;div&amp;gt;&amp;lt;span&amp;gt;Аудиоплеер&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;да&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;
+&amp;lt;div&amp;gt;&amp;lt;span&amp;gt;Видеоплеер&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;да&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;
+&amp;lt;div&amp;gt;&amp;lt;span&amp;gt;Аудиоразъем&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;Apple Lightning&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;
+&amp;lt;div&amp;gt;&amp;lt;span&amp;gt;Стереодинамики&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;Да&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;
+&amp;lt;div&amp;gt;&amp;lt;span&amp;gt;Диктофон&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;да&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;/tbody&amp;gt;
+&amp;lt;/table&amp;gt;
+&amp;lt;div&amp;gt;Система&amp;lt;/div&amp;gt;
+&amp;lt;table&amp;gt;
+&amp;lt;tbody&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;
+&amp;lt;div&amp;gt;&amp;lt;span&amp;gt;Операционная система&amp;lt;span data-tech-hint=&amp;quot;&amp;quot; data-id=&amp;quot;1190373595&amp;quot;&amp;gt;&amp;lt;i&amp;gt;&amp;amp;nbsp;&amp;lt;/i&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;iOS 10&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;
+&amp;lt;div&amp;gt;&amp;lt;span&amp;gt;Навигация&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;&amp;lt;span&amp;gt;GPS&amp;lt;span data-tech-hint=&amp;quot;&amp;quot; data-id=&amp;quot;1322011097&amp;quot;&amp;gt;&amp;lt;i&amp;gt;&amp;amp;nbsp;&amp;lt;/i&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;,&amp;amp;nbsp;&amp;lt;span&amp;gt;ГЛОНАСС&amp;lt;span data-tech-hint=&amp;quot;&amp;quot; data-id=&amp;quot;1322011099&amp;quot;&amp;gt;&amp;lt;i&amp;gt;&amp;amp;nbsp;&amp;lt;/i&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;, A-GPS&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;/tbody&amp;gt;
+&amp;lt;/table&amp;gt;
+&amp;lt;div&amp;gt;SIM-карта&amp;lt;/div&amp;gt;
+&amp;lt;table&amp;gt;
+&amp;lt;tbody&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;
+&amp;lt;div&amp;gt;&amp;lt;span&amp;gt;SIM-карта&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;nano-SIM&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;
+&amp;lt;div&amp;gt;&amp;lt;span&amp;gt;Кол-во SIM-карт&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;1&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;/tbody&amp;gt;
+&amp;lt;/table&amp;gt;
+&amp;lt;div&amp;gt;Питание&amp;lt;/div&amp;gt;
+&amp;lt;table&amp;gt;
+&amp;lt;tbody&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;
+&amp;lt;div&amp;gt;&amp;lt;span&amp;gt;Время разговора в сети 3G (ч)&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;14&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;
+&amp;lt;div&amp;gt;&amp;lt;span&amp;gt;Время работы в интернете через сотовую сеть (ч)&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;12&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;
+&amp;lt;div&amp;gt;&amp;lt;span&amp;gt;Время работы в интернете через Wi-Fi (ч)&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;14&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;
+&amp;lt;div&amp;gt;&amp;lt;span&amp;gt;Тип аккумулятора&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;Литий-ионный, несъемный&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;
+&amp;lt;div&amp;gt;&amp;lt;span&amp;gt;Аккумулятор (мАч)&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;1960&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;
+&amp;lt;div&amp;gt;&amp;lt;span&amp;gt;Время ожидания (ч)&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;240&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;
+&amp;lt;div&amp;gt;&amp;lt;span&amp;gt;Воспроизведение музыки (ч)&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;40&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;
+&amp;lt;div&amp;gt;&amp;lt;span&amp;gt;Воспроизведение видео (ч)&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;13&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;/tbody&amp;gt;
+&amp;lt;/table&amp;gt;
+&amp;lt;div&amp;gt;Корпус&amp;lt;/div&amp;gt;
+&amp;lt;table&amp;gt;
+&amp;lt;tbody&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;
+&amp;lt;div&amp;gt;&amp;lt;span&amp;gt;Тип корпуса&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;классический&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;
+&amp;lt;div&amp;gt;&amp;lt;span&amp;gt;Высота (мм)&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;138.3&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;
+&amp;lt;div&amp;gt;&amp;lt;span&amp;gt;Ширина (мм)&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;67.1&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;
+&amp;lt;div&amp;gt;&amp;lt;span&amp;gt;Толщина (мм)&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;7.1&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;
+&amp;lt;div&amp;gt;&amp;lt;span&amp;gt;Вес (г)&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;138&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;
+&amp;lt;div&amp;gt;&amp;lt;span&amp;gt;Материал корпуса&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;металл&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;
+&amp;lt;div&amp;gt;&amp;lt;span&amp;gt;Защита от влаги и пыли&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;Да&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;
+&amp;lt;div&amp;gt;&amp;lt;span&amp;gt;Стандарт защиты&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;IP67&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;/tbody&amp;gt;
+&amp;lt;/table&amp;gt;</description>
+		</offer>
+		<offer id='496ea3b6119842af471261f90773aa9c' available='true' bid='1' cbid='1'>
+			<url>http://ispark.info/shop/398668/931804</url>
+			<price>44450</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>398668</categoryId>
+			<picture>http://ispark.p.fl2.fo.ru/image/chunk61/9135044/398668_shop/931804_1543fce1ca8d205cc065c4a69e581628.jpg</picture>
+			<delivery>true</delivery>
+			<local_delivery_cost>0</local_delivery_cost>
+			<name>Apple iPhone 7 32GB Серебристый</name>
+			<description>&amp;lt;p&amp;gt;&amp;lt;span&amp;gt;ЭТО 7&amp;lt;/span&amp;gt;&amp;lt;span&amp;gt;&amp;amp;nbsp;&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span&amp;gt;В iPhone 7 все важнейшие аспекты iPhone значительно улучшены. Это принципиально новая система камер для фото и видеосъемки. Максимально мощный и экономичный аккумулятор. Стереодинамики с богатым звучанием. Самый яркий и разноцветный из всех дисплеев iPhone. Защита от брызг и воды. И его внешние данные впечатляют не менее, чем внутренние возможности. Все это iPhone 7.&amp;amp;nbsp;&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span&amp;gt;ДВА РАЗМЕРА. ПЯТЬ ЦВЕТОВ&amp;lt;/span&amp;gt;&amp;lt;span&amp;gt;&amp;amp;nbsp;&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span&amp;gt;iPhone 7 и iPhone 7 Plus представлены в двух новых цветовых вариантах: благородный матовый черный и роскошный глубокий глянцевый &amp;quot;черный оникс&amp;quot;. Обе модели &amp;amp;mdash; 4,7 и 5,5 дюйма &amp;amp;mdash; сделаны из невероятно прочного алюминия серии 7000 и доступны также в фирменных цветах &amp;quot;розовое золото&amp;quot;, серебристый и золотой.&amp;amp;nbsp;&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span&amp;gt;ЗОЛОТОЙ СТАНДАРТ ЧЕРНОГО&amp;lt;/span&amp;gt;&amp;lt;span&amp;gt;&amp;amp;nbsp;&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span&amp;gt;Новый корпус глубокого черного цвета изготовлен из гладкого матированного алюминия. А для достижения глянцевого эффекта корпус цвета &amp;quot;черный оникс&amp;quot; подвергается высокоточному девятиступенчатому процессу анодирования и полировки. В результате получается настолько глубокий и равномерный черный цвет, что граница между стеклом и алюминием практически неразличима.&amp;amp;nbsp;&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span&amp;gt;ВОДОУСТОЙЧИВАЯ КОНСТРУКЦИЯ&amp;lt;/span&amp;gt;&amp;lt;span&amp;gt;&amp;amp;nbsp;&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span&amp;gt;Конструкция iPhone 7 полностью обновлена &amp;amp;mdash; это первый iPhone, устойчивый к воздействию воды. Теперь вы намного лучше защищены от влаги, брызг и даже пыли.&amp;amp;nbsp;&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span&amp;gt;НОВАЯ КНОПКА &amp;quot;ДОМОЙ&amp;quot;&amp;lt;/span&amp;gt;&amp;lt;span&amp;gt;&amp;amp;nbsp;&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span&amp;gt;Кнопка &amp;quot;Домой&amp;quot; на iPhone 7 &amp;amp;mdash; это инновационный сенсорный элемент управления с поразительной скоростью реакции и чувствительностью к нажатию. Новый привод Taptic Engine обеспечивает точный тактильный отклик, и вы даже можете настроить его под себя. В общем, чувствуйте себя как дома. Для Touch ID используется передовой датчик идентификации по отпечатку пальца, который позволяет легко и безопасно устанавливать и снимать блокировку на iPhone.&amp;amp;nbsp;&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span&amp;gt;СОВЕРШЕННО НОВЫЙ ВЗГЛЯД НА КАМЕРУ&amp;lt;/span&amp;gt;&amp;lt;span&amp;gt;&amp;amp;nbsp;&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;span&amp;gt;iPhone &amp;amp;mdash; это самая популярная в мире камера. Теперь у этой знаменитой камеры появляются новые возможности. Система оптической стабилизации на iPhone 7 уменьшает размытие, связанное с движением объектов и самого телефона. Специальный датчик позволяет отследить и уравновесить малейшие колебания &amp;amp;mdash; теперь выдержка может быть в 3 раза длиннее, чем на iPhone 6s. Благодаря диафрагме &amp;amp;fnof;/1.8 на матрицу камеры попадает до 50% больше света, чем у iPhone 6s, что обеспечивает потрясающее качество снимков при низкой освещенности. А с новым шестилинзовым объективом фотографии станут еще ярче и детальнее. Четыре мощных светодиода вспышки True Tone Quad-LED светят на 50% ярче, чем у iPhone 6s. Вспышка автоматически подстраивается под цветовую температуру окружающей среды, и в результате получаются четкие, хорошо освещенные снимки.&amp;amp;nbsp;&amp;lt;/span&amp;gt;&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;&amp;amp;nbsp;&amp;lt;/p&amp;gt;
+&amp;lt;div&amp;gt;Связь&amp;lt;/div&amp;gt;
+&amp;lt;table&amp;gt;
+&amp;lt;tbody&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;
+&amp;lt;div&amp;gt;&amp;lt;span&amp;gt;Диапазоны GSM&amp;lt;span data-tech-hint=&amp;quot;&amp;quot; data-id=&amp;quot;1190410927&amp;quot;&amp;gt;&amp;lt;i&amp;gt;&amp;amp;nbsp;&amp;lt;/i&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;850, 900, 1800, 1900&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;
+&amp;lt;div&amp;gt;&amp;lt;span&amp;gt;Диапазоны UMTS&amp;lt;span data-tech-hint=&amp;quot;&amp;quot; data-id=&amp;quot;1190410925&amp;quot;&amp;gt;&amp;lt;i&amp;gt;&amp;amp;nbsp;&amp;lt;/i&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;850, 1700, 1900, 2100, 900&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;
+&amp;lt;div&amp;gt;&amp;lt;span&amp;gt;Диапазоны LTE&amp;lt;span data-tech-hint=&amp;quot;&amp;quot; data-id=&amp;quot;1190410929&amp;quot;&amp;gt;&amp;lt;i&amp;gt;&amp;amp;nbsp;&amp;lt;/i&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 18, 19, 20, 25, 26, 27, 28, 29, 30, 38, 39, 40, 41&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;
+&amp;lt;div&amp;gt;&amp;lt;span&amp;gt;Интернет&amp;lt;span data-tech-hint=&amp;quot;&amp;quot; data-id=&amp;quot;1190373605&amp;quot;&amp;gt;&amp;lt;i&amp;gt;&amp;amp;nbsp;&amp;lt;/i&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;&amp;lt;span&amp;gt;GPRS&amp;lt;span data-tech-hint=&amp;quot;&amp;quot; data-id=&amp;quot;1322011121&amp;quot;&amp;gt;&amp;lt;i&amp;gt;&amp;amp;nbsp;&amp;lt;/i&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;,&amp;amp;nbsp;&amp;lt;span&amp;gt;EDGE&amp;lt;span data-tech-hint=&amp;quot;&amp;quot; data-id=&amp;quot;1322011123&amp;quot;&amp;gt;&amp;lt;i&amp;gt;&amp;amp;nbsp;&amp;lt;/i&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;,&amp;amp;nbsp;&amp;lt;span&amp;gt;3G&amp;lt;span data-tech-hint=&amp;quot;&amp;quot; data-id=&amp;quot;1322011125&amp;quot;&amp;gt;&amp;lt;i&amp;gt;&amp;amp;nbsp;&amp;lt;/i&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;,&amp;amp;nbsp;&amp;lt;span&amp;gt;4G&amp;lt;span data-tech-hint=&amp;quot;&amp;quot; data-id=&amp;quot;1322011127&amp;quot;&amp;gt;&amp;lt;i&amp;gt;&amp;amp;nbsp;&amp;lt;/i&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;
+&amp;lt;div&amp;gt;&amp;lt;span&amp;gt;Bluetooth&amp;lt;span data-tech-hint=&amp;quot;&amp;quot; data-id=&amp;quot;1190373589&amp;quot;&amp;gt;&amp;lt;i&amp;gt;&amp;amp;nbsp;&amp;lt;/i&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;4.2&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;
+&amp;lt;div&amp;gt;&amp;lt;span&amp;gt;Wi-Fi (802.11)&amp;lt;span data-tech-hint=&amp;quot;&amp;quot; data-id=&amp;quot;1190373607&amp;quot;&amp;gt;&amp;lt;i&amp;gt;&amp;amp;nbsp;&amp;lt;/i&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;a,&amp;amp;nbsp;&amp;lt;span&amp;gt;b&amp;lt;span data-tech-hint=&amp;quot;&amp;quot; data-id=&amp;quot;1322011131&amp;quot;&amp;gt;&amp;lt;i&amp;gt;&amp;amp;nbsp;&amp;lt;/i&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;,&amp;amp;nbsp;&amp;lt;span&amp;gt;g&amp;lt;span data-tech-hint=&amp;quot;&amp;quot; data-id=&amp;quot;1322011133&amp;quot;&amp;gt;&amp;lt;i&amp;gt;&amp;amp;nbsp;&amp;lt;/i&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;,&amp;amp;nbsp;&amp;lt;span&amp;gt;n&amp;lt;span data-tech-hint=&amp;quot;&amp;quot; data-id=&amp;quot;1322011135&amp;quot;&amp;gt;&amp;lt;i&amp;gt;&amp;amp;nbsp;&amp;lt;/i&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;,&amp;amp;nbsp;&amp;lt;span&amp;gt;ac&amp;lt;span data-tech-hint=&amp;quot;&amp;quot; data-id=&amp;quot;1322011137&amp;quot;&amp;gt;&amp;lt;i&amp;gt;&amp;amp;nbsp;&amp;lt;/i&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;, с технологией MIMO, 2.4 ГГц, 5 ГГц&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;
+&amp;lt;div&amp;gt;&amp;lt;span&amp;gt;NFC&amp;lt;span data-tech-hint=&amp;quot;&amp;quot; data-id=&amp;quot;1190410907&amp;quot;&amp;gt;&amp;lt;i&amp;gt;&amp;amp;nbsp;&amp;lt;/i&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;да&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;
+&amp;lt;div&amp;gt;&amp;lt;span&amp;gt;Разъем для синхронизации&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;Apple Lightning&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;/tbody&amp;gt;
+&amp;lt;/table&amp;gt;
+&amp;lt;div&amp;gt;Дисплей&amp;lt;/div&amp;gt;
+&amp;lt;table&amp;gt;
+&amp;lt;tbody&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;
+&amp;lt;div&amp;gt;&amp;lt;span&amp;gt;Тип дисплея&amp;lt;span data-tech-hint=&amp;quot;&amp;quot; data-id=&amp;quot;1190373521&amp;quot;&amp;gt;&amp;lt;i&amp;gt;&amp;amp;nbsp;&amp;lt;/i&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;Retina HD&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;
+&amp;lt;div&amp;gt;&amp;lt;span&amp;gt;Диагональ (дюйм)&amp;lt;span data-tech-hint=&amp;quot;&amp;quot; data-id=&amp;quot;1190373557&amp;quot;&amp;gt;&amp;lt;i&amp;gt;&amp;amp;nbsp;&amp;lt;/i&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;4.7&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;
+&amp;lt;div&amp;gt;&amp;lt;span&amp;gt;Разрешение (пикс)&amp;lt;span data-tech-hint=&amp;quot;&amp;quot; data-id=&amp;quot;1190373525&amp;quot;&amp;gt;&amp;lt;i&amp;gt;&amp;amp;nbsp;&amp;lt;/i&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;1334x750&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;
+&amp;lt;div&amp;gt;&amp;lt;span&amp;gt;Плотность пикселей (PPI)&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;326&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;
+&amp;lt;div&amp;gt;&amp;lt;span&amp;gt;Количество цветов дисплея&amp;lt;span data-tech-hint=&amp;quot;&amp;quot; data-id=&amp;quot;1190373523&amp;quot;&amp;gt;&amp;lt;i&amp;gt;&amp;amp;nbsp;&amp;lt;/i&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;16 млн.&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;
+&amp;lt;div&amp;gt;&amp;lt;span&amp;gt;Сенсорный дисплей&amp;lt;span data-tech-hint=&amp;quot;&amp;quot; data-id=&amp;quot;1190373527&amp;quot;&amp;gt;&amp;lt;i&amp;gt;&amp;amp;nbsp;&amp;lt;/i&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;да&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;
+&amp;lt;div&amp;gt;&amp;lt;span&amp;gt;Тип сенсорного дисплея&amp;lt;span data-tech-hint=&amp;quot;&amp;quot; data-id=&amp;quot;1190373559&amp;quot;&amp;gt;&amp;lt;i&amp;gt;&amp;amp;nbsp;&amp;lt;/i&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;емкостный&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;
+&amp;lt;div&amp;gt;&amp;lt;span&amp;gt;Поддержка Multitouch&amp;lt;span data-tech-hint=&amp;quot;&amp;quot; data-id=&amp;quot;1190373561&amp;quot;&amp;gt;&amp;lt;i&amp;gt;&amp;amp;nbsp;&amp;lt;/i&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;да&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;
+&amp;lt;div&amp;gt;&amp;lt;span&amp;gt;Особенности дисплея&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;дисплей с расширенным цветовым охватом (P3), яркость до 625 кд/м&amp;amp;sup2; (стандартная), двухдоменные пиксели для расширения угла просмотра, поддержка одновременного отображения нескольких языков и наборов символов, масштабирование экрана&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;
+&amp;lt;div&amp;gt;&amp;lt;span&amp;gt;Олеофобное покрытие&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;да&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;/tbody&amp;gt;
+&amp;lt;/table&amp;gt;
+&amp;lt;div&amp;gt;Фотокамера&amp;lt;/div&amp;gt;
+&amp;lt;table&amp;gt;
+&amp;lt;tbody&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;
+&amp;lt;div&amp;gt;&amp;lt;span&amp;gt;Фотокамера (Мп)&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;12&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;
+&amp;lt;div&amp;gt;&amp;lt;span&amp;gt;Объектив&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;шестилинзовый&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;
+&amp;lt;div&amp;gt;&amp;lt;span&amp;gt;Апертура&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;f/1.8&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;
+&amp;lt;div&amp;gt;&amp;lt;span&amp;gt;Разрешение фотосъемки (пикс)&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;4000 x 3000&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;
+&amp;lt;div&amp;gt;&amp;lt;span&amp;gt;Стабилизация изображения&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;оптическая&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;
+&amp;lt;div&amp;gt;&amp;lt;span&amp;gt;Автофокус&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;да&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;
+&amp;lt;div&amp;gt;&amp;lt;span&amp;gt;Вспышка&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;да&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;
+&amp;lt;div&amp;gt;&amp;lt;span&amp;gt;Особенности основной камеры&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;геометки, определение лиц, панорама, серийная съемка, тач-фокус, съемка фото в режиме HDR, Live Photos со стабилизацией изображения, расширенный цветовой диапазон для фотографий и Live Photos, усовершенствованная система тональной компрессии, распознавание лиц и фигур, контроль экспозиции, шумоподавление&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;
+&amp;lt;div&amp;gt;&amp;lt;span&amp;gt;Видеозапись&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;да&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;
+&amp;lt;div&amp;gt;&amp;lt;span&amp;gt;Разрешение видеосъемки (пикс)&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;3840 x 2160&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;
+&amp;lt;div&amp;gt;&amp;lt;span&amp;gt;Частота кадров видеосъемки&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;30&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;
+&amp;lt;div&amp;gt;&amp;lt;span&amp;gt;Стабилизация видео&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;Да&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;
+&amp;lt;div&amp;gt;&amp;lt;span&amp;gt;Фронтальная камера (Мп)&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;7&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;
+&amp;lt;div&amp;gt;&amp;lt;span&amp;gt;Особенности фронтальной камеры&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;виртуальная вспышка, определение лиц, автоматическое включение HDR, контроль экспозиции, режим таймера, серийная съемка, расширенный цветовой диапазон для фотографий и Live Photos&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;/tbody&amp;gt;
+&amp;lt;/table&amp;gt;
+&amp;lt;div&amp;gt;Процессор&amp;lt;/div&amp;gt;
+&amp;lt;table&amp;gt;
+&amp;lt;tbody&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;
+&amp;lt;div&amp;gt;&amp;lt;span&amp;gt;Процессор&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;Apple A10 Fusion + сопроцессор движения M10&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;
+&amp;lt;div&amp;gt;&amp;lt;span&amp;gt;64-битная архитектура&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;да&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;
+&amp;lt;div&amp;gt;&amp;lt;span&amp;gt;Частота процессора (МГц)&amp;lt;span data-tech-hint=&amp;quot;&amp;quot; data-id=&amp;quot;1259035703&amp;quot;&amp;gt;&amp;lt;i&amp;gt;&amp;amp;nbsp;&amp;lt;/i&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;2340&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;
+&amp;lt;div&amp;gt;&amp;lt;span&amp;gt;Количество ядер&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;4&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;
+&amp;lt;div&amp;gt;&amp;lt;span&amp;gt;Видеочип&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;PowerVR GT7600&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;/tbody&amp;gt;
+&amp;lt;/table&amp;gt;
+&amp;lt;div&amp;gt;Память&amp;lt;/div&amp;gt;
+&amp;lt;table&amp;gt;
+&amp;lt;tbody&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;
+&amp;lt;div&amp;gt;&amp;lt;span&amp;gt;Встроенная память (Гб)&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;32&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;
+&amp;lt;div&amp;gt;&amp;lt;span&amp;gt;Встроенная память (Мб)&amp;lt;span data-tech-hint=&amp;quot;&amp;quot; data-id=&amp;quot;1190373571&amp;quot;&amp;gt;&amp;lt;i&amp;gt;&amp;amp;nbsp;&amp;lt;/i&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;32000&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;
+&amp;lt;div&amp;gt;&amp;lt;span&amp;gt;Оперативная память (Мб)&amp;lt;span data-tech-hint=&amp;quot;&amp;quot; data-id=&amp;quot;1259035707&amp;quot;&amp;gt;&amp;lt;i&amp;gt;&amp;amp;nbsp;&amp;lt;/i&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;2048&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;
+&amp;lt;div&amp;gt;&amp;lt;span&amp;gt;Поддержка карт памяти&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;нет&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;/tbody&amp;gt;
+&amp;lt;/table&amp;gt;
+&amp;lt;div&amp;gt;Мультимедиа&amp;lt;/div&amp;gt;
+&amp;lt;table&amp;gt;
+&amp;lt;tbody&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;
+&amp;lt;div&amp;gt;&amp;lt;span&amp;gt;Аудиоплеер&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;да&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;
+&amp;lt;div&amp;gt;&amp;lt;span&amp;gt;Видеоплеер&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;да&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;
+&amp;lt;div&amp;gt;&amp;lt;span&amp;gt;Аудиоразъем&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;Apple Lightning&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;
+&amp;lt;div&amp;gt;&amp;lt;span&amp;gt;Стереодинамики&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;Да&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;
+&amp;lt;div&amp;gt;&amp;lt;span&amp;gt;Диктофон&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;да&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;/tbody&amp;gt;
+&amp;lt;/table&amp;gt;
+&amp;lt;div&amp;gt;Система&amp;lt;/div&amp;gt;
+&amp;lt;table&amp;gt;
+&amp;lt;tbody&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;
+&amp;lt;div&amp;gt;&amp;lt;span&amp;gt;Операционная система&amp;lt;span data-tech-hint=&amp;quot;&amp;quot; data-id=&amp;quot;1190373595&amp;quot;&amp;gt;&amp;lt;i&amp;gt;&amp;amp;nbsp;&amp;lt;/i&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;iOS 10&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;
+&amp;lt;div&amp;gt;&amp;lt;span&amp;gt;Навигация&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;&amp;lt;span&amp;gt;GPS&amp;lt;span data-tech-hint=&amp;quot;&amp;quot; data-id=&amp;quot;1322011097&amp;quot;&amp;gt;&amp;lt;i&amp;gt;&amp;amp;nbsp;&amp;lt;/i&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;,&amp;amp;nbsp;&amp;lt;span&amp;gt;ГЛОНАСС&amp;lt;span data-tech-hint=&amp;quot;&amp;quot; data-id=&amp;quot;1322011099&amp;quot;&amp;gt;&amp;lt;i&amp;gt;&amp;amp;nbsp;&amp;lt;/i&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;, A-GPS&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;/tbody&amp;gt;
+&amp;lt;/table&amp;gt;
+&amp;lt;div&amp;gt;SIM-карта&amp;lt;/div&amp;gt;
+&amp;lt;table&amp;gt;
+&amp;lt;tbody&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;
+&amp;lt;div&amp;gt;&amp;lt;span&amp;gt;SIM-карта&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;nano-SIM&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;
+&amp;lt;div&amp;gt;&amp;lt;span&amp;gt;Кол-во SIM-карт&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;1&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;/tbody&amp;gt;
+&amp;lt;/table&amp;gt;
+&amp;lt;div&amp;gt;Питание&amp;lt;/div&amp;gt;
+&amp;lt;table&amp;gt;
+&amp;lt;tbody&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;
+&amp;lt;div&amp;gt;&amp;lt;span&amp;gt;Время разговора в сети 3G (ч)&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;14&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;
+&amp;lt;div&amp;gt;&amp;lt;span&amp;gt;Время работы в интернете через сотовую сеть (ч)&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;12&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;
+&amp;lt;div&amp;gt;&amp;lt;span&amp;gt;Время работы в интернете через Wi-Fi (ч)&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;14&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;
+&amp;lt;div&amp;gt;&amp;lt;span&amp;gt;Тип аккумулятора&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;Литий-ионный, несъемный&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;
+&amp;lt;div&amp;gt;&amp;lt;span&amp;gt;Аккумулятор (мАч)&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;1960&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;
+&amp;lt;div&amp;gt;&amp;lt;span&amp;gt;Время ожидания (ч)&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;240&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;
+&amp;lt;div&amp;gt;&amp;lt;span&amp;gt;Воспроизведение музыки (ч)&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;40&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;
+&amp;lt;div&amp;gt;&amp;lt;span&amp;gt;Воспроизведение видео (ч)&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;13&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;/tbody&amp;gt;
+&amp;lt;/table&amp;gt;
+&amp;lt;div&amp;gt;Корпус&amp;lt;/div&amp;gt;
+&amp;lt;table&amp;gt;
+&amp;lt;tbody&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;
+&amp;lt;div&amp;gt;&amp;lt;span&amp;gt;Тип корпуса&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;классический&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;
+&amp;lt;div&amp;gt;&amp;lt;span&amp;gt;Высота (мм)&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;138.3&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;
+&amp;lt;div&amp;gt;&amp;lt;span&amp;gt;Ширина (мм)&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;67.1&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;
+&amp;lt;div&amp;gt;&amp;lt;span&amp;gt;Толщина (мм)&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;7.1&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;
+&amp;lt;div&amp;gt;&amp;lt;span&amp;gt;Вес (г)&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;138&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;
+&amp;lt;div&amp;gt;&amp;lt;span&amp;gt;Материал корпуса&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;металл&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;
+&amp;lt;div&amp;gt;&amp;lt;span&amp;gt;Защита от влаги и пыли&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;Да&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;
+&amp;lt;div&amp;gt;&amp;lt;span&amp;gt;Стандарт защиты&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;IP67&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;/tbody&amp;gt;
+&amp;lt;/table&amp;gt;</description>
 		</offer>
 		<offer id='717e0c9651db9153f71ce3257fb1471a' available='true' bid='1' cbid='1'>
 			<url>http://ispark.info/shop/398668/930846</url>
@@ -5029,7 +6979,7 @@
 &amp;lt;/tr&amp;gt;
 &amp;lt;tr&amp;gt;
 &amp;lt;td&amp;gt;Встроенная память (Мб)&amp;lt;/td&amp;gt;
-&amp;lt;td&amp;gt;16000&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;64000&amp;lt;/td&amp;gt;
 &amp;lt;/tr&amp;gt;
 &amp;lt;tr&amp;gt;
 &amp;lt;td&amp;gt;Оперативная память (Мб)&amp;lt;/td&amp;gt;
@@ -5098,7 +7048,7 @@
 &amp;lt;/tr&amp;gt;
 &amp;lt;tr&amp;gt;
 &amp;lt;td&amp;gt;Встроенная память (Мб)&amp;lt;/td&amp;gt;
-&amp;lt;td&amp;gt;16000&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;64000&amp;lt;/td&amp;gt;
 &amp;lt;/tr&amp;gt;
 &amp;lt;tr&amp;gt;
 &amp;lt;td&amp;gt;Оперативная память (Мб)&amp;lt;/td&amp;gt;
@@ -5167,7 +7117,7 @@
 &amp;lt;/tr&amp;gt;
 &amp;lt;tr&amp;gt;
 &amp;lt;td&amp;gt;Встроенная память (Мб)&amp;lt;/td&amp;gt;
-&amp;lt;td&amp;gt;16000&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;64000&amp;lt;/td&amp;gt;
 &amp;lt;/tr&amp;gt;
 &amp;lt;tr&amp;gt;
 &amp;lt;td&amp;gt;Оперативная память (Мб)&amp;lt;/td&amp;gt;
@@ -5236,7 +7186,7 @@
 &amp;lt;/tr&amp;gt;
 &amp;lt;tr&amp;gt;
 &amp;lt;td&amp;gt;Встроенная память (Мб)&amp;lt;/td&amp;gt;
-&amp;lt;td&amp;gt;16000&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;64000&amp;lt;/td&amp;gt;
 &amp;lt;/tr&amp;gt;
 &amp;lt;tr&amp;gt;
 &amp;lt;td&amp;gt;Оперативная память (Мб)&amp;lt;/td&amp;gt;
@@ -6537,6 +8487,282 @@
 &amp;lt;div&amp;gt;&amp;lt;span style=&amp;quot;font-size: medium;&amp;quot;&amp;gt;Страна производитель : Китай&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;
 &amp;lt;/div&amp;gt;
 &amp;lt;/div&amp;gt;</description>
+		</offer>
+		<offer id='379afff9339ac538ef6978d2ca9df711' available='true' bid='1' cbid='1'>
+			<url>http://ispark.info/shop/400496/931834</url>
+			<price>53950</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>400496</categoryId>
+			<picture>http://ispark.p.fl2.fo.ru/image/chunk61/9135044/400496_shop/931834_769ee258baaa3a972c04680c56f1022c.jpg</picture>
+			<delivery>true</delivery>
+			<local_delivery_cost>0</local_delivery_cost>
+			<name>Apple iPhone 7 Plus 32GB Розовое Золото</name>
+			<description>&amp;lt;p&amp;gt;ДВЕ КАМЕРЫ СНИМАЮТ КАК ОДНА&amp;amp;nbsp;&amp;lt;br /&amp;gt;&amp;lt;br /&amp;gt;У iPhone 7 Plus не просто совершенно новая камера &amp;amp;mdash; их две. Такая же широкоугольная камера 12 Мп, как у iPhone 7, работает в паре со второй камерой, оснащенной телеобъективом 12 Мп. Теперь можно снимать более крупные планы и пользоваться зумом отличного качества, если объект вдалеке. А с новым эффектом глубины резкости портреты станут еще выразительнее. В итоге перед вами открываются большие фотографические перспективы.&amp;amp;nbsp;&amp;lt;br /&amp;gt;&amp;lt;br /&amp;gt;БЛИЖЕ К БУДУЩЕМУ&amp;amp;nbsp;&amp;lt;br /&amp;gt;&amp;lt;br /&amp;gt;Благодаря двойной камере и революционной технологии ISP на iPhone 7 Plus теперь можно снимать потрясающе резкие крупные планы с двукратным зумом для фото и видео. Улучшенный цифровой зум позволяет увеличивать изображение при съемке фотографий до 10 раз, а видео &amp;amp;mdash; до 6 раз.&amp;amp;nbsp;&amp;lt;br /&amp;gt;&amp;lt;br /&amp;gt;ЭФФЕКТ ГЛУБИНЫ РЕЗКОСТИ&amp;amp;nbsp;&amp;lt;br /&amp;gt;&amp;lt;br /&amp;gt;С эффектом глубины резкости передний план на снимке остается в фокусе, а фон размывается. При съемке на iPhone 7 Plus система двойной камеры использует оба объектива и инновационные алгоритмы для создания эффекта боке (или размытия фона) при резком изображении самого объекта. Раньше это было возможно только на зеркальном фотоаппарате, так что теперь ваши портреты будут выглядеть вполне профессионально.&amp;amp;nbsp;&amp;lt;br /&amp;gt;&amp;lt;br /&amp;gt;ВАШИ ВИДЕО ПРОСТО КАК КИНО&amp;amp;nbsp;&amp;lt;br /&amp;gt;&amp;lt;br /&amp;gt;Видео, снятые на iPhone 7 в условиях низкой освещенности, тоже выглядят значительно лучше благодаря оптической стабилизации изображения и новой диафрагме &amp;amp;fnof;/1.8. А с камерой 12 Мп можно снимать видео высокого разрешения до 4K. Теперь вы сможете запечатлеть всю магию ночи.&amp;amp;nbsp;&amp;lt;br /&amp;gt;&amp;lt;br /&amp;gt;НОВАЯ ФРОНТАЛЬНАЯ КАМЕРА 7 МП. СЕЛФИ ПРЕВОСХОДЯТ СЕБЯ&amp;amp;nbsp;&amp;lt;br /&amp;gt;&amp;lt;br /&amp;gt;У HD-камеры FaceTime увеличилось не только разрешение, но и цветовой диапазон. Поэтому селфи получаются четче и реалистичнее. Об освещении можно не волноваться: вспышка Retina Flash подстраивается под окружающий свет для передачи на снимке естественного тона кожи. Кто на свете всех милее?&amp;amp;nbsp;&amp;lt;br /&amp;gt;&amp;lt;br /&amp;gt;САМЫЙ ЯРКИЙ И РАЗНОЦВЕТНЫЙ ДИСПЛЕЙ IPHONE&amp;amp;nbsp;&amp;lt;br /&amp;gt;&amp;lt;br /&amp;gt;Дисплей Retina HD с расширенным цветовым охватом обеспечивает цветопередачу кинематографического качества. Для каждого изображения используется больше оттенков спектра, поэтому на экране все выглядит по‑настоящему реалистично. Какие бы фотографии вы ни рассматривали &amp;amp;mdash; коллекцию свадебных платьев или Live Photos с тропическими пейзажами, &amp;amp;mdash; краски будут настолько естественными, что вы не отличите их от реальности.&amp;amp;nbsp;&amp;lt;br /&amp;gt;&amp;lt;br /&amp;gt;3D TOUCH. ТЕПЕРЬ ЕЩЕ УДОБНЕЕ&amp;amp;nbsp;&amp;lt;br /&amp;gt;&amp;lt;br /&amp;gt;Технология 3D Touch на iPhone обеспечивает тактильный отклик, поэтому вы не только видите результат своих действий, но и чувствуете интенсивность каждого нажатия. С новым дисплеем Retina HD на iPhone 7 все возможности 3D Touch доступны в любых разделах iOS. Теперь работать с Сообщениями, Календарем, Почтой и другими приложениями можно совершенно по-новому &amp;amp;mdash; эффективнее и точнее.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;&amp;amp;nbsp;&amp;lt;/p&amp;gt;
+&amp;lt;div&amp;gt;Технические характеристики&amp;lt;/div&amp;gt;
+&amp;lt;table&amp;gt;
+&amp;lt;tbody&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;Диапазоны GSM&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;850, 900, 1800, 1900&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;Интернет&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;GPRS, EDGE, 3G, 4G&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;Диагональ (дюйм)&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;5.5&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;Разрешение (пикс)&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;1920x1080&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;Фотокамера (Мп)&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;12 + 12 (двойная)&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;Количество ядер&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;4&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;Встроенная память (Мб)&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;32000&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;Оперативная память (Мб)&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;3072&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;Поддержка карт памяти&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;нет&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;Операционная система&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;iOS 10&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;SIM-карта&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;nano-SIM&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;Аккумулятор (мАч)&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;2900&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;Вес (г)&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;188&amp;lt;br /&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;/tbody&amp;gt;
+&amp;lt;/table&amp;gt;</description>
+		</offer>
+		<offer id='718c2830dffdd0c172bf0c31e27c39a6' available='true' bid='1' cbid='1'>
+			<url>http://ispark.info/shop/400496/931832</url>
+			<price>53950</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>400496</categoryId>
+			<picture>http://ispark.p.fl2.fo.ru/image/chunk61/9135044/400496_shop/931832_6ed8e07e3590341ae0a32b3863221737.jpg</picture>
+			<delivery>true</delivery>
+			<local_delivery_cost>0</local_delivery_cost>
+			<name>Apple iPhone 7 Plus 32GB Золотистый</name>
+			<description>&amp;lt;p&amp;gt;ДВЕ КАМЕРЫ СНИМАЮТ КАК ОДНА&amp;amp;nbsp;&amp;lt;br /&amp;gt;&amp;lt;br /&amp;gt;У iPhone 7 Plus не просто совершенно новая камера &amp;amp;mdash; их две. Такая же широкоугольная камера 12 Мп, как у iPhone 7, работает в паре со второй камерой, оснащенной телеобъективом 12 Мп. Теперь можно снимать более крупные планы и пользоваться зумом отличного качества, если объект вдалеке. А с новым эффектом глубины резкости портреты станут еще выразительнее. В итоге перед вами открываются большие фотографические перспективы.&amp;amp;nbsp;&amp;lt;br /&amp;gt;&amp;lt;br /&amp;gt;БЛИЖЕ К БУДУЩЕМУ&amp;amp;nbsp;&amp;lt;br /&amp;gt;&amp;lt;br /&amp;gt;Благодаря двойной камере и революционной технологии ISP на iPhone 7 Plus теперь можно снимать потрясающе резкие крупные планы с двукратным зумом для фото и видео. Улучшенный цифровой зум позволяет увеличивать изображение при съемке фотографий до 10 раз, а видео &amp;amp;mdash; до 6 раз.&amp;amp;nbsp;&amp;lt;br /&amp;gt;&amp;lt;br /&amp;gt;ЭФФЕКТ ГЛУБИНЫ РЕЗКОСТИ&amp;amp;nbsp;&amp;lt;br /&amp;gt;&amp;lt;br /&amp;gt;С эффектом глубины резкости передний план на снимке остается в фокусе, а фон размывается. При съемке на iPhone 7 Plus система двойной камеры использует оба объектива и инновационные алгоритмы для создания эффекта боке (или размытия фона) при резком изображении самого объекта. Раньше это было возможно только на зеркальном фотоаппарате, так что теперь ваши портреты будут выглядеть вполне профессионально.&amp;amp;nbsp;&amp;lt;br /&amp;gt;&amp;lt;br /&amp;gt;ВАШИ ВИДЕО ПРОСТО КАК КИНО&amp;amp;nbsp;&amp;lt;br /&amp;gt;&amp;lt;br /&amp;gt;Видео, снятые на iPhone 7 в условиях низкой освещенности, тоже выглядят значительно лучше благодаря оптической стабилизации изображения и новой диафрагме &amp;amp;fnof;/1.8. А с камерой 12 Мп можно снимать видео высокого разрешения до 4K. Теперь вы сможете запечатлеть всю магию ночи.&amp;amp;nbsp;&amp;lt;br /&amp;gt;&amp;lt;br /&amp;gt;НОВАЯ ФРОНТАЛЬНАЯ КАМЕРА 7 МП. СЕЛФИ ПРЕВОСХОДЯТ СЕБЯ&amp;amp;nbsp;&amp;lt;br /&amp;gt;&amp;lt;br /&amp;gt;У HD-камеры FaceTime увеличилось не только разрешение, но и цветовой диапазон. Поэтому селфи получаются четче и реалистичнее. Об освещении можно не волноваться: вспышка Retina Flash подстраивается под окружающий свет для передачи на снимке естественного тона кожи. Кто на свете всех милее?&amp;amp;nbsp;&amp;lt;br /&amp;gt;&amp;lt;br /&amp;gt;САМЫЙ ЯРКИЙ И РАЗНОЦВЕТНЫЙ ДИСПЛЕЙ IPHONE&amp;amp;nbsp;&amp;lt;br /&amp;gt;&amp;lt;br /&amp;gt;Дисплей Retina HD с расширенным цветовым охватом обеспечивает цветопередачу кинематографического качества. Для каждого изображения используется больше оттенков спектра, поэтому на экране все выглядит по‑настоящему реалистично. Какие бы фотографии вы ни рассматривали &amp;amp;mdash; коллекцию свадебных платьев или Live Photos с тропическими пейзажами, &amp;amp;mdash; краски будут настолько естественными, что вы не отличите их от реальности.&amp;amp;nbsp;&amp;lt;br /&amp;gt;&amp;lt;br /&amp;gt;3D TOUCH. ТЕПЕРЬ ЕЩЕ УДОБНЕЕ&amp;amp;nbsp;&amp;lt;br /&amp;gt;&amp;lt;br /&amp;gt;Технология 3D Touch на iPhone обеспечивает тактильный отклик, поэтому вы не только видите результат своих действий, но и чувствуете интенсивность каждого нажатия. С новым дисплеем Retina HD на iPhone 7 все возможности 3D Touch доступны в любых разделах iOS. Теперь работать с Сообщениями, Календарем, Почтой и другими приложениями можно совершенно по-новому &amp;amp;mdash; эффективнее и точнее.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;&amp;amp;nbsp;&amp;lt;/p&amp;gt;
+&amp;lt;div&amp;gt;Технические характеристики&amp;lt;/div&amp;gt;
+&amp;lt;table&amp;gt;
+&amp;lt;tbody&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;Диапазоны GSM&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;850, 900, 1800, 1900&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;Интернет&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;GPRS, EDGE, 3G, 4G&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;Диагональ (дюйм)&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;5.5&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;Разрешение (пикс)&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;1920x1080&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;Фотокамера (Мп)&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;12 + 12 (двойная)&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;Количество ядер&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;4&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;Встроенная память (Мб)&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;32000&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;Оперативная память (Мб)&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;3072&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;Поддержка карт памяти&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;нет&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;Операционная система&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;iOS 10&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;SIM-карта&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;nano-SIM&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;Аккумулятор (мАч)&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;2900&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;Вес (г)&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;188&amp;lt;br /&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;/tbody&amp;gt;
+&amp;lt;/table&amp;gt;</description>
+		</offer>
+		<offer id='fda8b604b5cb63f60ac3fb9c5759a5a4' available='true' bid='1' cbid='1'>
+			<url>http://ispark.info/shop/400496/931830</url>
+			<price>53950</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>400496</categoryId>
+			<picture>http://ispark.p.fl2.fo.ru/image/chunk61/9135044/400496_shop/931830_8b4b0cd840ea810b78a77dc838d20641.jpg</picture>
+			<delivery>true</delivery>
+			<local_delivery_cost>0</local_delivery_cost>
+			<name>Apple iPhone 7 Plus 32GB Серебристый</name>
+			<description>&amp;lt;p&amp;gt;ДВЕ КАМЕРЫ СНИМАЮТ КАК ОДНА&amp;amp;nbsp;&amp;lt;br /&amp;gt;&amp;lt;br /&amp;gt;У iPhone 7 Plus не просто совершенно новая камера &amp;amp;mdash; их две. Такая же широкоугольная камера 12 Мп, как у iPhone 7, работает в паре со второй камерой, оснащенной телеобъективом 12 Мп. Теперь можно снимать более крупные планы и пользоваться зумом отличного качества, если объект вдалеке. А с новым эффектом глубины резкости портреты станут еще выразительнее. В итоге перед вами открываются большие фотографические перспективы.&amp;amp;nbsp;&amp;lt;br /&amp;gt;&amp;lt;br /&amp;gt;БЛИЖЕ К БУДУЩЕМУ&amp;amp;nbsp;&amp;lt;br /&amp;gt;&amp;lt;br /&amp;gt;Благодаря двойной камере и революционной технологии ISP на iPhone 7 Plus теперь можно снимать потрясающе резкие крупные планы с двукратным зумом для фото и видео. Улучшенный цифровой зум позволяет увеличивать изображение при съемке фотографий до 10 раз, а видео &amp;amp;mdash; до 6 раз.&amp;amp;nbsp;&amp;lt;br /&amp;gt;&amp;lt;br /&amp;gt;ЭФФЕКТ ГЛУБИНЫ РЕЗКОСТИ&amp;amp;nbsp;&amp;lt;br /&amp;gt;&amp;lt;br /&amp;gt;С эффектом глубины резкости передний план на снимке остается в фокусе, а фон размывается. При съемке на iPhone 7 Plus система двойной камеры использует оба объектива и инновационные алгоритмы для создания эффекта боке (или размытия фона) при резком изображении самого объекта. Раньше это было возможно только на зеркальном фотоаппарате, так что теперь ваши портреты будут выглядеть вполне профессионально.&amp;amp;nbsp;&amp;lt;br /&amp;gt;&amp;lt;br /&amp;gt;ВАШИ ВИДЕО ПРОСТО КАК КИНО&amp;amp;nbsp;&amp;lt;br /&amp;gt;&amp;lt;br /&amp;gt;Видео, снятые на iPhone 7 в условиях низкой освещенности, тоже выглядят значительно лучше благодаря оптической стабилизации изображения и новой диафрагме &amp;amp;fnof;/1.8. А с камерой 12 Мп можно снимать видео высокого разрешения до 4K. Теперь вы сможете запечатлеть всю магию ночи.&amp;amp;nbsp;&amp;lt;br /&amp;gt;&amp;lt;br /&amp;gt;НОВАЯ ФРОНТАЛЬНАЯ КАМЕРА 7 МП. СЕЛФИ ПРЕВОСХОДЯТ СЕБЯ&amp;amp;nbsp;&amp;lt;br /&amp;gt;&amp;lt;br /&amp;gt;У HD-камеры FaceTime увеличилось не только разрешение, но и цветовой диапазон. Поэтому селфи получаются четче и реалистичнее. Об освещении можно не волноваться: вспышка Retina Flash подстраивается под окружающий свет для передачи на снимке естественного тона кожи. Кто на свете всех милее?&amp;amp;nbsp;&amp;lt;br /&amp;gt;&amp;lt;br /&amp;gt;САМЫЙ ЯРКИЙ И РАЗНОЦВЕТНЫЙ ДИСПЛЕЙ IPHONE&amp;amp;nbsp;&amp;lt;br /&amp;gt;&amp;lt;br /&amp;gt;Дисплей Retina HD с расширенным цветовым охватом обеспечивает цветопередачу кинематографического качества. Для каждого изображения используется больше оттенков спектра, поэтому на экране все выглядит по‑настоящему реалистично. Какие бы фотографии вы ни рассматривали &amp;amp;mdash; коллекцию свадебных платьев или Live Photos с тропическими пейзажами, &amp;amp;mdash; краски будут настолько естественными, что вы не отличите их от реальности.&amp;amp;nbsp;&amp;lt;br /&amp;gt;&amp;lt;br /&amp;gt;3D TOUCH. ТЕПЕРЬ ЕЩЕ УДОБНЕЕ&amp;amp;nbsp;&amp;lt;br /&amp;gt;&amp;lt;br /&amp;gt;Технология 3D Touch на iPhone обеспечивает тактильный отклик, поэтому вы не только видите результат своих действий, но и чувствуете интенсивность каждого нажатия. С новым дисплеем Retina HD на iPhone 7 все возможности 3D Touch доступны в любых разделах iOS. Теперь работать с Сообщениями, Календарем, Почтой и другими приложениями можно совершенно по-новому &amp;amp;mdash; эффективнее и точнее.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;&amp;amp;nbsp;&amp;lt;/p&amp;gt;
+&amp;lt;div&amp;gt;Технические характеристики&amp;lt;/div&amp;gt;
+&amp;lt;table&amp;gt;
+&amp;lt;tbody&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;Диапазоны GSM&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;850, 900, 1800, 1900&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;Интернет&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;GPRS, EDGE, 3G, 4G&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;Диагональ (дюйм)&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;5.5&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;Разрешение (пикс)&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;1920x1080&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;Фотокамера (Мп)&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;12 + 12 (двойная)&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;Количество ядер&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;4&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;Встроенная память (Мб)&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;32000&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;Оперативная память (Мб)&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;3072&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;Поддержка карт памяти&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;нет&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;Операционная система&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;iOS 10&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;SIM-карта&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;nano-SIM&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;Аккумулятор (мАч)&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;2900&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;Вес (г)&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;188&amp;lt;br /&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;/tbody&amp;gt;
+&amp;lt;/table&amp;gt;</description>
+		</offer>
+		<offer id='25d5fe2732b49b4fbd0661efa37dfaa6' available='true' bid='1' cbid='1'>
+			<url>http://ispark.info/shop/400496/931828</url>
+			<price>53950</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>400496</categoryId>
+			<picture>http://ispark.p.fl2.fo.ru/image/chunk61/9135044/400496_shop/931828_82694e7e3e0c8df33dec539599bf256f.jpg</picture>
+			<delivery>true</delivery>
+			<local_delivery_cost>0</local_delivery_cost>
+			<name>Apple iPhone 7 Plus 32GB Черный</name>
+			<description>&amp;lt;p&amp;gt;ДВЕ КАМЕРЫ СНИМАЮТ КАК ОДНА&amp;amp;nbsp;&amp;lt;br /&amp;gt;&amp;lt;br /&amp;gt;У iPhone 7 Plus не просто совершенно новая камера &amp;amp;mdash; их две. Такая же широкоугольная камера 12 Мп, как у iPhone 7, работает в паре со второй камерой, оснащенной телеобъективом 12 Мп. Теперь можно снимать более крупные планы и пользоваться зумом отличного качества, если объект вдалеке. А с новым эффектом глубины резкости портреты станут еще выразительнее. В итоге перед вами открываются большие фотографические перспективы.&amp;amp;nbsp;&amp;lt;br /&amp;gt;&amp;lt;br /&amp;gt;БЛИЖЕ К БУДУЩЕМУ&amp;amp;nbsp;&amp;lt;br /&amp;gt;&amp;lt;br /&amp;gt;Благодаря двойной камере и революционной технологии ISP на iPhone 7 Plus теперь можно снимать потрясающе резкие крупные планы с двукратным зумом для фото и видео. Улучшенный цифровой зум позволяет увеличивать изображение при съемке фотографий до 10 раз, а видео &amp;amp;mdash; до 6 раз.&amp;amp;nbsp;&amp;lt;br /&amp;gt;&amp;lt;br /&amp;gt;ЭФФЕКТ ГЛУБИНЫ РЕЗКОСТИ&amp;amp;nbsp;&amp;lt;br /&amp;gt;&amp;lt;br /&amp;gt;С эффектом глубины резкости передний план на снимке остается в фокусе, а фон размывается. При съемке на iPhone 7 Plus система двойной камеры использует оба объектива и инновационные алгоритмы для создания эффекта боке (или размытия фона) при резком изображении самого объекта. Раньше это было возможно только на зеркальном фотоаппарате, так что теперь ваши портреты будут выглядеть вполне профессионально.&amp;amp;nbsp;&amp;lt;br /&amp;gt;&amp;lt;br /&amp;gt;ВАШИ ВИДЕО ПРОСТО КАК КИНО&amp;amp;nbsp;&amp;lt;br /&amp;gt;&amp;lt;br /&amp;gt;Видео, снятые на iPhone 7 в условиях низкой освещенности, тоже выглядят значительно лучше благодаря оптической стабилизации изображения и новой диафрагме &amp;amp;fnof;/1.8. А с камерой 12 Мп можно снимать видео высокого разрешения до 4K. Теперь вы сможете запечатлеть всю магию ночи.&amp;amp;nbsp;&amp;lt;br /&amp;gt;&amp;lt;br /&amp;gt;НОВАЯ ФРОНТАЛЬНАЯ КАМЕРА 7 МП. СЕЛФИ ПРЕВОСХОДЯТ СЕБЯ&amp;amp;nbsp;&amp;lt;br /&amp;gt;&amp;lt;br /&amp;gt;У HD-камеры FaceTime увеличилось не только разрешение, но и цветовой диапазон. Поэтому селфи получаются четче и реалистичнее. Об освещении можно не волноваться: вспышка Retina Flash подстраивается под окружающий свет для передачи на снимке естественного тона кожи. Кто на свете всех милее?&amp;amp;nbsp;&amp;lt;br /&amp;gt;&amp;lt;br /&amp;gt;САМЫЙ ЯРКИЙ И РАЗНОЦВЕТНЫЙ ДИСПЛЕЙ IPHONE&amp;amp;nbsp;&amp;lt;br /&amp;gt;&amp;lt;br /&amp;gt;Дисплей Retina HD с расширенным цветовым охватом обеспечивает цветопередачу кинематографического качества. Для каждого изображения используется больше оттенков спектра, поэтому на экране все выглядит по‑настоящему реалистично. Какие бы фотографии вы ни рассматривали &amp;amp;mdash; коллекцию свадебных платьев или Live Photos с тропическими пейзажами, &amp;amp;mdash; краски будут настолько естественными, что вы не отличите их от реальности.&amp;amp;nbsp;&amp;lt;br /&amp;gt;&amp;lt;br /&amp;gt;3D TOUCH. ТЕПЕРЬ ЕЩЕ УДОБНЕЕ&amp;amp;nbsp;&amp;lt;br /&amp;gt;&amp;lt;br /&amp;gt;Технология 3D Touch на iPhone обеспечивает тактильный отклик, поэтому вы не только видите результат своих действий, но и чувствуете интенсивность каждого нажатия. С новым дисплеем Retina HD на iPhone 7 все возможности 3D Touch доступны в любых разделах iOS. Теперь работать с Сообщениями, Календарем, Почтой и другими приложениями можно совершенно по-новому &amp;amp;mdash; эффективнее и точнее.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;&amp;amp;nbsp;&amp;lt;/p&amp;gt;
+&amp;lt;div&amp;gt;Технические характеристики&amp;lt;/div&amp;gt;
+&amp;lt;table&amp;gt;
+&amp;lt;tbody&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;Диапазоны GSM&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;850, 900, 1800, 1900&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;Интернет&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;GPRS, EDGE, 3G, 4G&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;Диагональ (дюйм)&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;5.5&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;Разрешение (пикс)&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;1920x1080&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;Фотокамера (Мп)&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;12 + 12 (двойная)&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;Количество ядер&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;4&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;Встроенная память (Мб)&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;32000&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;Оперативная память (Мб)&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;3072&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;Поддержка карт памяти&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;нет&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;Операционная система&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;iOS 10&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;SIM-карта&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;nano-SIM&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;Аккумулятор (мАч)&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;2900&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;
+&amp;lt;td&amp;gt;Вес (г)&amp;lt;/td&amp;gt;
+&amp;lt;td&amp;gt;188&amp;lt;br /&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;/tbody&amp;gt;
+&amp;lt;/table&amp;gt;</description>
 		</offer>
 		<offer id='789248d4e67a87426bc34c30af381e84' available='true' bid='1' cbid='1'>
 			<url>http://ispark.info/shop/346536/846610</url>
