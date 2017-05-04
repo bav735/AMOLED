@@ -1,6 +1,6 @@
 <Ads formatVersion="3" target="Avito.ru">
 	<Ad>
-		<Id>n0</Id>
+		<Id>a0</Id>
 		<DateBegin>2017-05-07</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -17,7 +17,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n1</Id>
+		<Id>a1</Id>
 		<DateBegin>2017-05-07</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -34,7 +34,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n2</Id>
+		<Id>a2</Id>
 		<DateBegin>2017-05-07</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -51,7 +51,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n3</Id>
+		<Id>a3</Id>
 		<DateBegin>2017-05-07</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -68,7 +68,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n4</Id>
+		<Id>a4</Id>
 		<DateBegin>2017-05-07</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -85,7 +85,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n5</Id>
+		<Id>a5</Id>
 		<DateBegin>2017-05-07</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -102,7 +102,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n6</Id>
+		<Id>a6</Id>
 		<DateBegin>2017-05-07</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -119,7 +119,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n7</Id>
+		<Id>a7</Id>
 		<DateBegin>2017-05-07</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -136,7 +136,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n8</Id>
+		<Id>a8</Id>
 		<DateBegin>2017-05-07</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -153,7 +153,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n9</Id>
+		<Id>a9</Id>
 		<DateBegin>2017-05-07</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -170,7 +170,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n10</Id>
+		<Id>a10</Id>
 		<DateBegin>2017-05-07</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -187,7 +187,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n11</Id>
+		<Id>a11</Id>
 		<DateBegin>2017-05-07</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -204,7 +204,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n12</Id>
+		<Id>a12</Id>
 		<DateBegin>2017-05-07</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -221,7 +221,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n13</Id>
+		<Id>a13</Id>
 		<DateBegin>2017-05-07</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -238,7 +238,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n14</Id>
+		<Id>a14</Id>
 		<DateBegin>2017-05-07</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -255,7 +255,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n15</Id>
+		<Id>a15</Id>
 		<DateBegin>2017-05-07</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -272,7 +272,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n16</Id>
+		<Id>a16</Id>
 		<DateBegin>2017-05-07</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -289,7 +289,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n17</Id>
+		<Id>a17</Id>
 		<DateBegin>2017-05-07</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -306,7 +306,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n18</Id>
+		<Id>a18</Id>
 		<DateBegin>2017-05-07</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -323,7 +323,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n19</Id>
+		<Id>a19</Id>
 		<DateBegin>2017-05-08</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -340,7 +340,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n20</Id>
+		<Id>a20</Id>
 		<DateBegin>2017-05-08</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -357,7 +357,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n21</Id>
+		<Id>a21</Id>
 		<DateBegin>2017-05-08</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -374,7 +374,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n22</Id>
+		<Id>a22</Id>
 		<DateBegin>2017-05-08</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -391,7 +391,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n23</Id>
+		<Id>a23</Id>
 		<DateBegin>2017-05-08</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -408,7 +408,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n24</Id>
+		<Id>a24</Id>
 		<DateBegin>2017-05-08</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -425,7 +425,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n25</Id>
+		<Id>a25</Id>
 		<DateBegin>2017-05-08</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -442,7 +442,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n26</Id>
+		<Id>a26</Id>
 		<DateBegin>2017-05-08</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -459,7 +459,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n27</Id>
+		<Id>a27</Id>
 		<DateBegin>2017-05-08</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -476,7 +476,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n28</Id>
+		<Id>a28</Id>
 		<DateBegin>2017-05-08</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -493,7 +493,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n29</Id>
+		<Id>a29</Id>
 		<DateBegin>2017-05-08</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -510,7 +510,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n30</Id>
+		<Id>a30</Id>
 		<DateBegin>2017-05-08</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -527,7 +527,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n31</Id>
+		<Id>a31</Id>
 		<DateBegin>2017-05-08</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -544,7 +544,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n32</Id>
+		<Id>a32</Id>
 		<DateBegin>2017-05-08</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -561,7 +561,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n33</Id>
+		<Id>a33</Id>
 		<DateBegin>2017-05-08</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -578,7 +578,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n34</Id>
+		<Id>a34</Id>
 		<DateBegin>2017-05-08</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -595,7 +595,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n35</Id>
+		<Id>a35</Id>
 		<DateBegin>2017-05-08</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -612,7 +612,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n36</Id>
+		<Id>a36</Id>
 		<DateBegin>2017-05-08</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -629,7 +629,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n37</Id>
+		<Id>a37</Id>
 		<DateBegin>2017-05-08</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -646,7 +646,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n38</Id>
+		<Id>a38</Id>
 		<DateBegin>2017-05-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -663,7 +663,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n39</Id>
+		<Id>a39</Id>
 		<DateBegin>2017-05-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -680,7 +680,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n40</Id>
+		<Id>a40</Id>
 		<DateBegin>2017-05-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -697,7 +697,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n41</Id>
+		<Id>a41</Id>
 		<DateBegin>2017-05-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -714,7 +714,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n42</Id>
+		<Id>a42</Id>
 		<DateBegin>2017-05-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -731,7 +731,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n43</Id>
+		<Id>a43</Id>
 		<DateBegin>2017-05-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -748,7 +748,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n44</Id>
+		<Id>a44</Id>
 		<DateBegin>2017-05-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -765,7 +765,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n45</Id>
+		<Id>a45</Id>
 		<DateBegin>2017-05-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -782,7 +782,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n46</Id>
+		<Id>a46</Id>
 		<DateBegin>2017-05-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -799,7 +799,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n47</Id>
+		<Id>a47</Id>
 		<DateBegin>2017-05-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -816,7 +816,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n48</Id>
+		<Id>a48</Id>
 		<DateBegin>2017-05-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -833,7 +833,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n49</Id>
+		<Id>a49</Id>
 		<DateBegin>2017-05-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -850,7 +850,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n50</Id>
+		<Id>a50</Id>
 		<DateBegin>2017-05-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -867,7 +867,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n51</Id>
+		<Id>a51</Id>
 		<DateBegin>2017-05-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -884,7 +884,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n52</Id>
+		<Id>a52</Id>
 		<DateBegin>2017-05-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -901,7 +901,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n53</Id>
+		<Id>a53</Id>
 		<DateBegin>2017-05-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -918,7 +918,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n54</Id>
+		<Id>a54</Id>
 		<DateBegin>2017-05-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -935,7 +935,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n55</Id>
+		<Id>a55</Id>
 		<DateBegin>2017-05-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -952,7 +952,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n56</Id>
+		<Id>a56</Id>
 		<DateBegin>2017-05-09</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -969,7 +969,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n57</Id>
+		<Id>a57</Id>
 		<DateBegin>2017-05-10</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -986,7 +986,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n58</Id>
+		<Id>a58</Id>
 		<DateBegin>2017-05-10</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -1003,7 +1003,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n59</Id>
+		<Id>a59</Id>
 		<DateBegin>2017-05-10</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -1020,7 +1020,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n60</Id>
+		<Id>a60</Id>
 		<DateBegin>2017-05-10</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -1037,7 +1037,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n61</Id>
+		<Id>a61</Id>
 		<DateBegin>2017-05-10</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -1054,7 +1054,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n62</Id>
+		<Id>a62</Id>
 		<DateBegin>2017-05-10</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -1071,7 +1071,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n63</Id>
+		<Id>a63</Id>
 		<DateBegin>2017-05-10</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -1088,7 +1088,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n64</Id>
+		<Id>a64</Id>
 		<DateBegin>2017-05-10</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -1105,7 +1105,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n65</Id>
+		<Id>a65</Id>
 		<DateBegin>2017-05-10</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -1122,7 +1122,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n66</Id>
+		<Id>a66</Id>
 		<DateBegin>2017-05-10</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -1139,7 +1139,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n67</Id>
+		<Id>a67</Id>
 		<DateBegin>2017-05-10</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -1156,7 +1156,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n68</Id>
+		<Id>a68</Id>
 		<DateBegin>2017-05-10</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -1173,7 +1173,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n69</Id>
+		<Id>a69</Id>
 		<DateBegin>2017-05-10</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -1190,7 +1190,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n70</Id>
+		<Id>a70</Id>
 		<DateBegin>2017-05-10</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -1207,7 +1207,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n71</Id>
+		<Id>a71</Id>
 		<DateBegin>2017-05-10</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -1224,7 +1224,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n72</Id>
+		<Id>a72</Id>
 		<DateBegin>2017-05-10</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -1241,7 +1241,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n73</Id>
+		<Id>a73</Id>
 		<DateBegin>2017-05-10</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -1258,7 +1258,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n74</Id>
+		<Id>a74</Id>
 		<DateBegin>2017-05-10</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -1275,7 +1275,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n75</Id>
+		<Id>a75</Id>
 		<DateBegin>2017-05-10</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -1292,7 +1292,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n76</Id>
+		<Id>a76</Id>
 		<DateBegin>2017-05-11</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -1309,7 +1309,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n77</Id>
+		<Id>a77</Id>
 		<DateBegin>2017-05-11</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -1326,7 +1326,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n78</Id>
+		<Id>a78</Id>
 		<DateBegin>2017-05-11</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -1343,7 +1343,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n79</Id>
+		<Id>a79</Id>
 		<DateBegin>2017-05-11</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -1360,7 +1360,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n80</Id>
+		<Id>a80</Id>
 		<DateBegin>2017-05-11</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -1377,7 +1377,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n81</Id>
+		<Id>a81</Id>
 		<DateBegin>2017-05-11</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -1394,7 +1394,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n82</Id>
+		<Id>a82</Id>
 		<DateBegin>2017-05-11</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -1411,7 +1411,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n83</Id>
+		<Id>a83</Id>
 		<DateBegin>2017-05-11</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -1428,7 +1428,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n84</Id>
+		<Id>a84</Id>
 		<DateBegin>2017-05-11</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -1445,7 +1445,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n85</Id>
+		<Id>a85</Id>
 		<DateBegin>2017-05-11</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -1462,7 +1462,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n86</Id>
+		<Id>a86</Id>
 		<DateBegin>2017-05-11</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -1479,7 +1479,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n87</Id>
+		<Id>a87</Id>
 		<DateBegin>2017-05-11</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -1496,7 +1496,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n88</Id>
+		<Id>a88</Id>
 		<DateBegin>2017-05-11</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -1513,7 +1513,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n89</Id>
+		<Id>a89</Id>
 		<DateBegin>2017-05-11</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -1530,7 +1530,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n90</Id>
+		<Id>a90</Id>
 		<DateBegin>2017-05-11</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -1547,7 +1547,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n91</Id>
+		<Id>a91</Id>
 		<DateBegin>2017-05-11</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -1564,7 +1564,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n92</Id>
+		<Id>a92</Id>
 		<DateBegin>2017-05-11</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -1581,7 +1581,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n93</Id>
+		<Id>a93</Id>
 		<DateBegin>2017-05-11</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -1598,7 +1598,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n94</Id>
+		<Id>a94</Id>
 		<DateBegin>2017-05-11</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -1615,7 +1615,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n95</Id>
+		<Id>a95</Id>
 		<DateBegin>2017-05-12</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -1632,7 +1632,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n96</Id>
+		<Id>a96</Id>
 		<DateBegin>2017-05-12</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -1649,7 +1649,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n97</Id>
+		<Id>a97</Id>
 		<DateBegin>2017-05-12</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -1666,7 +1666,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n98</Id>
+		<Id>a98</Id>
 		<DateBegin>2017-05-12</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -1683,7 +1683,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n99</Id>
+		<Id>a99</Id>
 		<DateBegin>2017-05-12</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -1700,7 +1700,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n100</Id>
+		<Id>a100</Id>
 		<DateBegin>2017-05-12</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -1717,7 +1717,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n101</Id>
+		<Id>a101</Id>
 		<DateBegin>2017-05-12</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -1734,7 +1734,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n102</Id>
+		<Id>a102</Id>
 		<DateBegin>2017-05-12</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -1751,7 +1751,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n103</Id>
+		<Id>a103</Id>
 		<DateBegin>2017-05-12</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -1768,7 +1768,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n104</Id>
+		<Id>a104</Id>
 		<DateBegin>2017-05-12</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -1785,7 +1785,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n105</Id>
+		<Id>a105</Id>
 		<DateBegin>2017-05-12</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -1802,7 +1802,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n106</Id>
+		<Id>a106</Id>
 		<DateBegin>2017-05-12</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -1819,7 +1819,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n107</Id>
+		<Id>a107</Id>
 		<DateBegin>2017-05-12</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -1836,7 +1836,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n108</Id>
+		<Id>a108</Id>
 		<DateBegin>2017-05-12</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -1853,7 +1853,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n109</Id>
+		<Id>a109</Id>
 		<DateBegin>2017-05-12</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -1870,7 +1870,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n110</Id>
+		<Id>a110</Id>
 		<DateBegin>2017-05-12</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -1887,7 +1887,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n111</Id>
+		<Id>a111</Id>
 		<DateBegin>2017-05-12</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -1904,7 +1904,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n112</Id>
+		<Id>a112</Id>
 		<DateBegin>2017-05-12</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -1921,7 +1921,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n113</Id>
+		<Id>a113</Id>
 		<DateBegin>2017-05-12</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -1938,7 +1938,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n114</Id>
+		<Id>a114</Id>
 		<DateBegin>2017-05-13</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -1955,7 +1955,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n115</Id>
+		<Id>a115</Id>
 		<DateBegin>2017-05-13</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -1972,7 +1972,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n116</Id>
+		<Id>a116</Id>
 		<DateBegin>2017-05-13</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -1989,7 +1989,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n117</Id>
+		<Id>a117</Id>
 		<DateBegin>2017-05-13</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -2006,7 +2006,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n118</Id>
+		<Id>a118</Id>
 		<DateBegin>2017-05-13</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -2023,7 +2023,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n119</Id>
+		<Id>a119</Id>
 		<DateBegin>2017-05-13</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -2040,7 +2040,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n120</Id>
+		<Id>a120</Id>
 		<DateBegin>2017-05-13</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -2057,7 +2057,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n121</Id>
+		<Id>a121</Id>
 		<DateBegin>2017-05-13</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -2074,7 +2074,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n122</Id>
+		<Id>a122</Id>
 		<DateBegin>2017-05-13</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -2091,7 +2091,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n123</Id>
+		<Id>a123</Id>
 		<DateBegin>2017-05-13</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -2108,7 +2108,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n124</Id>
+		<Id>a124</Id>
 		<DateBegin>2017-05-13</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -2125,7 +2125,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n125</Id>
+		<Id>a125</Id>
 		<DateBegin>2017-05-13</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -2142,7 +2142,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n126</Id>
+		<Id>a126</Id>
 		<DateBegin>2017-05-13</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -2159,7 +2159,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n127</Id>
+		<Id>a127</Id>
 		<DateBegin>2017-05-13</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -2176,7 +2176,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n128</Id>
+		<Id>a128</Id>
 		<DateBegin>2017-05-13</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -2193,7 +2193,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n129</Id>
+		<Id>a129</Id>
 		<DateBegin>2017-05-13</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -2210,7 +2210,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n130</Id>
+		<Id>a130</Id>
 		<DateBegin>2017-05-13</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -2227,7 +2227,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n131</Id>
+		<Id>a131</Id>
 		<DateBegin>2017-05-13</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -2244,7 +2244,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n132</Id>
+		<Id>a132</Id>
 		<DateBegin>2017-05-13</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -2261,7 +2261,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n133</Id>
+		<Id>a133</Id>
 		<DateBegin>2017-05-14</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -2278,7 +2278,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n134</Id>
+		<Id>a134</Id>
 		<DateBegin>2017-05-14</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -2295,7 +2295,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n135</Id>
+		<Id>a135</Id>
 		<DateBegin>2017-05-14</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -2312,7 +2312,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n136</Id>
+		<Id>a136</Id>
 		<DateBegin>2017-05-14</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -2329,7 +2329,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n137</Id>
+		<Id>a137</Id>
 		<DateBegin>2017-05-14</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -2346,7 +2346,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n138</Id>
+		<Id>a138</Id>
 		<DateBegin>2017-05-14</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -2363,7 +2363,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n139</Id>
+		<Id>a139</Id>
 		<DateBegin>2017-05-14</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -2380,7 +2380,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n140</Id>
+		<Id>a140</Id>
 		<DateBegin>2017-05-14</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -2397,7 +2397,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n141</Id>
+		<Id>a141</Id>
 		<DateBegin>2017-05-14</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -2414,7 +2414,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n142</Id>
+		<Id>a142</Id>
 		<DateBegin>2017-05-14</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -2431,7 +2431,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n143</Id>
+		<Id>a143</Id>
 		<DateBegin>2017-05-14</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -2448,7 +2448,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n144</Id>
+		<Id>a144</Id>
 		<DateBegin>2017-05-14</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -2465,7 +2465,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n145</Id>
+		<Id>a145</Id>
 		<DateBegin>2017-05-14</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -2482,7 +2482,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n146</Id>
+		<Id>a146</Id>
 		<DateBegin>2017-05-14</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -2499,7 +2499,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n147</Id>
+		<Id>a147</Id>
 		<DateBegin>2017-05-14</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -2516,7 +2516,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n148</Id>
+		<Id>a148</Id>
 		<DateBegin>2017-05-14</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -2533,7 +2533,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n149</Id>
+		<Id>a149</Id>
 		<DateBegin>2017-05-14</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -2550,7 +2550,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n150</Id>
+		<Id>a150</Id>
 		<DateBegin>2017-05-14</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -2567,7 +2567,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n151</Id>
+		<Id>a151</Id>
 		<DateBegin>2017-05-14</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -2584,7 +2584,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n152</Id>
+		<Id>a152</Id>
 		<DateBegin>2017-05-15</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -2601,7 +2601,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n153</Id>
+		<Id>a153</Id>
 		<DateBegin>2017-05-15</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -2618,7 +2618,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n154</Id>
+		<Id>a154</Id>
 		<DateBegin>2017-05-15</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -2635,7 +2635,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n155</Id>
+		<Id>a155</Id>
 		<DateBegin>2017-05-15</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -2652,7 +2652,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n156</Id>
+		<Id>a156</Id>
 		<DateBegin>2017-05-15</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -2669,7 +2669,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n157</Id>
+		<Id>a157</Id>
 		<DateBegin>2017-05-15</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -2686,7 +2686,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n158</Id>
+		<Id>a158</Id>
 		<DateBegin>2017-05-15</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -2703,7 +2703,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n159</Id>
+		<Id>a159</Id>
 		<DateBegin>2017-05-15</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -2720,7 +2720,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n160</Id>
+		<Id>a160</Id>
 		<DateBegin>2017-05-15</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -2737,7 +2737,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n161</Id>
+		<Id>a161</Id>
 		<DateBegin>2017-05-15</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -2754,7 +2754,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n162</Id>
+		<Id>a162</Id>
 		<DateBegin>2017-05-15</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -2771,7 +2771,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n163</Id>
+		<Id>a163</Id>
 		<DateBegin>2017-05-15</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -2788,7 +2788,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n164</Id>
+		<Id>a164</Id>
 		<DateBegin>2017-05-15</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -2805,7 +2805,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n165</Id>
+		<Id>a165</Id>
 		<DateBegin>2017-05-15</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -2822,7 +2822,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n166</Id>
+		<Id>a166</Id>
 		<DateBegin>2017-05-15</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -2839,7 +2839,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n167</Id>
+		<Id>a167</Id>
 		<DateBegin>2017-05-15</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -2856,7 +2856,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n168</Id>
+		<Id>a168</Id>
 		<DateBegin>2017-05-15</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -2873,7 +2873,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n169</Id>
+		<Id>a169</Id>
 		<DateBegin>2017-05-15</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -2890,7 +2890,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n170</Id>
+		<Id>a170</Id>
 		<DateBegin>2017-05-15</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -2907,7 +2907,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n171</Id>
+		<Id>a171</Id>
 		<DateBegin>2017-05-16</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -2924,7 +2924,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n172</Id>
+		<Id>a172</Id>
 		<DateBegin>2017-05-16</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -2941,7 +2941,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n173</Id>
+		<Id>a173</Id>
 		<DateBegin>2017-05-16</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -2958,7 +2958,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n174</Id>
+		<Id>a174</Id>
 		<DateBegin>2017-05-16</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -2975,7 +2975,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n175</Id>
+		<Id>a175</Id>
 		<DateBegin>2017-05-16</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -2992,7 +2992,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n176</Id>
+		<Id>a176</Id>
 		<DateBegin>2017-05-16</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -3009,7 +3009,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n177</Id>
+		<Id>a177</Id>
 		<DateBegin>2017-05-16</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -3026,7 +3026,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n178</Id>
+		<Id>a178</Id>
 		<DateBegin>2017-05-16</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -3043,7 +3043,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n179</Id>
+		<Id>a179</Id>
 		<DateBegin>2017-05-16</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -3060,7 +3060,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n180</Id>
+		<Id>a180</Id>
 		<DateBegin>2017-05-16</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -3077,7 +3077,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n181</Id>
+		<Id>a181</Id>
 		<DateBegin>2017-05-16</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -3094,7 +3094,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n182</Id>
+		<Id>a182</Id>
 		<DateBegin>2017-05-16</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -3111,7 +3111,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n183</Id>
+		<Id>a183</Id>
 		<DateBegin>2017-05-16</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -3128,7 +3128,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n184</Id>
+		<Id>a184</Id>
 		<DateBegin>2017-05-16</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -3145,7 +3145,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n185</Id>
+		<Id>a185</Id>
 		<DateBegin>2017-05-16</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -3162,7 +3162,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n186</Id>
+		<Id>a186</Id>
 		<DateBegin>2017-05-16</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -3179,7 +3179,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n187</Id>
+		<Id>a187</Id>
 		<DateBegin>2017-05-16</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -3196,7 +3196,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n188</Id>
+		<Id>a188</Id>
 		<DateBegin>2017-05-16</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -3213,7 +3213,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n189</Id>
+		<Id>a189</Id>
 		<DateBegin>2017-05-16</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -3230,7 +3230,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n190</Id>
+		<Id>a190</Id>
 		<DateBegin>2017-05-17</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -3247,7 +3247,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n191</Id>
+		<Id>a191</Id>
 		<DateBegin>2017-05-17</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -3264,7 +3264,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n192</Id>
+		<Id>a192</Id>
 		<DateBegin>2017-05-17</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -3281,7 +3281,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n193</Id>
+		<Id>a193</Id>
 		<DateBegin>2017-05-17</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -3298,7 +3298,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n194</Id>
+		<Id>a194</Id>
 		<DateBegin>2017-05-17</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -3315,7 +3315,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n195</Id>
+		<Id>a195</Id>
 		<DateBegin>2017-05-17</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -3332,7 +3332,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n196</Id>
+		<Id>a196</Id>
 		<DateBegin>2017-05-17</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -3349,7 +3349,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n197</Id>
+		<Id>a197</Id>
 		<DateBegin>2017-05-17</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -3366,7 +3366,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n198</Id>
+		<Id>a198</Id>
 		<DateBegin>2017-05-17</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -3383,7 +3383,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n199</Id>
+		<Id>a199</Id>
 		<DateBegin>2017-05-17</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -3400,7 +3400,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n200</Id>
+		<Id>a200</Id>
 		<DateBegin>2017-05-17</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -3417,7 +3417,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n201</Id>
+		<Id>a201</Id>
 		<DateBegin>2017-05-17</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -3434,7 +3434,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n202</Id>
+		<Id>a202</Id>
 		<DateBegin>2017-05-17</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -3451,7 +3451,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n203</Id>
+		<Id>a203</Id>
 		<DateBegin>2017-05-17</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -3468,7 +3468,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n204</Id>
+		<Id>a204</Id>
 		<DateBegin>2017-05-17</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -3485,7 +3485,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n205</Id>
+		<Id>a205</Id>
 		<DateBegin>2017-05-17</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -3502,7 +3502,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n206</Id>
+		<Id>a206</Id>
 		<DateBegin>2017-05-17</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -3519,7 +3519,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n207</Id>
+		<Id>a207</Id>
 		<DateBegin>2017-05-17</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -3536,7 +3536,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n208</Id>
+		<Id>a208</Id>
 		<DateBegin>2017-05-17</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -3553,7 +3553,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n209</Id>
+		<Id>a209</Id>
 		<DateBegin>2017-05-18</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -3570,7 +3570,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n210</Id>
+		<Id>a210</Id>
 		<DateBegin>2017-05-18</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -3587,7 +3587,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n211</Id>
+		<Id>a211</Id>
 		<DateBegin>2017-05-18</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -3604,7 +3604,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n212</Id>
+		<Id>a212</Id>
 		<DateBegin>2017-05-18</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -3621,7 +3621,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n213</Id>
+		<Id>a213</Id>
 		<DateBegin>2017-05-18</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -3638,7 +3638,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n214</Id>
+		<Id>a214</Id>
 		<DateBegin>2017-05-18</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -3655,7 +3655,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n215</Id>
+		<Id>a215</Id>
 		<DateBegin>2017-05-18</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -3672,7 +3672,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n216</Id>
+		<Id>a216</Id>
 		<DateBegin>2017-05-18</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -3689,7 +3689,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n217</Id>
+		<Id>a217</Id>
 		<DateBegin>2017-05-18</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -3706,7 +3706,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n218</Id>
+		<Id>a218</Id>
 		<DateBegin>2017-05-18</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -3723,7 +3723,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n219</Id>
+		<Id>a219</Id>
 		<DateBegin>2017-05-18</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -3740,7 +3740,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n220</Id>
+		<Id>a220</Id>
 		<DateBegin>2017-05-18</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -3757,7 +3757,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n221</Id>
+		<Id>a221</Id>
 		<DateBegin>2017-05-18</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -3774,7 +3774,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n222</Id>
+		<Id>a222</Id>
 		<DateBegin>2017-05-18</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -3791,7 +3791,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n223</Id>
+		<Id>a223</Id>
 		<DateBegin>2017-05-18</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -3808,7 +3808,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n224</Id>
+		<Id>a224</Id>
 		<DateBegin>2017-05-18</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -3825,7 +3825,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n225</Id>
+		<Id>a225</Id>
 		<DateBegin>2017-05-18</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -3842,7 +3842,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n226</Id>
+		<Id>a226</Id>
 		<DateBegin>2017-05-18</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -3859,7 +3859,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n227</Id>
+		<Id>a227</Id>
 		<DateBegin>2017-05-18</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -3876,7 +3876,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n228</Id>
+		<Id>a228</Id>
 		<DateBegin>2017-05-19</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -3893,7 +3893,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n229</Id>
+		<Id>a229</Id>
 		<DateBegin>2017-05-19</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -3910,7 +3910,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n230</Id>
+		<Id>a230</Id>
 		<DateBegin>2017-05-19</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -3927,7 +3927,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n231</Id>
+		<Id>a231</Id>
 		<DateBegin>2017-05-19</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -3944,7 +3944,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n232</Id>
+		<Id>a232</Id>
 		<DateBegin>2017-05-19</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -3961,7 +3961,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n233</Id>
+		<Id>a233</Id>
 		<DateBegin>2017-05-19</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -3978,7 +3978,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n234</Id>
+		<Id>a234</Id>
 		<DateBegin>2017-05-19</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -3995,7 +3995,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n235</Id>
+		<Id>a235</Id>
 		<DateBegin>2017-05-19</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -4012,7 +4012,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n236</Id>
+		<Id>a236</Id>
 		<DateBegin>2017-05-19</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -4029,7 +4029,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n237</Id>
+		<Id>a237</Id>
 		<DateBegin>2017-05-19</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -4046,7 +4046,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n238</Id>
+		<Id>a238</Id>
 		<DateBegin>2017-05-19</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -4063,7 +4063,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n239</Id>
+		<Id>a239</Id>
 		<DateBegin>2017-05-19</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -4080,7 +4080,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n240</Id>
+		<Id>a240</Id>
 		<DateBegin>2017-05-19</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -4097,7 +4097,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n241</Id>
+		<Id>a241</Id>
 		<DateBegin>2017-05-19</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -4114,7 +4114,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n242</Id>
+		<Id>a242</Id>
 		<DateBegin>2017-05-19</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -4131,7 +4131,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n243</Id>
+		<Id>a243</Id>
 		<DateBegin>2017-05-19</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -4148,7 +4148,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n244</Id>
+		<Id>a244</Id>
 		<DateBegin>2017-05-19</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -4165,7 +4165,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n245</Id>
+		<Id>a245</Id>
 		<DateBegin>2017-05-19</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -4182,7 +4182,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n246</Id>
+		<Id>a246</Id>
 		<DateBegin>2017-05-19</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -4199,7 +4199,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n247</Id>
+		<Id>a247</Id>
 		<DateBegin>2017-05-20</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -4216,7 +4216,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n248</Id>
+		<Id>a248</Id>
 		<DateBegin>2017-05-20</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -4233,7 +4233,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n249</Id>
+		<Id>a249</Id>
 		<DateBegin>2017-05-20</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -4250,7 +4250,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n250</Id>
+		<Id>a250</Id>
 		<DateBegin>2017-05-20</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -4267,7 +4267,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n251</Id>
+		<Id>a251</Id>
 		<DateBegin>2017-05-20</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -4284,7 +4284,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n252</Id>
+		<Id>a252</Id>
 		<DateBegin>2017-05-20</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -4301,7 +4301,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n253</Id>
+		<Id>a253</Id>
 		<DateBegin>2017-05-20</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -4318,7 +4318,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n254</Id>
+		<Id>a254</Id>
 		<DateBegin>2017-05-20</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -4335,7 +4335,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n255</Id>
+		<Id>a255</Id>
 		<DateBegin>2017-05-20</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -4352,7 +4352,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n256</Id>
+		<Id>a256</Id>
 		<DateBegin>2017-05-20</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -4369,7 +4369,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n257</Id>
+		<Id>a257</Id>
 		<DateBegin>2017-05-20</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -4386,7 +4386,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n258</Id>
+		<Id>a258</Id>
 		<DateBegin>2017-05-20</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -4403,7 +4403,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n259</Id>
+		<Id>a259</Id>
 		<DateBegin>2017-05-20</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -4420,7 +4420,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n260</Id>
+		<Id>a260</Id>
 		<DateBegin>2017-05-20</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -4437,7 +4437,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n261</Id>
+		<Id>a261</Id>
 		<DateBegin>2017-05-20</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -4454,7 +4454,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n262</Id>
+		<Id>a262</Id>
 		<DateBegin>2017-05-20</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -4471,7 +4471,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n263</Id>
+		<Id>a263</Id>
 		<DateBegin>2017-05-20</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -4488,7 +4488,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n264</Id>
+		<Id>a264</Id>
 		<DateBegin>2017-05-20</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -4505,7 +4505,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n265</Id>
+		<Id>a265</Id>
 		<DateBegin>2017-05-20</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -4522,7 +4522,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n266</Id>
+		<Id>a266</Id>
 		<DateBegin>2017-05-21</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -4539,7 +4539,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n267</Id>
+		<Id>a267</Id>
 		<DateBegin>2017-05-21</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -4556,7 +4556,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n268</Id>
+		<Id>a268</Id>
 		<DateBegin>2017-05-21</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -4573,7 +4573,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n269</Id>
+		<Id>a269</Id>
 		<DateBegin>2017-05-21</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -4590,7 +4590,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n270</Id>
+		<Id>a270</Id>
 		<DateBegin>2017-05-21</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -4607,7 +4607,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n271</Id>
+		<Id>a271</Id>
 		<DateBegin>2017-05-21</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -4624,7 +4624,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n272</Id>
+		<Id>a272</Id>
 		<DateBegin>2017-05-21</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -4641,7 +4641,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n273</Id>
+		<Id>a273</Id>
 		<DateBegin>2017-05-21</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -4658,7 +4658,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n274</Id>
+		<Id>a274</Id>
 		<DateBegin>2017-05-21</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -4675,7 +4675,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n275</Id>
+		<Id>a275</Id>
 		<DateBegin>2017-05-21</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -4692,7 +4692,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n276</Id>
+		<Id>a276</Id>
 		<DateBegin>2017-05-21</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -4709,7 +4709,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n277</Id>
+		<Id>a277</Id>
 		<DateBegin>2017-05-21</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -4726,7 +4726,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n278</Id>
+		<Id>a278</Id>
 		<DateBegin>2017-05-21</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -4743,7 +4743,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n279</Id>
+		<Id>a279</Id>
 		<DateBegin>2017-05-21</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -4760,7 +4760,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n280</Id>
+		<Id>a280</Id>
 		<DateBegin>2017-05-21</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -4777,7 +4777,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n281</Id>
+		<Id>a281</Id>
 		<DateBegin>2017-05-21</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -4794,7 +4794,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n282</Id>
+		<Id>a282</Id>
 		<DateBegin>2017-05-21</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -4811,7 +4811,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n283</Id>
+		<Id>a283</Id>
 		<DateBegin>2017-05-21</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -4828,7 +4828,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n284</Id>
+		<Id>a284</Id>
 		<DateBegin>2017-05-21</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -4845,7 +4845,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n285</Id>
+		<Id>a285</Id>
 		<DateBegin>2017-05-22</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -4862,7 +4862,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n286</Id>
+		<Id>a286</Id>
 		<DateBegin>2017-05-22</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -4879,7 +4879,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n287</Id>
+		<Id>a287</Id>
 		<DateBegin>2017-05-22</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -4896,7 +4896,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n288</Id>
+		<Id>a288</Id>
 		<DateBegin>2017-05-22</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -4913,7 +4913,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n289</Id>
+		<Id>a289</Id>
 		<DateBegin>2017-05-22</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -4930,7 +4930,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n290</Id>
+		<Id>a290</Id>
 		<DateBegin>2017-05-22</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -4947,7 +4947,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n291</Id>
+		<Id>a291</Id>
 		<DateBegin>2017-05-22</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -4964,7 +4964,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n292</Id>
+		<Id>a292</Id>
 		<DateBegin>2017-05-22</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -4981,7 +4981,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n293</Id>
+		<Id>a293</Id>
 		<DateBegin>2017-05-22</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -4998,7 +4998,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n294</Id>
+		<Id>a294</Id>
 		<DateBegin>2017-05-22</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -5015,7 +5015,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n295</Id>
+		<Id>a295</Id>
 		<DateBegin>2017-05-22</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -5032,7 +5032,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n296</Id>
+		<Id>a296</Id>
 		<DateBegin>2017-05-22</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -5049,7 +5049,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n297</Id>
+		<Id>a297</Id>
 		<DateBegin>2017-05-22</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -5066,7 +5066,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n298</Id>
+		<Id>a298</Id>
 		<DateBegin>2017-05-22</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -5083,7 +5083,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n299</Id>
+		<Id>a299</Id>
 		<DateBegin>2017-05-22</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -5100,7 +5100,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n300</Id>
+		<Id>a300</Id>
 		<DateBegin>2017-05-22</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -5117,7 +5117,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n301</Id>
+		<Id>a301</Id>
 		<DateBegin>2017-05-22</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -5134,7 +5134,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n302</Id>
+		<Id>a302</Id>
 		<DateBegin>2017-05-22</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -5151,7 +5151,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n303</Id>
+		<Id>a303</Id>
 		<DateBegin>2017-05-22</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -5168,7 +5168,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n304</Id>
+		<Id>a304</Id>
 		<DateBegin>2017-05-23</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -5185,7 +5185,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n305</Id>
+		<Id>a305</Id>
 		<DateBegin>2017-05-23</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -5202,7 +5202,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n306</Id>
+		<Id>a306</Id>
 		<DateBegin>2017-05-23</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -5219,7 +5219,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n307</Id>
+		<Id>a307</Id>
 		<DateBegin>2017-05-23</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -5236,7 +5236,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n308</Id>
+		<Id>a308</Id>
 		<DateBegin>2017-05-23</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -5253,7 +5253,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n309</Id>
+		<Id>a309</Id>
 		<DateBegin>2017-05-23</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -5270,7 +5270,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n310</Id>
+		<Id>a310</Id>
 		<DateBegin>2017-05-23</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -5287,7 +5287,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n311</Id>
+		<Id>a311</Id>
 		<DateBegin>2017-05-23</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -5304,7 +5304,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n312</Id>
+		<Id>a312</Id>
 		<DateBegin>2017-05-23</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -5321,7 +5321,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n313</Id>
+		<Id>a313</Id>
 		<DateBegin>2017-05-23</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -5338,7 +5338,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n314</Id>
+		<Id>a314</Id>
 		<DateBegin>2017-05-23</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -5355,7 +5355,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n315</Id>
+		<Id>a315</Id>
 		<DateBegin>2017-05-23</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -5372,7 +5372,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n316</Id>
+		<Id>a316</Id>
 		<DateBegin>2017-05-23</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -5389,7 +5389,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n317</Id>
+		<Id>a317</Id>
 		<DateBegin>2017-05-23</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -5406,7 +5406,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n318</Id>
+		<Id>a318</Id>
 		<DateBegin>2017-05-23</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -5423,7 +5423,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n319</Id>
+		<Id>a319</Id>
 		<DateBegin>2017-05-23</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -5440,7 +5440,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n320</Id>
+		<Id>a320</Id>
 		<DateBegin>2017-05-23</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -5457,7 +5457,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n321</Id>
+		<Id>a321</Id>
 		<DateBegin>2017-05-23</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -5474,7 +5474,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n322</Id>
+		<Id>a322</Id>
 		<DateBegin>2017-05-23</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -5491,7 +5491,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n323</Id>
+		<Id>a323</Id>
 		<DateBegin>2017-05-24</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -5508,7 +5508,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n324</Id>
+		<Id>a324</Id>
 		<DateBegin>2017-05-24</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -5525,7 +5525,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n325</Id>
+		<Id>a325</Id>
 		<DateBegin>2017-05-24</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -5542,7 +5542,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n326</Id>
+		<Id>a326</Id>
 		<DateBegin>2017-05-24</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -5559,7 +5559,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n327</Id>
+		<Id>a327</Id>
 		<DateBegin>2017-05-24</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -5576,7 +5576,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n328</Id>
+		<Id>a328</Id>
 		<DateBegin>2017-05-24</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -5593,7 +5593,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n329</Id>
+		<Id>a329</Id>
 		<DateBegin>2017-05-24</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -5610,7 +5610,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n330</Id>
+		<Id>a330</Id>
 		<DateBegin>2017-05-24</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -5627,7 +5627,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n331</Id>
+		<Id>a331</Id>
 		<DateBegin>2017-05-24</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -5644,7 +5644,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n332</Id>
+		<Id>a332</Id>
 		<DateBegin>2017-05-24</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -5661,7 +5661,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n333</Id>
+		<Id>a333</Id>
 		<DateBegin>2017-05-24</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -5678,7 +5678,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n334</Id>
+		<Id>a334</Id>
 		<DateBegin>2017-05-24</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -5695,7 +5695,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n335</Id>
+		<Id>a335</Id>
 		<DateBegin>2017-05-24</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -5712,7 +5712,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n336</Id>
+		<Id>a336</Id>
 		<DateBegin>2017-05-24</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -5729,7 +5729,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n337</Id>
+		<Id>a337</Id>
 		<DateBegin>2017-05-24</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -5746,7 +5746,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n338</Id>
+		<Id>a338</Id>
 		<DateBegin>2017-05-24</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -5763,7 +5763,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n339</Id>
+		<Id>a339</Id>
 		<DateBegin>2017-05-24</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -5780,7 +5780,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n340</Id>
+		<Id>a340</Id>
 		<DateBegin>2017-05-24</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -5797,7 +5797,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n341</Id>
+		<Id>a341</Id>
 		<DateBegin>2017-05-24</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -5814,7 +5814,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n342</Id>
+		<Id>a342</Id>
 		<DateBegin>2017-05-25</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -5831,7 +5831,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n343</Id>
+		<Id>a343</Id>
 		<DateBegin>2017-05-25</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -5848,7 +5848,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n344</Id>
+		<Id>a344</Id>
 		<DateBegin>2017-05-25</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -5865,7 +5865,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n345</Id>
+		<Id>a345</Id>
 		<DateBegin>2017-05-25</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -5882,7 +5882,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n346</Id>
+		<Id>a346</Id>
 		<DateBegin>2017-05-25</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -5899,7 +5899,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n347</Id>
+		<Id>a347</Id>
 		<DateBegin>2017-05-25</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -5916,7 +5916,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n348</Id>
+		<Id>a348</Id>
 		<DateBegin>2017-05-25</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -5933,7 +5933,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n349</Id>
+		<Id>a349</Id>
 		<DateBegin>2017-05-25</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -5950,7 +5950,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n350</Id>
+		<Id>a350</Id>
 		<DateBegin>2017-05-25</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -5967,7 +5967,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n351</Id>
+		<Id>a351</Id>
 		<DateBegin>2017-05-25</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -5984,7 +5984,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n352</Id>
+		<Id>a352</Id>
 		<DateBegin>2017-05-25</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -6001,7 +6001,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n353</Id>
+		<Id>a353</Id>
 		<DateBegin>2017-05-25</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -6018,7 +6018,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n354</Id>
+		<Id>a354</Id>
 		<DateBegin>2017-05-25</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -6035,7 +6035,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n355</Id>
+		<Id>a355</Id>
 		<DateBegin>2017-05-25</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -6052,7 +6052,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n356</Id>
+		<Id>a356</Id>
 		<DateBegin>2017-05-25</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -6069,7 +6069,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n357</Id>
+		<Id>a357</Id>
 		<DateBegin>2017-05-25</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -6086,7 +6086,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n358</Id>
+		<Id>a358</Id>
 		<DateBegin>2017-05-25</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -6103,7 +6103,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n359</Id>
+		<Id>a359</Id>
 		<DateBegin>2017-05-25</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -6120,7 +6120,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n360</Id>
+		<Id>a360</Id>
 		<DateBegin>2017-05-25</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -6137,7 +6137,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n361</Id>
+		<Id>a361</Id>
 		<DateBegin>2017-05-26</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -6154,7 +6154,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n362</Id>
+		<Id>a362</Id>
 		<DateBegin>2017-05-26</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -6171,7 +6171,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n363</Id>
+		<Id>a363</Id>
 		<DateBegin>2017-05-26</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -6188,7 +6188,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n364</Id>
+		<Id>a364</Id>
 		<DateBegin>2017-05-26</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -6205,7 +6205,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n365</Id>
+		<Id>a365</Id>
 		<DateBegin>2017-05-26</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -6222,7 +6222,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n366</Id>
+		<Id>a366</Id>
 		<DateBegin>2017-05-26</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -6239,7 +6239,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n367</Id>
+		<Id>a367</Id>
 		<DateBegin>2017-05-26</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -6256,7 +6256,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n368</Id>
+		<Id>a368</Id>
 		<DateBegin>2017-05-26</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -6273,7 +6273,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n369</Id>
+		<Id>a369</Id>
 		<DateBegin>2017-05-26</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -6290,7 +6290,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n370</Id>
+		<Id>a370</Id>
 		<DateBegin>2017-05-26</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -6307,7 +6307,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n371</Id>
+		<Id>a371</Id>
 		<DateBegin>2017-05-26</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -6324,7 +6324,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n372</Id>
+		<Id>a372</Id>
 		<DateBegin>2017-05-26</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -6341,7 +6341,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n373</Id>
+		<Id>a373</Id>
 		<DateBegin>2017-05-26</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -6358,7 +6358,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n374</Id>
+		<Id>a374</Id>
 		<DateBegin>2017-05-26</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -6375,7 +6375,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n375</Id>
+		<Id>a375</Id>
 		<DateBegin>2017-05-26</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -6392,7 +6392,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n376</Id>
+		<Id>a376</Id>
 		<DateBegin>2017-05-26</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -6409,7 +6409,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n377</Id>
+		<Id>a377</Id>
 		<DateBegin>2017-05-26</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -6426,7 +6426,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n378</Id>
+		<Id>a378</Id>
 		<DateBegin>2017-05-26</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -6443,7 +6443,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n379</Id>
+		<Id>a379</Id>
 		<DateBegin>2017-05-26</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -6460,7 +6460,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n380</Id>
+		<Id>a380</Id>
 		<DateBegin>2017-05-27</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -6477,7 +6477,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n381</Id>
+		<Id>a381</Id>
 		<DateBegin>2017-05-27</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -6494,7 +6494,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n382</Id>
+		<Id>a382</Id>
 		<DateBegin>2017-05-27</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -6511,7 +6511,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n383</Id>
+		<Id>a383</Id>
 		<DateBegin>2017-05-27</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -6528,7 +6528,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n384</Id>
+		<Id>a384</Id>
 		<DateBegin>2017-05-27</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -6545,7 +6545,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n385</Id>
+		<Id>a385</Id>
 		<DateBegin>2017-05-27</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -6562,7 +6562,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n386</Id>
+		<Id>a386</Id>
 		<DateBegin>2017-05-27</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -6579,7 +6579,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n387</Id>
+		<Id>a387</Id>
 		<DateBegin>2017-05-27</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -6596,7 +6596,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n388</Id>
+		<Id>a388</Id>
 		<DateBegin>2017-05-27</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -6613,7 +6613,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n389</Id>
+		<Id>a389</Id>
 		<DateBegin>2017-05-27</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -6630,7 +6630,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n390</Id>
+		<Id>a390</Id>
 		<DateBegin>2017-05-27</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -6647,7 +6647,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n391</Id>
+		<Id>a391</Id>
 		<DateBegin>2017-05-27</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -6664,7 +6664,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n392</Id>
+		<Id>a392</Id>
 		<DateBegin>2017-05-27</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -6681,7 +6681,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n393</Id>
+		<Id>a393</Id>
 		<DateBegin>2017-05-27</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -6698,7 +6698,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n394</Id>
+		<Id>a394</Id>
 		<DateBegin>2017-05-27</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -6715,7 +6715,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n395</Id>
+		<Id>a395</Id>
 		<DateBegin>2017-05-27</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -6732,7 +6732,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n396</Id>
+		<Id>a396</Id>
 		<DateBegin>2017-05-27</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -6749,7 +6749,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n397</Id>
+		<Id>a397</Id>
 		<DateBegin>2017-05-27</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -6766,7 +6766,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n398</Id>
+		<Id>a398</Id>
 		<DateBegin>2017-05-27</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -6783,7 +6783,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n399</Id>
+		<Id>a399</Id>
 		<DateBegin>2017-05-28</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -6800,7 +6800,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n400</Id>
+		<Id>a400</Id>
 		<DateBegin>2017-05-28</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -6817,7 +6817,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n401</Id>
+		<Id>a401</Id>
 		<DateBegin>2017-05-28</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -6834,7 +6834,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n402</Id>
+		<Id>a402</Id>
 		<DateBegin>2017-05-28</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -6851,7 +6851,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n403</Id>
+		<Id>a403</Id>
 		<DateBegin>2017-05-28</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -6868,7 +6868,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n404</Id>
+		<Id>a404</Id>
 		<DateBegin>2017-05-28</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -6885,7 +6885,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n405</Id>
+		<Id>a405</Id>
 		<DateBegin>2017-05-28</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -6902,7 +6902,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n406</Id>
+		<Id>a406</Id>
 		<DateBegin>2017-05-28</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -6919,7 +6919,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n407</Id>
+		<Id>a407</Id>
 		<DateBegin>2017-05-28</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -6936,7 +6936,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n408</Id>
+		<Id>a408</Id>
 		<DateBegin>2017-05-28</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -6953,7 +6953,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n409</Id>
+		<Id>a409</Id>
 		<DateBegin>2017-05-28</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -6970,7 +6970,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n410</Id>
+		<Id>a410</Id>
 		<DateBegin>2017-05-28</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -6987,7 +6987,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n411</Id>
+		<Id>a411</Id>
 		<DateBegin>2017-05-28</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -7004,7 +7004,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n412</Id>
+		<Id>a412</Id>
 		<DateBegin>2017-05-28</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -7021,7 +7021,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n413</Id>
+		<Id>a413</Id>
 		<DateBegin>2017-05-28</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -7038,7 +7038,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n414</Id>
+		<Id>a414</Id>
 		<DateBegin>2017-05-28</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -7055,7 +7055,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n415</Id>
+		<Id>a415</Id>
 		<DateBegin>2017-05-28</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -7072,7 +7072,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n416</Id>
+		<Id>a416</Id>
 		<DateBegin>2017-05-28</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -7089,7 +7089,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n417</Id>
+		<Id>a417</Id>
 		<DateBegin>2017-05-28</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -7106,7 +7106,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n418</Id>
+		<Id>a418</Id>
 		<DateBegin>2017-05-29</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -7123,7 +7123,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n419</Id>
+		<Id>a419</Id>
 		<DateBegin>2017-05-29</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -7140,7 +7140,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n420</Id>
+		<Id>a420</Id>
 		<DateBegin>2017-05-29</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -7157,7 +7157,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n421</Id>
+		<Id>a421</Id>
 		<DateBegin>2017-05-29</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -7174,7 +7174,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n422</Id>
+		<Id>a422</Id>
 		<DateBegin>2017-05-29</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -7191,7 +7191,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n423</Id>
+		<Id>a423</Id>
 		<DateBegin>2017-05-29</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -7208,7 +7208,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n424</Id>
+		<Id>a424</Id>
 		<DateBegin>2017-05-29</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -7225,7 +7225,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n425</Id>
+		<Id>a425</Id>
 		<DateBegin>2017-05-29</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -7242,7 +7242,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n426</Id>
+		<Id>a426</Id>
 		<DateBegin>2017-05-29</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -7259,7 +7259,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n427</Id>
+		<Id>a427</Id>
 		<DateBegin>2017-05-29</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -7276,7 +7276,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n428</Id>
+		<Id>a428</Id>
 		<DateBegin>2017-05-29</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -7293,7 +7293,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n429</Id>
+		<Id>a429</Id>
 		<DateBegin>2017-05-29</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -7310,7 +7310,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n430</Id>
+		<Id>a430</Id>
 		<DateBegin>2017-05-29</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -7327,7 +7327,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n431</Id>
+		<Id>a431</Id>
 		<DateBegin>2017-05-29</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -7344,7 +7344,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n432</Id>
+		<Id>a432</Id>
 		<DateBegin>2017-05-29</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -7361,7 +7361,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n433</Id>
+		<Id>a433</Id>
 		<DateBegin>2017-05-29</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -7378,7 +7378,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n434</Id>
+		<Id>a434</Id>
 		<DateBegin>2017-05-29</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -7395,7 +7395,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n435</Id>
+		<Id>a435</Id>
 		<DateBegin>2017-05-29</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -7412,7 +7412,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n436</Id>
+		<Id>a436</Id>
 		<DateBegin>2017-05-29</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -7429,8 +7429,8 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n437</Id>
-		<DateBegin>2017-04-30</DateBegin>
+		<Id>a437</Id>
+		<DateBegin>2017-05-30</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
 		<ContactPhone>89991557000</ContactPhone>
@@ -7446,8 +7446,8 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n438</Id>
-		<DateBegin>2017-04-30</DateBegin>
+		<Id>a438</Id>
+		<DateBegin>2017-05-30</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
 		<ContactPhone>89991557000</ContactPhone>
@@ -7463,8 +7463,8 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n439</Id>
-		<DateBegin>2017-04-30</DateBegin>
+		<Id>a439</Id>
+		<DateBegin>2017-05-30</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
 		<ContactPhone>89991557000</ContactPhone>
@@ -7480,8 +7480,8 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n440</Id>
-		<DateBegin>2017-04-30</DateBegin>
+		<Id>a440</Id>
+		<DateBegin>2017-05-30</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
 		<ContactPhone>89991557000</ContactPhone>
@@ -7497,8 +7497,8 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n441</Id>
-		<DateBegin>2017-04-30</DateBegin>
+		<Id>a441</Id>
+		<DateBegin>2017-05-30</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
 		<ContactPhone>89991557000</ContactPhone>
@@ -7514,8 +7514,8 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n442</Id>
-		<DateBegin>2017-04-30</DateBegin>
+		<Id>a442</Id>
+		<DateBegin>2017-05-30</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
 		<ContactPhone>89991557000</ContactPhone>
@@ -7531,8 +7531,8 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n443</Id>
-		<DateBegin>2017-04-30</DateBegin>
+		<Id>a443</Id>
+		<DateBegin>2017-05-30</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
 		<ContactPhone>89991557000</ContactPhone>
@@ -7548,8 +7548,8 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n444</Id>
-		<DateBegin>2017-04-30</DateBegin>
+		<Id>a444</Id>
+		<DateBegin>2017-05-30</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
 		<ContactPhone>89991557000</ContactPhone>
@@ -7565,8 +7565,8 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n445</Id>
-		<DateBegin>2017-04-30</DateBegin>
+		<Id>a445</Id>
+		<DateBegin>2017-05-30</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
 		<ContactPhone>89991557000</ContactPhone>
@@ -7582,8 +7582,8 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n446</Id>
-		<DateBegin>2017-04-30</DateBegin>
+		<Id>a446</Id>
+		<DateBegin>2017-05-30</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
 		<ContactPhone>89991557000</ContactPhone>
@@ -7599,8 +7599,8 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n447</Id>
-		<DateBegin>2017-04-30</DateBegin>
+		<Id>a447</Id>
+		<DateBegin>2017-05-30</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
 		<ContactPhone>89991557000</ContactPhone>
@@ -7616,8 +7616,8 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n448</Id>
-		<DateBegin>2017-04-30</DateBegin>
+		<Id>a448</Id>
+		<DateBegin>2017-05-30</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
 		<ContactPhone>89991557000</ContactPhone>
@@ -7633,8 +7633,8 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n449</Id>
-		<DateBegin>2017-04-30</DateBegin>
+		<Id>a449</Id>
+		<DateBegin>2017-05-30</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
 		<ContactPhone>89991557000</ContactPhone>
@@ -7650,8 +7650,8 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n450</Id>
-		<DateBegin>2017-04-30</DateBegin>
+		<Id>a450</Id>
+		<DateBegin>2017-05-30</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
 		<ContactPhone>89991557000</ContactPhone>
@@ -7667,8 +7667,8 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n451</Id>
-		<DateBegin>2017-04-30</DateBegin>
+		<Id>a451</Id>
+		<DateBegin>2017-05-30</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
 		<ContactPhone>89991557000</ContactPhone>
@@ -7684,8 +7684,8 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n452</Id>
-		<DateBegin>2017-04-30</DateBegin>
+		<Id>a452</Id>
+		<DateBegin>2017-05-30</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
 		<ContactPhone>89991557000</ContactPhone>
@@ -7701,8 +7701,8 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n453</Id>
-		<DateBegin>2017-04-30</DateBegin>
+		<Id>a453</Id>
+		<DateBegin>2017-05-30</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
 		<ContactPhone>89991557000</ContactPhone>
@@ -7718,8 +7718,8 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n454</Id>
-		<DateBegin>2017-04-30</DateBegin>
+		<Id>a454</Id>
+		<DateBegin>2017-05-30</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
 		<ContactPhone>89991557000</ContactPhone>
@@ -7735,8 +7735,8 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n455</Id>
-		<DateBegin>2017-04-30</DateBegin>
+		<Id>a455</Id>
+		<DateBegin>2017-05-30</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
 		<ContactPhone>89991557000</ContactPhone>
@@ -7752,8 +7752,8 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n456</Id>
-		<DateBegin>2017-05-01</DateBegin>
+		<Id>a456</Id>
+		<DateBegin>2017-05-31</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
 		<ContactPhone>89991557000</ContactPhone>
@@ -7769,8 +7769,8 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n457</Id>
-		<DateBegin>2017-05-01</DateBegin>
+		<Id>a457</Id>
+		<DateBegin>2017-05-31</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
 		<ContactPhone>89991557000</ContactPhone>
@@ -7786,8 +7786,8 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n458</Id>
-		<DateBegin>2017-05-01</DateBegin>
+		<Id>a458</Id>
+		<DateBegin>2017-05-31</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
 		<ContactPhone>89991557000</ContactPhone>
@@ -7803,8 +7803,8 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n459</Id>
-		<DateBegin>2017-05-01</DateBegin>
+		<Id>a459</Id>
+		<DateBegin>2017-05-31</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
 		<ContactPhone>89991557000</ContactPhone>
@@ -7820,8 +7820,8 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n460</Id>
-		<DateBegin>2017-05-01</DateBegin>
+		<Id>a460</Id>
+		<DateBegin>2017-05-31</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
 		<ContactPhone>89991557000</ContactPhone>
@@ -7837,8 +7837,8 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n461</Id>
-		<DateBegin>2017-05-01</DateBegin>
+		<Id>a461</Id>
+		<DateBegin>2017-05-31</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
 		<ContactPhone>89991557000</ContactPhone>
@@ -7854,8 +7854,8 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n462</Id>
-		<DateBegin>2017-05-01</DateBegin>
+		<Id>a462</Id>
+		<DateBegin>2017-05-31</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
 		<ContactPhone>89991557000</ContactPhone>
@@ -7871,8 +7871,8 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n463</Id>
-		<DateBegin>2017-05-01</DateBegin>
+		<Id>a463</Id>
+		<DateBegin>2017-05-31</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
 		<ContactPhone>89991557000</ContactPhone>
@@ -7888,8 +7888,8 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n464</Id>
-		<DateBegin>2017-05-01</DateBegin>
+		<Id>a464</Id>
+		<DateBegin>2017-05-31</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
 		<ContactPhone>89991557000</ContactPhone>
@@ -7905,8 +7905,8 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n465</Id>
-		<DateBegin>2017-05-01</DateBegin>
+		<Id>a465</Id>
+		<DateBegin>2017-05-31</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
 		<ContactPhone>89991557000</ContactPhone>
@@ -7922,8 +7922,8 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n466</Id>
-		<DateBegin>2017-05-01</DateBegin>
+		<Id>a466</Id>
+		<DateBegin>2017-05-31</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
 		<ContactPhone>89991557000</ContactPhone>
@@ -7939,8 +7939,8 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n467</Id>
-		<DateBegin>2017-05-01</DateBegin>
+		<Id>a467</Id>
+		<DateBegin>2017-05-31</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
 		<ContactPhone>89991557000</ContactPhone>
@@ -7956,8 +7956,8 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n468</Id>
-		<DateBegin>2017-05-01</DateBegin>
+		<Id>a468</Id>
+		<DateBegin>2017-05-31</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
 		<ContactPhone>89991557000</ContactPhone>
@@ -7973,8 +7973,8 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n469</Id>
-		<DateBegin>2017-05-01</DateBegin>
+		<Id>a469</Id>
+		<DateBegin>2017-05-31</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
 		<ContactPhone>89991557000</ContactPhone>
@@ -7990,8 +7990,8 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n470</Id>
-		<DateBegin>2017-05-01</DateBegin>
+		<Id>a470</Id>
+		<DateBegin>2017-05-31</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
 		<ContactPhone>89991557000</ContactPhone>
@@ -8007,8 +8007,8 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n471</Id>
-		<DateBegin>2017-05-01</DateBegin>
+		<Id>a471</Id>
+		<DateBegin>2017-05-31</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
 		<ContactPhone>89991557000</ContactPhone>
@@ -8024,8 +8024,8 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n472</Id>
-		<DateBegin>2017-05-01</DateBegin>
+		<Id>a472</Id>
+		<DateBegin>2017-05-31</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
 		<ContactPhone>89991557000</ContactPhone>
@@ -8041,8 +8041,8 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n473</Id>
-		<DateBegin>2017-05-01</DateBegin>
+		<Id>a473</Id>
+		<DateBegin>2017-05-31</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
 		<ContactPhone>89991557000</ContactPhone>
@@ -8058,8 +8058,8 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n474</Id>
-		<DateBegin>2017-05-01</DateBegin>
+		<Id>a474</Id>
+		<DateBegin>2017-05-31</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
 		<ContactPhone>89991557000</ContactPhone>
@@ -8075,8 +8075,8 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n475</Id>
-		<DateBegin>2017-05-02</DateBegin>
+		<Id>a475</Id>
+		<DateBegin>2017-06-01</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
 		<ContactPhone>89991557000</ContactPhone>
@@ -8092,8 +8092,8 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n476</Id>
-		<DateBegin>2017-05-02</DateBegin>
+		<Id>a476</Id>
+		<DateBegin>2017-06-01</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
 		<ContactPhone>89991557000</ContactPhone>
@@ -8109,8 +8109,8 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n477</Id>
-		<DateBegin>2017-05-02</DateBegin>
+		<Id>a477</Id>
+		<DateBegin>2017-06-01</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
 		<ContactPhone>89991557000</ContactPhone>
@@ -8126,8 +8126,8 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n478</Id>
-		<DateBegin>2017-05-02</DateBegin>
+		<Id>a478</Id>
+		<DateBegin>2017-06-01</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
 		<ContactPhone>89991557000</ContactPhone>
@@ -8143,8 +8143,8 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n479</Id>
-		<DateBegin>2017-05-02</DateBegin>
+		<Id>a479</Id>
+		<DateBegin>2017-06-01</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
 		<ContactPhone>89991557000</ContactPhone>
@@ -8160,8 +8160,8 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n480</Id>
-		<DateBegin>2017-05-02</DateBegin>
+		<Id>a480</Id>
+		<DateBegin>2017-06-01</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
 		<ContactPhone>89991557000</ContactPhone>
@@ -8177,8 +8177,8 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n481</Id>
-		<DateBegin>2017-05-02</DateBegin>
+		<Id>a481</Id>
+		<DateBegin>2017-06-01</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
 		<ContactPhone>89991557000</ContactPhone>
@@ -8194,8 +8194,8 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n482</Id>
-		<DateBegin>2017-05-02</DateBegin>
+		<Id>a482</Id>
+		<DateBegin>2017-06-01</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
 		<ContactPhone>89991557000</ContactPhone>
@@ -8211,8 +8211,8 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n483</Id>
-		<DateBegin>2017-05-02</DateBegin>
+		<Id>a483</Id>
+		<DateBegin>2017-06-01</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
 		<ContactPhone>89991557000</ContactPhone>
@@ -8228,8 +8228,8 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n484</Id>
-		<DateBegin>2017-05-02</DateBegin>
+		<Id>a484</Id>
+		<DateBegin>2017-06-01</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
 		<ContactPhone>89991557000</ContactPhone>
@@ -8245,8 +8245,8 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n485</Id>
-		<DateBegin>2017-05-02</DateBegin>
+		<Id>a485</Id>
+		<DateBegin>2017-06-01</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
 		<ContactPhone>89991557000</ContactPhone>
@@ -8262,8 +8262,8 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n486</Id>
-		<DateBegin>2017-05-02</DateBegin>
+		<Id>a486</Id>
+		<DateBegin>2017-06-01</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
 		<ContactPhone>89991557000</ContactPhone>
@@ -8279,8 +8279,8 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n487</Id>
-		<DateBegin>2017-05-02</DateBegin>
+		<Id>a487</Id>
+		<DateBegin>2017-06-01</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
 		<ContactPhone>89991557000</ContactPhone>
@@ -8296,8 +8296,8 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n488</Id>
-		<DateBegin>2017-05-02</DateBegin>
+		<Id>a488</Id>
+		<DateBegin>2017-06-01</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
 		<ContactPhone>89991557000</ContactPhone>
@@ -8313,8 +8313,8 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n489</Id>
-		<DateBegin>2017-05-02</DateBegin>
+		<Id>a489</Id>
+		<DateBegin>2017-06-01</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
 		<ContactPhone>89991557000</ContactPhone>
@@ -8330,8 +8330,8 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n490</Id>
-		<DateBegin>2017-05-02</DateBegin>
+		<Id>a490</Id>
+		<DateBegin>2017-06-01</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
 		<ContactPhone>89991557000</ContactPhone>
@@ -8347,8 +8347,8 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n491</Id>
-		<DateBegin>2017-05-02</DateBegin>
+		<Id>a491</Id>
+		<DateBegin>2017-06-01</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
 		<ContactPhone>89991557000</ContactPhone>
@@ -8364,8 +8364,8 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n492</Id>
-		<DateBegin>2017-05-02</DateBegin>
+		<Id>a492</Id>
+		<DateBegin>2017-06-01</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
 		<ContactPhone>89991557000</ContactPhone>
@@ -8381,8 +8381,8 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n493</Id>
-		<DateBegin>2017-05-02</DateBegin>
+		<Id>a493</Id>
+		<DateBegin>2017-06-01</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
 		<ContactPhone>89991557000</ContactPhone>
@@ -8398,8 +8398,8 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n494</Id>
-		<DateBegin>2017-05-03</DateBegin>
+		<Id>a494</Id>
+		<DateBegin>2017-06-02</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
 		<ContactPhone>89991557000</ContactPhone>
@@ -8415,8 +8415,8 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n495</Id>
-		<DateBegin>2017-05-03</DateBegin>
+		<Id>a495</Id>
+		<DateBegin>2017-06-02</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
 		<ContactPhone>89991557000</ContactPhone>
@@ -8432,8 +8432,8 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n496</Id>
-		<DateBegin>2017-05-03</DateBegin>
+		<Id>a496</Id>
+		<DateBegin>2017-06-02</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
 		<ContactPhone>89991557000</ContactPhone>
@@ -8449,8 +8449,8 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n497</Id>
-		<DateBegin>2017-05-03</DateBegin>
+		<Id>a497</Id>
+		<DateBegin>2017-06-02</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
 		<ContactPhone>89991557000</ContactPhone>
@@ -8466,8 +8466,8 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n498</Id>
-		<DateBegin>2017-05-03</DateBegin>
+		<Id>a498</Id>
+		<DateBegin>2017-06-02</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
 		<ContactPhone>89991557000</ContactPhone>
@@ -8483,8 +8483,8 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n499</Id>
-		<DateBegin>2017-05-03</DateBegin>
+		<Id>a499</Id>
+		<DateBegin>2017-06-02</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
 		<ContactPhone>89991557000</ContactPhone>
@@ -8500,8 +8500,8 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n500</Id>
-		<DateBegin>2017-05-03</DateBegin>
+		<Id>a500</Id>
+		<DateBegin>2017-06-02</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
 		<ContactPhone>89991557000</ContactPhone>
@@ -8517,8 +8517,8 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n501</Id>
-		<DateBegin>2017-05-03</DateBegin>
+		<Id>a501</Id>
+		<DateBegin>2017-06-02</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
 		<ContactPhone>89991557000</ContactPhone>
@@ -8534,8 +8534,8 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n502</Id>
-		<DateBegin>2017-05-03</DateBegin>
+		<Id>a502</Id>
+		<DateBegin>2017-06-02</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
 		<ContactPhone>89991557000</ContactPhone>
@@ -8551,8 +8551,8 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n503</Id>
-		<DateBegin>2017-05-03</DateBegin>
+		<Id>a503</Id>
+		<DateBegin>2017-06-02</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
 		<ContactPhone>89991557000</ContactPhone>
@@ -8568,8 +8568,8 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n504</Id>
-		<DateBegin>2017-05-03</DateBegin>
+		<Id>a504</Id>
+		<DateBegin>2017-06-02</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
 		<ContactPhone>89991557000</ContactPhone>
@@ -8585,8 +8585,8 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n505</Id>
-		<DateBegin>2017-05-03</DateBegin>
+		<Id>a505</Id>
+		<DateBegin>2017-06-02</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
 		<ContactPhone>89991557000</ContactPhone>
@@ -8602,8 +8602,8 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n506</Id>
-		<DateBegin>2017-05-03</DateBegin>
+		<Id>a506</Id>
+		<DateBegin>2017-06-02</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
 		<ContactPhone>89991557000</ContactPhone>
@@ -8619,8 +8619,8 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n507</Id>
-		<DateBegin>2017-05-03</DateBegin>
+		<Id>a507</Id>
+		<DateBegin>2017-06-02</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
 		<ContactPhone>89991557000</ContactPhone>
@@ -8636,8 +8636,8 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n508</Id>
-		<DateBegin>2017-05-03</DateBegin>
+		<Id>a508</Id>
+		<DateBegin>2017-06-02</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
 		<ContactPhone>89991557000</ContactPhone>
@@ -8653,8 +8653,8 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n509</Id>
-		<DateBegin>2017-05-03</DateBegin>
+		<Id>a509</Id>
+		<DateBegin>2017-06-02</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
 		<ContactPhone>89991557000</ContactPhone>
@@ -8670,8 +8670,8 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n510</Id>
-		<DateBegin>2017-05-03</DateBegin>
+		<Id>a510</Id>
+		<DateBegin>2017-06-02</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
 		<ContactPhone>89991557000</ContactPhone>
@@ -8687,8 +8687,8 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n511</Id>
-		<DateBegin>2017-05-03</DateBegin>
+		<Id>a511</Id>
+		<DateBegin>2017-06-02</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
 		<ContactPhone>89991557000</ContactPhone>
@@ -8704,8 +8704,8 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n512</Id>
-		<DateBegin>2017-05-03</DateBegin>
+		<Id>a512</Id>
+		<DateBegin>2017-06-02</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
 		<ContactPhone>89991557000</ContactPhone>
@@ -8721,7 +8721,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n513</Id>
+		<Id>a513</Id>
 		<DateBegin>2017-05-04</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -8738,7 +8738,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n514</Id>
+		<Id>a514</Id>
 		<DateBegin>2017-05-04</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -8755,7 +8755,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n515</Id>
+		<Id>a515</Id>
 		<DateBegin>2017-05-04</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -8772,7 +8772,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n516</Id>
+		<Id>a516</Id>
 		<DateBegin>2017-05-04</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -8789,7 +8789,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n517</Id>
+		<Id>a517</Id>
 		<DateBegin>2017-05-04</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -8806,7 +8806,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n518</Id>
+		<Id>a518</Id>
 		<DateBegin>2017-05-04</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -8823,7 +8823,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n519</Id>
+		<Id>a519</Id>
 		<DateBegin>2017-05-04</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -8840,7 +8840,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n520</Id>
+		<Id>a520</Id>
 		<DateBegin>2017-05-04</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -8857,7 +8857,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n521</Id>
+		<Id>a521</Id>
 		<DateBegin>2017-05-04</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -8874,7 +8874,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n522</Id>
+		<Id>a522</Id>
 		<DateBegin>2017-05-04</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -8891,7 +8891,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n523</Id>
+		<Id>a523</Id>
 		<DateBegin>2017-05-04</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -8908,7 +8908,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n524</Id>
+		<Id>a524</Id>
 		<DateBegin>2017-05-04</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -8925,7 +8925,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n525</Id>
+		<Id>a525</Id>
 		<DateBegin>2017-05-04</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -8942,7 +8942,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n526</Id>
+		<Id>a526</Id>
 		<DateBegin>2017-05-04</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -8959,7 +8959,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n527</Id>
+		<Id>a527</Id>
 		<DateBegin>2017-05-04</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -8976,7 +8976,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n528</Id>
+		<Id>a528</Id>
 		<DateBegin>2017-05-04</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -8993,7 +8993,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n529</Id>
+		<Id>a529</Id>
 		<DateBegin>2017-05-04</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -9010,7 +9010,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n530</Id>
+		<Id>a530</Id>
 		<DateBegin>2017-05-04</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -9027,7 +9027,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n531</Id>
+		<Id>a531</Id>
 		<DateBegin>2017-05-04</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -9044,7 +9044,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n532</Id>
+		<Id>a532</Id>
 		<DateBegin>2017-05-05</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -9061,7 +9061,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n533</Id>
+		<Id>a533</Id>
 		<DateBegin>2017-05-05</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -9078,7 +9078,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n534</Id>
+		<Id>a534</Id>
 		<DateBegin>2017-05-05</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -9095,7 +9095,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n535</Id>
+		<Id>a535</Id>
 		<DateBegin>2017-05-05</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -9112,7 +9112,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n536</Id>
+		<Id>a536</Id>
 		<DateBegin>2017-05-05</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -9129,7 +9129,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n537</Id>
+		<Id>a537</Id>
 		<DateBegin>2017-05-05</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -9146,7 +9146,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n538</Id>
+		<Id>a538</Id>
 		<DateBegin>2017-05-05</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -9163,7 +9163,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n539</Id>
+		<Id>a539</Id>
 		<DateBegin>2017-05-05</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -9180,7 +9180,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n540</Id>
+		<Id>a540</Id>
 		<DateBegin>2017-05-05</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -9197,7 +9197,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n541</Id>
+		<Id>a541</Id>
 		<DateBegin>2017-05-05</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -9214,7 +9214,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n542</Id>
+		<Id>a542</Id>
 		<DateBegin>2017-05-05</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -9231,7 +9231,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n543</Id>
+		<Id>a543</Id>
 		<DateBegin>2017-05-05</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -9248,7 +9248,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n544</Id>
+		<Id>a544</Id>
 		<DateBegin>2017-05-05</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -9265,7 +9265,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n545</Id>
+		<Id>a545</Id>
 		<DateBegin>2017-05-05</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -9282,7 +9282,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n546</Id>
+		<Id>a546</Id>
 		<DateBegin>2017-05-05</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -9299,7 +9299,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n547</Id>
+		<Id>a547</Id>
 		<DateBegin>2017-05-05</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -9316,7 +9316,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n548</Id>
+		<Id>a548</Id>
 		<DateBegin>2017-05-05</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -9333,7 +9333,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n549</Id>
+		<Id>a549</Id>
 		<DateBegin>2017-05-05</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -9350,7 +9350,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n550</Id>
+		<Id>a550</Id>
 		<DateBegin>2017-05-05</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -9367,7 +9367,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n551</Id>
+		<Id>a551</Id>
 		<DateBegin>2017-05-06</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -9384,7 +9384,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n552</Id>
+		<Id>a552</Id>
 		<DateBegin>2017-05-06</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -9401,7 +9401,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n553</Id>
+		<Id>a553</Id>
 		<DateBegin>2017-05-06</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -9418,7 +9418,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n554</Id>
+		<Id>a554</Id>
 		<DateBegin>2017-05-06</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -9435,7 +9435,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n555</Id>
+		<Id>a555</Id>
 		<DateBegin>2017-05-06</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -9452,7 +9452,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n556</Id>
+		<Id>a556</Id>
 		<DateBegin>2017-05-06</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -9469,7 +9469,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n557</Id>
+		<Id>a557</Id>
 		<DateBegin>2017-05-06</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -9486,7 +9486,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n558</Id>
+		<Id>a558</Id>
 		<DateBegin>2017-05-06</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -9503,7 +9503,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n559</Id>
+		<Id>a559</Id>
 		<DateBegin>2017-05-06</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -9520,7 +9520,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n560</Id>
+		<Id>a560</Id>
 		<DateBegin>2017-05-06</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -9537,7 +9537,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n561</Id>
+		<Id>a561</Id>
 		<DateBegin>2017-05-06</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -9554,7 +9554,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n562</Id>
+		<Id>a562</Id>
 		<DateBegin>2017-05-06</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -9571,7 +9571,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n563</Id>
+		<Id>a563</Id>
 		<DateBegin>2017-05-06</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -9588,7 +9588,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n564</Id>
+		<Id>a564</Id>
 		<DateBegin>2017-05-06</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -9605,7 +9605,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n565</Id>
+		<Id>a565</Id>
 		<DateBegin>2017-05-06</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -9622,7 +9622,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n566</Id>
+		<Id>a566</Id>
 		<DateBegin>2017-05-06</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -9639,7 +9639,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n567</Id>
+		<Id>a567</Id>
 		<DateBegin>2017-05-06</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -9656,7 +9656,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n568</Id>
+		<Id>a568</Id>
 		<DateBegin>2017-05-06</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
@@ -9673,7 +9673,7 @@
 		</Images>
 	</Ad>
 	<Ad>
-		<Id>n569</Id>
+		<Id>a569</Id>
 		<DateBegin>2017-05-06</DateBegin>
 		<AllowEmail>Да</AllowEmail>
 		<ManagerName>Оператор-консультант</ManagerName>
